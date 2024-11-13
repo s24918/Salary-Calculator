@@ -6,8 +6,8 @@ This project aims to create a predictive salary calculator based on a dataset of
 The dataset used for this project is the [2023 Data Science Salaries dataset](https://www.kaggle.com/datasets/arnabchaki/data-science-salaries-2023), available on Kaggle. It includes key information about job roles, locations, experience levels, and other factors that impact salary.
 
 ## Team
-- Andrii Nahornyi
-- Pavlo Khrapko
+- Andrii Nahornyi - s24918
+- Pavlo Khrapko - s25140
 
 ## Project Stages
 
