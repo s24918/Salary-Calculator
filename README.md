@@ -38,6 +38,9 @@ To streamline the dataset, we removed these columns:
 - `salary`
 - `salary_currency`
 - `employee_residence`
+
+## Research jupiter: https://colab.research.google.com/drive/1mIyVmtc3XKCYgpXhdIiblxZ0Ww_HxWtR?usp=sharing#scrollTo=QquoUfNhbFbY
+## GoogleDocs: https://docs.google.com/document/d/1EuC8f-OvJPzjxDJfr-RIRcSdHBXEpQsAWO2jOPjAe98/edit?tab=t.0
 - `remote_ratio`
 
 ## Prototype
