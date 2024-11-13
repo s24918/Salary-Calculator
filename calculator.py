@@ -1,5 +1,7 @@
 import streamlit as st
-import time
+import pandas as pd
+from src.preprocess import preprocess_data
+import lightgbm as lgb
 
 def main():
     st.sidebar.title("Panel boczny")
@@ -77,8 +79,27 @@ def main():
 
         if st.button("Predict", use_container_width=True):
             with st.spinner("Predicting..."):
-                time.sleep(2)
-                st.write("Nothing to show yet")
+                # convert the input to a dataframe and preprocess it
+                input_data = {
+                    "job_title": [job_title],
+                    "experience_level": [experience_level],
+                    "employment_type": [employment_type],
+                    "employee_residence": [employee_residence],
+                    "remote_ratio": [remote_ratio],
+                    "company_location": [company_location],
+                    "company_size": [company_size]
+                }
+                input_df = pd.DataFrame(input_data)
+                input_df['work_year']="2024"
+                input_df = preprocess_data(input_df)
+
+                #predict the salary
+                model = lgb.Booster(model_file='model/model.pkl')
+                prediction = model.predict(input_df)[0]
+                st.success(f"The predicted salary is: {prediction}")
+
+                
+
 
 if __name__ == "__main__":
     main()
