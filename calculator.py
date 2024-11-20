@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-from src.preprocess import preprocess_data
+from src.preprocess import preprocess_data, decode_labels_and_scalers
 import lightgbm as lgb
 
 def main():
@@ -80,6 +80,7 @@ def main():
         if st.button("Predict", use_container_width=True):
             with st.spinner("Predicting..."):
                 # convert the input to a dataframe and preprocess it
+                print(job_title)
                 input_data = {
                     "job_title": [job_title],
                     "experience_level": [experience_level],
@@ -90,13 +91,16 @@ def main():
                     "company_size": [company_size]
                 }
                 input_df = pd.DataFrame(input_data)
-                input_df['work_year']="2024"
+                input_df['work_year'] = 2024
                 input_df = preprocess_data(input_df)
-
+                print(input_data)
+                print(input_df)
                 #predict the salary
                 model = lgb.Booster(model_file='model/model.pkl')
                 prediction = model.predict(input_df)[0]
+                prediction = decode_labels_and_scalers(prediction)
                 st.success(f"The predicted salary is: {prediction}")
+
 
                 
 
