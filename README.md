@@ -17,21 +17,20 @@ The first stage involved checking the data quality, handling any missing values,
 ### Model Features
 We selected the following attributes to predict salaries effectively:
 
+- **job_title**: Job role of the employee
 - **experience_level**: Employee experience level with possible values:
   - EN (Entry-level/Junior)
   - MI (Mid-level/Intermediate)
   - SE (Senior-level)
   - EX (Executive-level/Director)
 - **employee_residence**: Primary country of residence (ISO country code)
-- **job_title**: Job role of the employee
-- **work_year**: Year in which the salary was paid
-- **employment_type**: Type of employment
-- **remote_ratio**: Percentage of work done remotely
 - **company_location**: Location of the company’s headquarters or branch where the contract was made (ISO country code)
+- **remote_ratio**: Percentage of work done remotely
 - **company_size**: Average number of employees in the company:
   - S (small) - fewer than 50 employees
   - M (medium) - 50 to 250 employees
   - L (large) - more than 250 employees
+- **work_year**: Year in which the salary was paid (automatically set to the current year when predicting)
 
 ### Removed Columns
 To streamline the dataset, we removed these columns:
@@ -39,8 +38,26 @@ To streamline the dataset, we removed these columns:
 - `salary_currency`
 - `employee_residence`
 - `remote_ratio`
+- `employment_type`
 
 ## Research jupiter: https://colab.research.google.com/drive/1mIyVmtc3XKCYgpXhdIiblxZ0Ww_HxWtR?usp=sharing#scrollTo=QquoUfNhbFbY
 
 ## Prototype
-In the prototype phase, we’ll use these attributes to build and train a machine learning model capable of estimating salaries based on job and company characteristics.
+### Running instructions
+
+1. Clone the repo
+```
+git clone https://github.com/s24918/Salary-Calculator.git
+```
+2. Install dependencies
+```
+pip install -r requirements.txt
+```
+3. Train the model
+```
+python train.py
+```
+4. Run the app
+```
+streamlit run calculator.py
+```
