@@ -123,8 +123,5 @@ def main():
                 st.success(f"The predicted salary is: {int(prediction[0])} USD")
 
 
-                
-
-
 if __name__ == "__main__":
     main()
