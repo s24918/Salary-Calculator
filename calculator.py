@@ -2,8 +2,8 @@ import streamlit as st
 import pandas as pd
 from src.preprocess import preprocess_data, decode_labels_and_scalers
 import lightgbm as lgb
-from sklearn.preprocessing import LabelEncoder, MinMaxScaler
 import pickle
+from datetime import datetime
 
 def get_column_values(column_name):
     try:
@@ -114,7 +114,7 @@ def main():
                     "company_size": [company_size]
                 }
                 input_df = pd.DataFrame(input_data)
-                input_df['work_year'] = 2024
+                input_df['work_year'] = datetime.now().year
                 input_df = preprocess_data(input_df)
                 #predict the salary
                 model = lgb.Booster(model_file='model/model.pkl')
