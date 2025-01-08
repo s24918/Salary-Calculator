@@ -1,3 +1,5 @@
-src/__pycache__/__init__.cpython-312.pyc
-src/__pycache__/preprocess.cpython-312.pyc
+__pycache__
+__pycache__
 .venv/
+model
+model/model.pkl

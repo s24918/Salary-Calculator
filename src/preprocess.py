@@ -17,12 +17,13 @@ def preprocess_data(df, train=False):
     
 
     # drop rows with rare job titles
-    job_titles = df["job_title"].value_counts()
-    df.drop(df[df["job_title"].isin(job_titles[job_titles < 5].index)].index, inplace=True)
-    print("Job_title counts:" + df["job_title"].value_counts())
-    employee_residences = df["employee_residence"].value_counts()
-    df.drop(df[df["employee_residence"].isin(employee_residences[employee_residences < 5].index)].index, inplace=True)
-    print("Employee_residence counts:" + df["employee_residence"].value_counts())
+    if train:
+        job_titles = df["job_title"].value_counts()
+        df.drop(df[df["job_title"].isin(job_titles[job_titles < 5].index)].index, inplace=True)
+        print("Job_title counts:" + str(df["job_title"].value_counts()))
+        employee_residences = df["employee_residence"].value_counts()
+        df.drop(df[df["employee_residence"].isin(employee_residences[employee_residences < 5].index)].index, inplace=True)
+        print("Employee_residence counts:" + str(df["employee_residence"].value_counts()))
 
     # check if there are any missing values
     missing_values = df.isnull().sum().sum()
@@ -84,7 +85,10 @@ def preprocess_data(df, train=False):
                 scalers[column] = scaler
             else:
                 scaler = scalers[column]
-            df.loc[:, column] = scaler.transform(df[column].values.reshape(-1, 1)).astype("float")
+            try:
+                df.loc[:, column] = scaler.transform(df[column].values.reshape(-1, 1)).astype("float")
+            except Exception as e:
+                raise ValueError(f"Failed to convert column {column} due to {e}")
         else:
             success = False
             print(f"Column {column} not converted as it is of type {df[column].dtype}")
