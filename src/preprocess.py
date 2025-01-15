@@ -16,14 +16,19 @@ def preprocess_data(df, train=False):
         df.drop("employment_type", axis=1, inplace=True)
     
 
-    # drop rows with rare job titles
+    # drop rows with rare values
     if train:
-        job_titles = df["job_title"].value_counts()
-        df.drop(df[df["job_title"].isin(job_titles[job_titles < 5].index)].index, inplace=True)
-        print("Job_title counts:" + str(df["job_title"].value_counts()))
-        employee_residences = df["employee_residence"].value_counts()
-        df.drop(df[df["employee_residence"].isin(employee_residences[employee_residences < 5].index)].index, inplace=True)
-        print("Employee_residence counts:" + str(df["employee_residence"].value_counts()))
+        for col in df.columns:
+            if df[col].dtype == "object":
+                value_counts = df[col].value_counts()
+                df = df[~df[col].isin(value_counts[value_counts < 10].index)]
+
+        # job_titles = df["job_title"].value_counts()
+        # df.drop(df[df["job_title"].isin(job_titles[job_titles < 5].index)].index, inplace=True)
+        # print("Job_title counts:" + str(df["job_title"].value_counts()))
+        # employee_residences = df["employee_residence"].value_counts()
+        # df.drop(df[df["employee_residence"].isin(employee_residences[employee_residences < 5].index)].index, inplace=True)
+        # print("Employee_residence counts:" + str(df["employee_residence"].value_counts()))
 
     # check if there are any missing values
     missing_values = df.isnull().sum().sum()
@@ -102,6 +107,11 @@ def preprocess_data(df, train=False):
             pickle.dump(label_encoders, f)
         with open("model/scalers.pkl", "wb") as f:
             pickle.dump(scalers, f)
+        # save df with sorted columns by occurance frequency for each column
+        df_sorted = decode_labels_and_scalers(df.copy(), target_single_value=False)
+        df_sorted = df_sorted[sorted(df_sorted.columns, key=lambda x: df[x].value_counts().index[0])]
+        df_sorted.to_csv("data/sorted_columns.csv", index=False)
+
     # mix the data
     df = shuffle(df, random_state=33).reset_index(drop=True)
 

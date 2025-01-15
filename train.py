@@ -16,10 +16,8 @@ X_train, X_test, y_train, y_test = train_test_split(data.drop('salary_in_usd', a
 # categorical = ['experience_level', 'employment_type', 'job_title', 'employee_residence', 'company_location', 'company_size']
 categorical = ['work_year', 'experience_level', 'job_title', 'employee_residence', 'remote_ratio', 'company_location', 'company_size']
 
-# Define the training data
 train_data = lgb.Dataset(X_train, label=y_train, categorical_feature=categorical)
 
-# Set the parameters for the LightGBMXT model
 # LightGBMXT: {'learning_rate': 0.05, 'extra_trees': True}
 params = {
     'learning_rate': 0.05,
@@ -29,18 +27,14 @@ params = {
     'extra_trees': True
 }
 
-# Train the LightGBMXT model
 model = lgb.train(params, train_data)
 
 # evaluate the model
 y_pred = model.predict(X_test)
 
-# compare the predictions with the actual values
 print(f"train: {y_pred[:5]}")
 print(f"test: {y_test[:5]}")
 
-# print RMSE
 print("RMSE:", root_mean_squared_error(y_test, y_pred))
 
-# save the model
 model.save_model('model/model.pkl')
