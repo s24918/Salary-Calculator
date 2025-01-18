@@ -79,10 +79,10 @@ def preprocess_data(df, train=False):
             if train:
                 le = LabelEncoder().fit(df[column])
                 label_encoders[column] = le
-                df.loc[:, column] = le.fit_transform(df[column])
+                df[column] = le.fit_transform(df[column])
             else:
                 le = label_encoders[column]
-                df.loc[:, column] = le.transform(df[column])
+                df[column] = le.transform(df[column])
             df[column] = df[column].astype("int32")
         elif str(df[column].dtype).startswith("int") or str(df[column].dtype).startswith("float"):
             if train:
@@ -91,7 +91,9 @@ def preprocess_data(df, train=False):
             else:
                 scaler = scalers[column]
             try:
-                df.loc[:, column] = scaler.transform(df[column].values.reshape(-1, 1)).astype("float")
+                # Convert to float64 before scaling
+                df[column] = df[column].astype("float64")
+                df[column] = scaler.transform(df[column].values.reshape(-1, 1)).ravel()
             except Exception as e:
                 raise ValueError(f"Failed to convert column {column} due to {e}")
         else:
@@ -129,8 +131,10 @@ def decode_labels_and_scalers(df, target_single_value=True):
     for column in df.columns:
         if df[column].dtype == "int32":
             le = label_encoders[column]
-            df.loc[:, column] = le.inverse_transform(df[column])
+            # Keep as integer until after inverse_transform
+            df[column] = le.inverse_transform(df[column].astype(int))
         elif df[column].dtype == "float64":
             scaler = scalers[column]
-            df.loc[:, column] = scaler.inverse_transform(df[column].values.reshape(-1, 1)).astype("int")
+            transformed = scaler.inverse_transform(df[column].values.reshape(-1, 1))
+            df[column] = transformed.ravel().astype("int64")
     return df
