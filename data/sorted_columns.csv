@@ -1,37 +1,46 @@
 remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_residence,company_location,job_title
-100,29999,2022,S,MI,US,US,ML Engineer
+100,85847,2022,L,SE,ES,ES,other
+100,30000,2022,S,MI,US,US,ML Engineer
 100,25500,2022,S,MI,US,US,ML Engineer
 100,175000,2022,M,SE,CA,CA,Data Scientist
-100,119999,2022,M,SE,CA,CA,Data Scientist
+100,120000,2022,M,SE,CA,CA,Data Scientist
 0,222200,2022,L,SE,US,US,Applied Scientist
 0,136000,2022,L,SE,US,US,Applied Scientist
 0,219000,2022,M,SE,CA,CA,Data Scientist
 0,141000,2022,M,SE,CA,CA,Data Scientist
 0,147100,2022,M,SE,US,US,Data Scientist
 0,90700,2022,M,SE,US,US,Data Scientist
-100,129999,2022,M,SE,US,US,Data Analyst
+100,130000,2022,M,SE,US,US,Data Analyst
 100,100000,2022,M,SE,US,US,Data Analyst
 0,213660,2022,L,EN,US,US,Applied Scientist
 0,130760,2022,L,EN,US,US,Applied Scientist
+0,147100,2022,M,SE,US,US,other
+0,90700,2022,M,SE,US,US,other
 0,170000,2022,M,SE,US,US,Data Scientist
 0,150000,2022,M,SE,US,US,Data Scientist
 100,150000,2022,M,MI,US,US,Data Analyst
 100,110000,2022,M,MI,US,US,Data Analyst
 0,275000,2022,M,SE,DE,DE,Research Engineer
 0,174000,2022,M,SE,DE,DE,Research Engineer
-100,229999,2022,M,SE,GB,GB,Analytics Engineer
+100,230000,2022,M,SE,GB,GB,Analytics Engineer
 100,143200,2022,M,SE,GB,GB,Analytics Engineer
-0,200000,2022,M,SE,US,US,Machine Learning Engineer
-0,129999,2022,M,SE,US,US,Machine Learning Engineer
+0,225000,2022,M,SE,US,US,other
+0,156400,2022,M,SE,US,US,other
+0,200000,2022,M,SE,US,US,ML Engineer
+0,130000,2022,M,SE,US,US,ML Engineer
+0,90000,2022,M,SE,CA,CA,other
+0,72000,2022,M,SE,CA,CA,other
 0,253200,2022,M,SE,US,US,Data Engineer
 0,90700,2022,M,SE,US,US,Data Engineer
 0,342810,2022,M,SE,US,US,Computer Vision Engineer
 0,184590,2022,M,SE,US,US,Computer Vision Engineer
 0,162500,2022,M,MI,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Data Engineer
+0,130000,2022,M,MI,US,US,Data Engineer
 0,105380,2022,M,MI,US,US,Data Analyst
-0,64499,2022,M,MI,US,US,Data Analyst
-50,20984,2022,L,MI,IN,IN,Machine Learning Engineer
+0,64500,2022,M,MI,US,US,Data Analyst
+100,100000,2022,L,EN,other,other,other
+100,30000,2022,L,EN,other,other,other
+50,20984,2022,L,MI,IN,IN,ML Engineer
 0,204620,2022,L,EN,US,US,Applied Scientist
 0,110680,2022,L,EN,US,US,Applied Scientist
 0,270703,2022,M,SE,US,US,Data Engineer
@@ -39,7 +48,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,212750,2022,M,SE,US,US,Data Scientist
 100,185000,2022,M,SE,US,US,Data Scientist
 100,262000,2022,M,SE,US,US,Data Scientist
-100,244999,2022,M,SE,US,US,Data Scientist
+100,245000,2022,M,SE,US,US,Data Scientist
 100,275300,2022,M,SE,US,US,Data Scientist
 100,183500,2022,M,SE,US,US,Data Scientist
 100,218500,2022,M,SE,US,US,Data Scientist
@@ -56,13 +65,13 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,110500,2022,M,SE,US,US,Data Scientist
 0,237999,2022,M,SE,US,US,Data Engineer
 0,176000,2022,M,SE,US,US,Data Engineer
-100,236999,2022,M,SE,US,US,Data Engineer
+100,237000,2022,M,SE,US,US,Data Engineer
 100,201450,2022,M,SE,US,US,Data Engineer
 0,309400,2022,L,SE,US,US,Applied Scientist
 0,159100,2022,L,SE,US,US,Applied Scientist
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
 0,81500,2022,M,SE,US,US,Data Engineer
-100,236999,2022,M,SE,US,US,Data Scientist
+100,237000,2022,M,SE,US,US,Data Scientist
 100,201450,2022,M,SE,US,US,Data Scientist
 0,280000,2022,M,SE,US,US,Computer Vision Engineer
 0,210000,2022,M,SE,US,US,Computer Vision Engineer
@@ -70,9 +79,13 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,168100,2022,M,SE,US,US,Data Architect
 100,193500,2022,M,SE,US,US,Data Engineer
 100,139000,2022,M,SE,US,US,Data Engineer
-100,150000,2022,M,SE,PT,US,Machine Learning Engineer
+0,65062,2022,L,MI,other,other,Data Scientist
+100,150000,2022,M,SE,PT,US,ML Engineer
+100,69751,2022,S,MI,IN,DE,other
 50,300000,2022,L,EN,IN,IN,AI Developer
-100,96578,2022,L,MI,NL,NL,Machine Learning Engineer
+100,96578,2022,L,MI,NL,NL,ML Engineer
+0,185900,2022,M,SE,US,US,other
+0,129299,2022,M,SE,US,US,other
 100,225000,2022,M,SE,US,US,Data Engineer
 100,175000,2022,M,SE,US,US,Data Engineer
 0,185000,2022,M,SE,US,US,Data Engineer
@@ -81,14 +94,14 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,38631,2022,M,SE,ES,ES,Data Scientist
 0,105000,2022,M,SE,US,US,Data Scientist
 0,70000,2022,M,SE,US,US,Data Scientist
-0,163196,2022,M,EN,US,US,Machine Learning Engineer
-0,145885,2022,M,EN,US,US,Machine Learning Engineer
+0,163196,2022,M,EN,US,US,ML Engineer
+0,145885,2022,M,EN,US,US,ML Engineer
 100,217000,2022,M,SE,US,US,Data Engineer
 100,185000,2022,M,SE,US,US,Data Engineer
 0,202800,2022,L,SE,US,US,Data Analyst
 0,104300,2022,L,SE,US,US,Data Analyst
 0,145000,2022,M,SE,US,US,Data Analyst
-0,64999,2022,M,SE,US,US,Data Analyst
+0,65000,2022,M,SE,US,US,Data Analyst
 0,165000,2022,M,SE,US,US,Data Engineer
 0,132300,2022,M,SE,US,US,Data Engineer
 0,179170,2022,M,SE,US,US,Data Engineer
@@ -100,125 +113,136 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,203000,2022,M,SE,US,US,Research Engineer
 0,133000,2022,M,SE,US,US,Research Engineer
 50,220000,2022,L,EN,US,US,Research Scientist
+100,56536,2022,S,EN,other,other,ML Engineer
 0,150000,2022,M,SE,US,US,Data Scientist
-0,119999,2022,M,SE,US,US,Data Scientist
+0,120000,2022,M,SE,US,US,Data Scientist
 0,289800,2022,M,SE,US,US,Analytics Engineer
 0,214000,2022,M,SE,US,US,Analytics Engineer
 0,179820,2022,M,SE,US,US,Analytics Engineer
 0,143860,2022,M,SE,US,US,Analytics Engineer
-100,283200,2022,M,SE,US,US,Machine Learning Engineer
-100,188800,2022,M,SE,US,US,Machine Learning Engineer
+100,283200,2022,M,SE,US,US,ML Engineer
+100,188800,2022,M,SE,US,US,ML Engineer
 0,289800,2022,M,SE,US,US,Analytics Engineer
 0,214200,2022,M,SE,US,US,Analytics Engineer
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
 0,155000,2022,M,MI,US,US,Data Analytics Manager
 0,140000,2022,M,MI,US,US,Data Analytics Manager
 100,161800,2022,M,SE,US,US,Data Engineer
 100,141600,2022,M,SE,US,US,Data Engineer
-0,342300,2022,L,SE,US,US,Machine Learning Engineer
-0,176100,2022,L,SE,US,US,Machine Learning Engineer
+0,342300,2022,L,SE,US,US,ML Engineer
+0,176100,2022,L,SE,US,US,ML Engineer
 100,100000,2022,M,MI,US,US,Data Engineer
 100,70000,2022,M,MI,US,US,Data Engineer
 0,85000,2022,M,EN,US,US,Data Engineer
-0,64999,2022,M,EN,US,US,Data Engineer
+0,65000,2022,M,EN,US,US,Data Engineer
 100,138784,2022,M,SE,US,US,Data Scientist
 100,83270,2022,M,SE,US,US,Data Scientist
 0,75000,2022,M,EN,US,US,Data Analyst
 0,70000,2022,M,EN,US,US,Data Analyst
 0,204500,2022,M,SE,US,US,Data Analyst
 0,138900,2022,M,SE,US,US,Data Analyst
-100,318300,2022,M,SE,US,US,Machine Learning Engineer
-100,212200,2022,M,SE,US,US,Machine Learning Engineer
+100,318300,2022,M,SE,US,US,ML Engineer
+100,212200,2022,M,SE,US,US,ML Engineer
 100,95000,2022,M,SE,US,US,Data Engineer
 100,75000,2022,M,SE,US,US,Data Engineer
 0,195000,2022,M,SE,US,US,Data Scientist
 0,160000,2022,M,SE,US,US,Data Scientist
-0,229999,2022,M,SE,US,US,Analytics Engineer
+0,230000,2022,M,SE,US,US,Analytics Engineer
 0,143200,2022,M,SE,US,US,Analytics Engineer
 100,100000,2022,M,MI,US,US,Data Engineer
 100,70000,2022,M,MI,US,US,Data Engineer
 50,105000,2022,L,MI,US,US,Business Data Analyst
-100,20670,2022,L,MI,IN,IN,Applied Data Scientist
+100,20670,2022,L,MI,IN,IN,other
 0,46178,2022,M,MI,GB,GB,Data Analyst
 0,42533,2022,M,MI,GB,GB,Data Analyst
 0,145000,2022,M,SE,US,US,Data Engineer
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
 0,168400,2022,M,SE,US,US,Data Analyst
 0,105200,2022,M,SE,US,US,Data Analyst
 0,309400,2022,L,SE,US,US,Applied Scientist
 0,159100,2022,L,SE,US,US,Applied Scientist
-0,190000,2022,M,SE,US,US,Machine Learning Engineer
-0,150000,2022,M,SE,US,US,Machine Learning Engineer
+0,190000,2022,M,SE,US,US,ML Engineer
+0,150000,2022,M,SE,US,US,ML Engineer
 0,162500,2022,M,MI,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Data Engineer
+0,130000,2022,M,MI,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Analytics Engineer
-100,119999,2022,M,SE,US,US,Analytics Engineer
+100,120000,2022,M,SE,US,US,Analytics Engineer
 0,145000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,222200,2022,L,SE,US,US,Applied Scientist
 0,136000,2022,L,SE,US,US,Applied Scientist
-0,240999,2022,M,SE,US,US,Data Engineer
+100,54685,2022,M,SE,other,other,Data Analyst
+100,42533,2022,M,SE,other,other,Data Analyst
+0,241000,2022,M,SE,US,US,Data Engineer
 0,155000,2022,M,SE,US,US,Data Engineer
 100,220000,2022,M,SE,US,US,Data Engineer
 100,190000,2022,M,SE,US,US,Data Engineer
 0,66837,2022,M,MI,GB,GB,Data Scientist
 0,54685,2022,M,MI,GB,GB,Data Scientist
+0,15000,2019,M,EX,other,CA,other
+100,85066,2022,M,MI,GB,GB,other
+100,57723,2022,M,MI,GB,GB,other
 100,85000,2022,M,EN,US,US,Data Analyst
 100,75000,2022,M,EN,US,US,Data Analyst
 0,160000,2022,M,SE,US,US,Data Engineer
 0,140000,2022,M,SE,US,US,Data Engineer
-0,300000,2022,M,MI,US,US,Machine Learning Engineer
-0,249999,2022,M,MI,US,US,Machine Learning Engineer
-0,228000,2022,M,SE,US,US,Data Scientist
+0,300000,2022,M,MI,US,US,ML Engineer
+0,250000,2022,M,MI,US,US,ML Engineer
+0,227999,2022,M,SE,US,US,Data Scientist
 0,186000,2022,M,SE,US,US,Data Scientist
 0,190000,2022,M,SE,US,US,Data Scientist
 0,170000,2022,M,SE,US,US,Data Scientist
-0,229999,2022,M,MI,US,US,Research Engineer
+0,230000,2022,M,MI,US,US,Research Engineer
 0,200000,2022,M,MI,US,US,Research Engineer
 100,180000,2022,M,SE,US,US,Data Architect
-100,114999,2022,M,SE,US,US,Data Architect
+100,115000,2022,M,SE,US,US,Data Architect
 100,200000,2022,M,SE,US,US,Data Architect
-100,114999,2022,M,SE,US,US,Data Architect
+100,115000,2022,M,SE,US,US,Data Architect
+50,53654,2022,S,SE,FR,FR,other
 0,220000,2022,M,EX,US,US,Data Engineer
 0,205000,2022,M,EX,US,US,Data Engineer
 0,180000,2022,M,MI,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Data Engineer
+0,130000,2022,M,MI,US,US,Data Engineer
 100,200000,2022,M,SE,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Data Engineer
 0,215000,2022,M,SE,US,US,Computer Vision Engineer
 0,170000,2022,M,SE,US,US,Computer Vision Engineer
-0,247500,2022,M,SE,US,US,Machine Learning Engineer
-0,172200,2022,M,SE,US,US,Machine Learning Engineer
+0,247500,2022,M,SE,US,US,ML Engineer
+0,172200,2022,M,SE,US,US,ML Engineer
 0,224000,2022,M,SE,CA,CA,Data Scientist
 0,176000,2022,M,SE,CA,CA,Data Scientist
-100,119999,2022,M,SE,US,US,Data Analyst
+100,120000,2022,M,SE,US,US,Data Analyst
 100,75000,2022,M,SE,US,US,Data Analyst
 100,17022,2022,L,EN,IN,IN,Data Engineer
+100,68318,2022,M,SE,AU,other,other
+0,75020,2022,M,MI,other,other,AI Developer
 0,140000,2022,M,SE,US,US,Data Analyst
-0,119999,2022,M,SE,US,US,Data Analyst
-0,127999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Analyst
+0,128000,2022,M,SE,US,US,Data Engineer
 0,81500,2022,M,SE,US,US,Data Engineer
 0,145000,2022,M,SE,US,US,Data Engineer
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
 0,185000,2022,M,SE,US,US,Data Engineer
 0,140000,2022,M,SE,US,US,Data Engineer
-0,329500,2022,M,EX,US,US,Head of Data
-0,269600,2022,M,EX,US,US,Head of Data
-0,249999,2022,M,SE,US,US,Data Scientist
+0,329500,2022,M,EX,US,US,other
+0,269600,2022,M,EX,US,US,other
+0,100000,2022,M,SE,US,US,other
+0,80000,2022,M,SE,US,US,other
+0,250000,2022,M,SE,US,US,Data Scientist
 0,162500,2022,M,SE,US,US,Data Scientist
 100,200000,2022,M,MI,US,US,AI Developer
 0,145000,2022,M,SE,US,US,Data Engineer
 0,100000,2022,M,SE,US,US,Data Engineer
 0,145000,2022,M,EX,US,US,Data Engineer
-0,114999,2022,M,EX,US,US,Data Engineer
+0,115000,2022,M,EX,US,US,Data Engineer
 0,203500,2022,M,SE,US,US,Data Scientist
 0,152000,2022,M,SE,US,US,Data Scientist
-0,238999,2022,L,SE,US,US,Data Scientist
+0,239000,2022,L,SE,US,US,Data Scientist
 0,122900,2022,L,SE,US,US,Data Scientist
-0,236999,2022,M,SE,US,US,Data Scientist
+0,237000,2022,M,SE,US,US,Data Scientist
 0,145000,2022,M,SE,US,US,Data Scientist
 0,191765,2022,M,SE,US,US,Data Science Manager
 0,134236,2022,M,SE,US,US,Data Science Manager
@@ -226,7 +250,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,112000,2022,M,SE,US,US,Analytics Engineer
 100,88256,2022,L,SE,ES,GB,Data Scientist
 0,85000,2022,M,EN,US,US,Data Engineer
-0,64999,2022,M,EN,US,US,Data Engineer
+0,65000,2022,M,EN,US,US,Data Engineer
 0,135000,2022,M,SE,US,US,Data Analyst
 0,105500,2022,M,SE,US,US,Data Analyst
 0,293000,2022,M,SE,US,US,Research Engineer
@@ -241,19 +265,19 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,148500,2022,M,SE,US,US,Data Analyst
 0,48289,2022,M,SE,ES,ES,Data Scientist
 0,38631,2022,M,SE,ES,ES,Data Scientist
-0,240500,2022,L,SE,US,US,Data Engineer
+0,240499,2022,L,SE,US,US,Data Engineer
 0,123700,2022,L,SE,US,US,Data Engineer
 100,152900,2022,M,SE,US,US,Analytics Engineer
 100,117100,2022,M,SE,US,US,Analytics Engineer
 100,173000,2022,M,SE,US,US,Analytics Engineer
 100,113000,2022,M,SE,US,US,Analytics Engineer
-0,259999,2022,L,SE,US,US,Applied Scientist
+0,260000,2022,L,SE,US,US,Applied Scientist
 0,136000,2022,L,SE,US,US,Applied Scientist
 0,175000,2022,M,EX,US,US,Data Engineer
 0,110000,2022,M,EX,US,US,Data Engineer
-0,259999,2022,L,SE,US,US,Applied Scientist
+0,260000,2022,L,SE,US,US,Applied Scientist
 0,136000,2022,L,SE,US,US,Applied Scientist
-100,129999,2022,M,SE,US,US,Research Scientist
+100,130000,2022,M,SE,US,US,Research Scientist
 100,110000,2022,M,SE,US,US,Research Scientist
 100,205000,2022,M,SE,US,US,Applied Scientist
 100,184000,2022,M,SE,US,US,Applied Scientist
@@ -274,24 +298,24 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,221000,2022,M,EX,US,US,Analytics Engineer
 100,153000,2022,M,EX,US,US,Analytics Engineer
 0,187000,2022,M,SE,US,US,Data Analyst
-0,127999,2022,M,SE,US,US,Data Analyst
+0,128000,2022,M,SE,US,US,Data Analyst
 0,210000,2022,M,SE,US,US,Research Scientist
 0,136000,2022,M,SE,US,US,Research Scientist
 100,175000,2022,M,SE,US,US,Data Scientist
 100,100000,2022,M,SE,US,US,Data Scientist
 0,179000,2022,M,SE,US,US,Data Engineer
 0,109000,2022,M,SE,US,US,Data Engineer
-0,244999,2022,M,SE,US,US,Data Scientist
+0,245000,2022,M,SE,US,US,Data Scientist
 0,180000,2022,M,SE,US,US,Data Scientist
 100,142000,2022,M,SE,US,US,Data Analyst
 100,75000,2022,M,SE,US,US,Data Analyst
 0,198800,2022,M,SE,US,US,Data Manager
 0,105200,2022,M,SE,US,US,Data Manager
-100,124999,2022,M,SE,US,US,Data Analyst
+100,125000,2022,M,SE,US,US,Data Analyst
 100,112000,2022,M,SE,US,US,Data Analyst
 0,210000,2022,M,SE,US,US,Data Scientist
 0,155000,2022,M,SE,US,US,Data Scientist
-100,114999,2022,M,SE,US,US,Data Manager
+100,115000,2022,M,SE,US,US,Data Manager
 100,86000,2022,M,SE,US,US,Data Manager
 0,165000,2022,M,SE,US,US,Data Scientist
 0,140000,2022,M,SE,US,US,Data Scientist
@@ -299,25 +323,26 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,106000,2022,M,SE,US,US,Data Analyst
 0,40663,2022,L,EN,CA,CA,Data Analyst
 0,275000,2022,S,SE,CA,CA,AI Developer
-100,280700,2022,M,MI,US,US,Machine Learning Engineer
-100,150450,2022,M,MI,US,US,Machine Learning Engineer
+50,50000,2022,S,SE,other,other,other
+100,280700,2022,M,MI,US,US,ML Engineer
+100,150450,2022,M,MI,US,US,ML Engineer
 100,51753,2022,L,EN,CA,CA,Data Scientist
 0,250500,2022,M,SE,US,US,Data Architect
 0,159500,2022,M,SE,US,US,Data Architect
 0,145000,2022,M,SE,US,US,Data Engineer
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
 0,140000,2022,M,SE,US,US,Data Analyst
-0,119999,2022,M,SE,US,US,Data Analyst
-100,130001,2022,M,EN,US,US,Data Scientist
+0,120000,2022,M,SE,US,US,Data Analyst
+100,130000,2022,M,EN,US,US,Data Scientist
 100,71907,2022,M,EN,US,US,Data Scientist
 100,93918,2022,M,MI,US,US,Data Scientist
 100,51962,2022,M,MI,US,US,Data Scientist
 100,175000,2022,M,SE,CA,CA,Data Analyst
 100,135000,2022,M,SE,CA,CA,Data Analyst
 0,85000,2022,M,EN,US,US,Data Engineer
-0,64999,2022,M,EN,US,US,Data Engineer
-0,256999,2022,M,SE,US,US,Machine Learning Engineer
-0,147000,2022,M,SE,US,US,Machine Learning Engineer
+0,65000,2022,M,EN,US,US,Data Engineer
+0,257000,2022,M,SE,US,US,ML Engineer
+0,147000,2022,M,SE,US,US,ML Engineer
 100,222000,2022,M,SE,US,US,Data Engineer
 100,175000,2022,M,SE,US,US,Data Engineer
 100,203000,2022,M,SE,US,US,Data Scientist
@@ -326,33 +351,35 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,130760,2022,L,EN,US,US,Applied Scientist
 0,221000,2022,M,SE,US,US,Data Engineer
 0,147000,2022,M,SE,US,US,Data Engineer
+0,100000,2022,M,SE,US,US,other
+0,80000,2022,M,SE,US,US,other
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 100,237999,2022,M,SE,US,US,Data Scientist
 100,156000,2022,M,SE,US,US,Data Scientist
-100,304000,2022,M,SE,US,US,Machine Learning Engineer
-100,199000,2022,M,SE,US,US,Machine Learning Engineer
+100,304000,2022,M,SE,US,US,ML Engineer
+100,199000,2022,M,SE,US,US,ML Engineer
 100,48289,2022,M,MI,ES,ES,Big Data Engineer
 0,150000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
 100,140000,2022,M,SE,US,US,Data Scientist
 100,110000,2022,M,SE,US,US,Data Scientist
 0,90000,2022,M,MI,US,US,Data Analyst
 0,75000,2022,M,MI,US,US,Data Analyst
 0,195895,2022,M,MI,GB,GB,Research Scientist
 0,102772,2022,M,MI,GB,GB,Research Scientist
-0,239999,2022,M,SE,US,US,Data Engineer
+0,240000,2022,M,SE,US,US,Data Engineer
 0,183600,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Data Specialist
+0,130000,2022,M,MI,US,US,Data Specialist
 0,80000,2022,M,MI,US,US,Data Specialist
-0,249999,2022,M,SE,US,US,Data Engineer
+0,250000,2022,M,SE,US,US,Data Engineer
 0,150000,2022,M,SE,US,US,Data Engineer
 100,160000,2022,M,SE,US,US,Data Analytics Manager
-100,119999,2022,M,SE,US,US,Data Analytics Manager
-0,289076,2022,M,SE,US,US,Machine Learning Engineer
-0,202353,2022,M,SE,US,US,Machine Learning Engineer
+100,120000,2022,M,SE,US,US,Data Analytics Manager
+0,289076,2022,M,SE,US,US,ML Engineer
+0,202353,2022,M,SE,US,US,ML Engineer
 0,145000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,155000,2022,M,SE,US,US,Data Analyst
 0,106000,2022,M,SE,US,US,Data Analyst
 0,200000,2022,M,SE,US,US,Data Engineer
@@ -363,11 +390,13 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,140000,2022,M,MI,US,US,Data Scientist
 0,200000,2022,M,EX,US,US,Data Scientist
 0,145000,2022,M,EX,US,US,Data Scientist
+0,68000,2022,L,MI,US,US,other
+100,60000,2022,M,EN,US,US,other
 0,48289,2022,M,SE,ES,ES,Data Scientist
 0,38631,2022,M,SE,ES,ES,Data Scientist
 0,85000,2022,M,EN,US,US,Data Engineer
-0,64999,2022,M,EN,US,US,Data Engineer
-0,124999,2022,M,MI,US,US,Data Engineer
+0,65000,2022,M,EN,US,US,Data Engineer
+0,125000,2022,M,MI,US,US,Data Engineer
 0,90000,2022,M,MI,US,US,Data Engineer
 100,105000,2022,M,SE,US,US,Data Analyst
 100,90000,2022,M,SE,US,US,Data Analyst
@@ -376,10 +405,10 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,135000,2022,M,SE,US,US,Data Analyst
 0,105500,2022,M,SE,US,US,Data Analyst
 0,155000,2022,M,EN,US,US,Research Engineer
-0,124999,2022,M,EN,US,US,Research Engineer
-0,240999,2022,M,SE,US,US,Machine Learning Engineer
-0,181000,2022,M,SE,US,US,Machine Learning Engineer
-0,251999,2022,M,SE,US,US,Data Scientist
+0,125000,2022,M,EN,US,US,Research Engineer
+0,241000,2022,M,SE,US,US,ML Engineer
+0,181000,2022,M,SE,US,US,ML Engineer
+0,252000,2022,M,SE,US,US,Data Scientist
 0,154000,2022,M,SE,US,US,Data Scientist
 0,180000,2022,M,EX,US,US,Data Architect
 0,155000,2022,M,EX,US,US,Data Architect
@@ -387,49 +416,51 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,134236,2022,M,SE,US,US,Data Scientist
 100,175000,2022,M,SE,US,US,Data Scientist
 100,145000,2022,M,SE,US,US,Data Scientist
-100,236999,2022,M,SE,US,US,Data Scientist
+100,237000,2022,M,SE,US,US,Data Scientist
 100,145000,2022,M,SE,US,US,Data Scientist
 0,155000,2022,M,EN,US,US,Research Engineer
-0,124999,2022,M,EN,US,US,Research Engineer
+0,125000,2022,M,EN,US,US,Research Engineer
 0,80000,2022,M,SE,US,US,Data Analyst
 0,70000,2022,M,SE,US,US,Data Analyst
 0,146000,2022,M,SE,US,US,Data Engineer
 0,75000,2022,M,SE,US,US,Data Engineer
 100,64200,2022,M,EN,US,US,Data Analyst
 100,56100,2022,M,EN,US,US,Data Analyst
-0,170000,2022,M,SE,US,US,Machine Learning Engineer
-0,129999,2022,M,SE,US,US,Machine Learning Engineer
+0,170000,2022,M,SE,US,US,ML Engineer
+0,130000,2022,M,SE,US,US,ML Engineer
 100,208450,2022,M,SE,US,US,Data Analyst
 100,170550,2022,M,SE,US,US,Data Analyst
-0,124999,2022,M,SE,US,US,Machine Learning Engineer
-0,100000,2022,M,SE,US,US,Machine Learning Engineer
+0,125000,2022,M,SE,US,US,ML Engineer
+0,100000,2022,M,SE,US,US,ML Engineer
 0,135000,2022,M,MI,US,US,Data Manager
-0,119999,2022,M,MI,US,US,Data Manager
+0,120000,2022,M,MI,US,US,Data Manager
 100,200000,2022,M,SE,US,US,Data Scientist
 100,170000,2022,M,SE,US,US,Data Scientist
+0,171250,2022,M,SE,other,other,Data Scientist
+0,113750,2022,M,SE,other,other,Data Scientist
 0,222200,2022,L,SE,US,US,Applied Scientist
 0,136000,2022,L,SE,US,US,Applied Scientist
-0,259999,2022,L,SE,US,US,Applied Scientist
+0,260000,2022,L,SE,US,US,Applied Scientist
 0,136000,2022,L,SE,US,US,Applied Scientist
 0,153600,2022,M,SE,US,US,Data Analyst
 0,100500,2022,M,SE,US,US,Data Analyst
 100,205000,2022,M,SE,US,US,Applied Scientist
 100,184000,2022,M,SE,US,US,Applied Scientist
-100,114999,2022,M,SE,CA,CA,Machine Learning Engineer
-100,95000,2022,M,SE,CA,CA,Machine Learning Engineer
+100,115000,2022,M,SE,CA,CA,ML Engineer
+100,95000,2022,M,SE,CA,CA,ML Engineer
 0,182500,2022,M,MI,US,US,Data Analyst
-0,121499,2022,M,MI,US,US,Data Analyst
+0,121500,2022,M,MI,US,US,Data Analyst
 0,203100,2022,M,SE,US,US,Data Engineer
 0,114500,2022,M,SE,US,US,Data Engineer
 0,72914,2022,M,MI,GB,GB,Data Analyst
 0,54685,2022,M,MI,GB,GB,Data Analyst
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
 100,92700,2022,M,EN,US,US,Data Engineer
 100,61800,2022,M,EN,US,US,Data Engineer
 100,160000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
-0,257999,2022,M,SE,CA,CA,Data Scientist
+100,130000,2022,M,SE,US,US,Data Engineer
+0,258000,2022,M,SE,CA,CA,Data Scientist
 0,190000,2022,M,SE,CA,CA,Data Scientist
 0,170000,2022,M,SE,US,US,Data Scientist
 0,135000,2022,M,SE,US,US,Data Scientist
@@ -439,7 +470,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,160000,2022,M,SE,US,US,Data Scientist
 0,146000,2022,M,MI,US,US,Data Engineer
 0,75000,2022,M,MI,US,US,Data Engineer
-100,59887,2022,L,EN,NL,NL,Data Engineer
+100,59888,2022,L,EN,NL,NL,Data Engineer
 100,286000,2022,M,EX,US,US,Data Engineer
 100,207000,2022,M,EX,US,US,Data Engineer
 100,100000,2022,M,SE,US,US,Data Analyst
@@ -448,7 +479,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,178600,2022,M,SE,US,US,Data Engineer
 0,353200,2022,M,EX,US,US,Director of Data Science
 0,249300,2022,M,EX,US,US,Director of Data Science
-0,229999,2022,M,MI,US,US,Machine Learning Scientist
+0,230000,2022,M,MI,US,US,Machine Learning Scientist
 0,220000,2022,M,MI,US,US,Machine Learning Scientist
 100,297300,2022,M,SE,US,US,Data Scientist
 100,198200,2022,M,SE,US,US,Data Scientist
@@ -458,56 +489,61 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,170000,2022,M,SE,US,US,Data Scientist
 0,317070,2022,M,SE,US,US,Data Scientist
 0,170730,2022,M,SE,US,US,Data Scientist
-0,127999,2022,M,SE,US,US,Data Engineer
+0,128000,2022,M,SE,US,US,Data Engineer
 0,81500,2022,M,SE,US,US,Data Engineer
 0,21461,2022,M,EN,ES,ES,Business Data Analyst
+0,108000,2022,M,SE,other,other,AI Developer
+0,60000,2022,M,SE,other,other,AI Developer
+100,134000,2022,M,MI,US,US,other
+100,124000,2022,M,MI,US,US,other
 0,171250,2022,M,SE,US,US,Data Engineer
 0,113750,2022,M,SE,US,US,Data Engineer
 0,165000,2022,M,SE,US,US,Data Engineer
 0,132300,2022,M,SE,US,US,Data Engineer
 0,225000,2022,M,SE,US,US,Data Scientist
 0,175000,2022,M,SE,US,US,Data Scientist
-0,229999,2022,M,SE,US,US,Data Engineer
+0,230000,2022,M,SE,US,US,Data Engineer
 0,124499,2022,M,SE,US,US,Data Engineer
-0,247500,2022,M,SE,US,US,Machine Learning Engineer
-0,172200,2022,M,SE,US,US,Machine Learning Engineer
+0,247500,2022,M,SE,US,US,ML Engineer
+0,172200,2022,M,SE,US,US,ML Engineer
 0,175000,2022,M,SE,US,US,Data Analyst
 0,145000,2022,M,SE,US,US,Data Analyst
 0,148700,2022,M,SE,US,US,Data Analyst
 0,125600,2022,M,SE,US,US,Data Analyst
 0,145000,2022,M,SE,US,US,Data Engineer
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
 0,200000,2022,M,SE,US,US,Research Scientist
 0,150000,2022,M,SE,US,US,Research Scientist
 0,160000,2022,M,EN,US,US,Research Engineer
-0,119999,2022,M,EN,US,US,Research Engineer
+0,120000,2022,M,EN,US,US,Research Engineer
 100,185000,2022,M,SE,US,US,Data Analyst
-100,120250,2022,M,SE,US,US,Data Analyst
+100,120249,2022,M,SE,US,US,Data Analyst
 100,275300,2022,M,SE,US,US,Data Scientist
 100,183000,2022,M,SE,US,US,Data Scientist
 100,170000,2022,M,SE,US,US,Data Architect
-100,124999,2022,M,SE,US,US,Data Architect
+100,125000,2022,M,SE,US,US,Data Architect
 0,167500,2022,M,MI,US,US,Data Architect
 0,106500,2022,M,MI,US,US,Data Architect
-0,249999,2022,M,SE,US,US,Research Scientist
+0,250000,2022,M,SE,US,US,Research Scientist
 0,200000,2022,M,SE,US,US,Research Scientist
-50,135000,2022,L,MI,US,US,Machine Learning Engineer
-100,216000,2022,M,SE,US,US,Machine Learning Engineer
-100,184000,2022,M,SE,US,US,Machine Learning Engineer
+50,135000,2022,L,MI,US,US,ML Engineer
+0,423834,2022,L,SE,other,other,AI Scientist
+100,216000,2022,M,SE,US,US,ML Engineer
+100,184000,2022,M,SE,US,US,ML Engineer
 100,180000,2022,M,SE,US,US,Data Engineer
 100,165000,2022,M,SE,US,US,Data Engineer
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 0,145000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,143865,2022,M,MI,US,US,Data Engineer
 0,115092,2022,M,MI,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Machine Learning Engineer
-0,90000,2022,M,MI,US,US,Machine Learning Engineer
+0,130000,2022,M,MI,US,US,ML Engineer
+0,90000,2022,M,MI,US,US,ML Engineer
 100,173000,2022,M,SE,US,US,Data Scientist
 100,132000,2022,M,SE,US,US,Data Scientist
 0,208049,2022,M,SE,US,US,Data Analyst
-0,128499,2022,M,SE,US,US,Data Analyst
+0,128500,2022,M,SE,US,US,Data Analyst
 0,179820,2022,M,SE,US,US,Analytics Engineer
 0,143860,2022,M,SE,US,US,Analytics Engineer
 0,167500,2022,M,SE,US,US,Data Engineer
@@ -522,7 +558,9 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,95000,2022,M,SE,US,US,Data Analyst
 0,153600,2022,M,SE,US,US,Data Analyst
 0,106800,2022,M,SE,US,US,Data Analyst
-0,127999,2022,M,MI,US,US,Data Analyst
+0,96578,2022,M,MI,other,other,Data Scientist
+0,80481,2022,M,MI,other,other,Data Scientist
+0,128000,2022,M,MI,US,US,Data Analyst
 0,85000,2022,M,MI,US,US,Data Analyst
 0,151000,2022,M,MI,US,US,Data Engineer
 0,140000,2022,M,MI,US,US,Data Engineer
@@ -534,6 +572,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,105500,2022,M,SE,US,US,Data Analyst
 100,100000,2022,M,SE,US,US,Data Analyst
 100,80000,2022,M,SE,US,US,Data Analyst
+0,7000,2022,S,EN,other,other,other
 50,42923,2022,M,EN,DE,DE,Applied Machine Learning Scientist
 100,160000,2022,M,SE,CA,CA,Data Engineer
 100,145000,2022,M,SE,CA,CA,Data Engineer
@@ -542,7 +581,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,78990,2022,M,MI,GB,GB,Data Scientist
 0,51039,2022,M,MI,GB,GB,Data Scientist
 0,190000,2022,M,EN,US,US,Data Scientist
-0,119999,2022,M,EN,US,US,Data Scientist
+0,120000,2022,M,EN,US,US,Data Scientist
 0,85066,2022,M,MI,GB,GB,Data Scientist
 0,51039,2022,M,MI,GB,GB,Data Scientist
 0,109371,2022,M,MI,GB,GB,Data Scientist
@@ -550,56 +589,59 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,150000,2022,M,SE,US,US,Data Engineer
 0,111000,2022,M,SE,US,US,Data Engineer
 0,265000,2022,M,EX,US,US,Data Engineer
-0,234999,2022,M,EX,US,US,Data Engineer
+0,235000,2022,M,EX,US,US,Data Engineer
+50,121092,2022,L,EN,other,other,Data Scientist
 100,73546,2022,M,MI,DE,DE,Data Scientist
 100,160000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,Data Engineer
 100,75000,2022,M,MI,US,US,Data Engineer
 100,60400,2022,M,MI,US,US,Data Engineer
 100,85000,2022,M,EN,US,US,Data Analyst
 100,75000,2022,M,EN,US,US,Data Analyst
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
 100,92700,2022,M,EN,US,US,Data Engineer
 100,61800,2022,M,EN,US,US,Data Engineer
+100,172309,2022,L,SE,other,other,other
+100,60093,2022,M,MI,other,DE,Data Scientist
 100,83500,2022,M,MI,US,US,Data Analyst
 100,52500,2022,M,MI,US,US,Data Analyst
 0,201036,2022,M,SE,US,US,Data Scientist
 0,134024,2022,M,SE,US,US,Data Scientist
 100,165000,2022,M,SE,US,US,Data Analyst
 100,140000,2022,M,SE,US,US,Data Analyst
-100,61999,2022,M,EN,US,US,Data Engineer
-100,57999,2022,M,EN,US,US,Data Engineer
+100,62000,2022,M,EN,US,US,Data Engineer
+100,58000,2022,M,EN,US,US,Data Engineer
 0,172000,2022,M,SE,US,US,Data Scientist
-0,114999,2022,M,SE,US,US,Data Scientist
-0,124999,2022,M,EN,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Scientist
+0,125000,2022,M,EN,US,US,Data Engineer
 0,90000,2022,M,EN,US,US,Data Engineer
 0,163800,2022,M,SE,US,US,Data Engineer
-0,125999,2022,M,SE,US,US,Data Engineer
-100,236999,2022,M,SE,US,US,Data Scientist
+0,126000,2022,M,SE,US,US,Data Engineer
+100,237000,2022,M,SE,US,US,Data Scientist
 100,145000,2022,M,SE,US,US,Data Scientist
 100,90000,2022,M,MI,US,US,Data Engineer
 100,90000,2022,M,MI,US,US,Data Engineer
 0,139500,2022,M,SE,US,US,Data Engineer
 0,109400,2022,M,SE,US,US,Data Engineer
-0,257999,2022,M,SE,CA,CA,Data Scientist
+0,258000,2022,M,SE,CA,CA,Data Scientist
 0,190000,2022,M,SE,CA,CA,Data Scientist
 0,145000,2022,M,MI,US,US,Data Engineer
-0,119999,2022,M,MI,US,US,Data Engineer
+0,120000,2022,M,MI,US,US,Data Engineer
 0,205600,2022,L,SE,US,US,Data Engineer
 0,105700,2022,L,SE,US,US,Data Engineer
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
-0,239747,2022,M,SE,US,US,Data Scientist
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
+0,239748,2022,M,SE,US,US,Data Scientist
 0,159832,2022,M,SE,US,US,Data Scientist
 100,186300,2022,M,SE,US,US,Data Scientist
 100,102500,2022,M,SE,US,US,Data Scientist
 0,165000,2022,M,SE,US,US,Data Engineer
 0,132300,2022,M,SE,US,US,Data Engineer
 0,190000,2022,M,SE,US,US,Data Scientist
-0,125999,2022,M,SE,US,US,Data Scientist
+0,126000,2022,M,SE,US,US,Data Scientist
 100,149040,2022,M,SE,US,US,Data Architect
-100,113900,2022,M,SE,US,US,Data Architect
+100,113899,2022,M,SE,US,US,Data Architect
 100,153600,2022,M,SE,US,US,Data Engineer
 100,106800,2022,M,SE,US,US,Data Engineer
 100,172600,2022,M,SE,US,US,Data Engineer
@@ -611,36 +653,39 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,153600,2022,M,SE,US,US,Data Analyst
 0,100500,2022,M,SE,US,US,Data Analyst
 100,206500,2022,M,SE,US,US,Data Analyst
-100,121600,2022,M,SE,US,US,Data Analyst
-0,259999,2022,M,SE,US,US,Data Engineer
+100,121599,2022,M,SE,US,US,Data Analyst
+0,260000,2022,M,SE,US,US,Data Engineer
 0,225000,2022,M,SE,US,US,Data Engineer
 0,194500,2022,M,EX,US,US,Data Engineer
-0,115499,2022,M,EX,US,US,Data Engineer
+0,115500,2022,M,EX,US,US,Data Engineer
+100,170000,2022,L,SE,US,US,other
 100,90000,2022,L,SE,US,US,Applied Machine Learning Scientist
 100,95000,2022,M,EN,US,US,Data Analyst
 100,70000,2022,M,EN,US,US,Data Analyst
 0,275000,2022,M,SE,US,US,Data Engineer
 0,160000,2022,M,SE,US,US,Data Engineer
-100,115934,2022,M,SE,US,US,Data Analyst
+100,115933,2022,M,SE,US,US,Data Analyst
 100,81666,2022,M,SE,US,US,Data Analyst
 0,175000,2022,M,SE,US,US,Data Scientist
-0,119999,2022,M,SE,US,US,Data Scientist
-100,150000,2022,M,SE,US,US,Machine Learning Engineer
-100,119999,2022,M,SE,US,US,Machine Learning Engineer
+0,120000,2022,M,SE,US,US,Data Scientist
+100,150000,2022,M,SE,US,US,ML Engineer
+100,120000,2022,M,SE,US,US,ML Engineer
 0,200000,2022,M,SE,US,US,Research Engineer
 0,175000,2022,M,SE,US,US,Research Engineer
 0,206000,2022,M,MI,US,US,Data Analyst
-0,129999,2022,M,MI,US,US,Data Analyst
+0,130000,2022,M,MI,US,US,Data Analyst
 100,138000,2022,M,SE,GB,GB,Data Architect
 100,92000,2022,M,SE,GB,GB,Data Architect
+0,65000,2022,M,SE,other,other,Data Manager
+0,48000,2022,M,SE,other,other,Data Manager
 100,110000,2022,M,SE,US,US,Data Analyst
 100,75000,2022,M,SE,US,US,Data Analyst
-0,129999,2022,M,SE,US,US,Analytics Engineer
+0,130000,2022,M,SE,US,US,Analytics Engineer
 0,87000,2022,M,SE,US,US,Analytics Engineer
 0,160000,2022,M,MI,US,US,Data Analyst
 0,112000,2022,M,MI,US,US,Data Analyst
 0,162500,2022,M,MI,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Data Engineer
+0,130000,2022,M,MI,US,US,Data Engineer
 0,299500,2022,M,SE,US,US,Data Science Manager
 0,245100,2022,M,SE,US,US,Data Science Manager
 0,145000,2022,M,MI,US,US,Data Scientist
@@ -666,28 +711,35 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,140000,2022,M,MI,US,US,Data Engineer
 0,95000,2022,M,MI,US,US,Data Engineer
 100,185000,2022,M,SE,US,US,Data Analyst
-100,120250,2022,M,SE,US,US,Data Analyst
+100,120249,2022,M,SE,US,US,Data Analyst
+100,130000,2022,L,MI,US,US,other
 0,205000,2022,M,SE,US,US,Data Scientist
 0,140000,2022,M,SE,US,US,Data Scientist
 100,297300,2022,M,SE,US,US,Data Scientist
 100,198200,2022,M,SE,US,US,Data Scientist
 0,141288,2022,M,SE,US,US,Research Scientist
 0,94192,2022,M,SE,US,US,Research Scientist
+100,184000,2022,M,SE,US,US,other
+100,143000,2022,M,SE,US,US,other
 0,70000,2022,M,SE,US,US,Data Analyst
 0,55000,2022,M,SE,US,US,Data Analyst
 100,275300,2022,M,SE,US,US,Analytics Engineer
 100,183500,2022,M,SE,US,US,Analytics Engineer
 100,75000,2022,M,MI,US,US,Data Analyst
-100,64999,2022,M,MI,US,US,Data Analyst
+100,65000,2022,M,MI,US,US,Data Analyst
 0,160000,2022,M,MI,US,US,ML Engineer
 0,147000,2022,M,MI,US,US,ML Engineer
 100,149040,2022,M,SE,US,US,Data Architect
-100,113900,2022,M,SE,US,US,Data Architect
+100,113899,2022,M,SE,US,US,Data Architect
+100,75020,2022,L,MI,other,other,other
 0,180180,2022,M,SE,US,US,Data Analyst
 0,106020,2022,M,SE,US,US,Data Analyst
 100,17022,2022,L,MI,IN,IN,Data Scientist
-0,249999,2022,M,MI,US,US,Machine Learning Engineer
-0,150000,2022,M,MI,US,US,Machine Learning Engineer
+0,70000,2022,L,EN,IN,AU,other
+50,80000,2022,M,EN,other,other,AI Developer
+50,18238,2022,L,MI,IN,IN,other
+0,250000,2022,M,MI,US,US,ML Engineer
+0,150000,2022,M,MI,US,US,ML Engineer
 0,139500,2022,M,SE,US,US,Data Engineer
 0,109400,2022,M,SE,US,US,Data Engineer
 0,105000,2022,M,SE,US,US,Data Scientist
@@ -699,44 +751,47 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,146000,2022,M,SE,US,US,Data Engineer
 0,75000,2022,M,SE,US,US,Data Engineer
 100,75000,2022,M,EN,US,US,Data Analyst
-100,59999,2022,M,EN,US,US,Data Analyst
+100,60000,2022,M,EN,US,US,Data Analyst
 0,185700,2022,M,MI,US,US,Analytics Engineer
 0,165000,2022,M,MI,US,US,Analytics Engineer
 100,160000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,Data Engineer
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
-100,193000,2022,M,SE,US,US,Data Operations Engineer
-100,136850,2022,M,SE,US,US,Data Operations Engineer
-0,139500,2022,M,SE,US,US,Machine Learning Engineer
-0,109400,2022,M,SE,US,US,Machine Learning Engineer
+100,193000,2022,M,SE,US,US,other
+100,136850,2022,M,SE,US,US,other
+0,139500,2022,M,SE,US,US,ML Engineer
+0,109400,2022,M,SE,US,US,ML Engineer
 100,276000,2022,M,SE,US,US,Data Engineer
 100,178500,2022,M,SE,US,US,Data Engineer
-0,59019,2022,M,MI,ES,ES,Data Scientist
+0,59020,2022,M,MI,ES,ES,Data Scientist
 0,48289,2022,M,MI,ES,ES,Data Scientist
-0,195652,2022,M,SE,GB,GB,Machine Learning Engineer
-0,101228,2022,M,SE,GB,GB,Machine Learning Engineer
+100,75116,2022,M,MI,other,other,Data Engineer
+100,48289,2022,M,MI,other,other,Data Engineer
+0,195652,2022,M,SE,GB,GB,ML Engineer
+0,101228,2022,M,SE,GB,GB,ML Engineer
 0,136956,2022,M,SE,GB,GB,Data Engineer
 0,101228,2022,M,SE,GB,GB,Data Engineer
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
-100,129999,2022,L,SE,US,US,BI Developer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
+100,130000,2022,L,SE,US,US,BI Developer
+100,150000,2021,M,MI,US,US,other
 0,163800,2022,M,SE,US,US,Data Engineer
-0,125999,2022,M,SE,US,US,Data Engineer
-100,259999,2022,M,SE,CA,CA,ML Engineer
+0,126000,2022,M,SE,US,US,Data Engineer
+100,260000,2022,M,SE,CA,CA,ML Engineer
 100,110000,2022,M,SE,CA,CA,ML Engineer
 100,170000,2022,M,SE,US,US,Analytics Engineer
-100,129999,2022,M,SE,US,US,Analytics Engineer
-0,247500,2022,M,SE,US,US,Machine Learning Engineer
-0,172200,2022,M,SE,US,US,Machine Learning Engineer
-0,239747,2022,M,SE,US,US,Data Scientist
+100,130000,2022,M,SE,US,US,Analytics Engineer
+0,247500,2022,M,SE,US,US,ML Engineer
+0,172200,2022,M,SE,US,US,ML Engineer
+0,239748,2022,M,SE,US,US,Data Scientist
 0,159832,2022,M,SE,US,US,Data Scientist
-0,163800,2022,M,SE,US,US,Machine Learning Engineer
-0,125999,2022,M,SE,US,US,Machine Learning Engineer
+0,163800,2022,M,SE,US,US,ML Engineer
+0,126000,2022,M,SE,US,US,ML Engineer
 0,128750,2022,M,MI,US,US,Data Scientist
 0,106250,2022,M,MI,US,US,Data Scientist
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
 0,299500,2022,M,SE,US,US,Data Science Manager
 0,245100,2022,M,SE,US,US,Data Science Manager
 0,155000,2022,M,MI,US,US,Data Analytics Manager
@@ -744,23 +799,26 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,167500,2022,M,EX,US,US,Data Engineer
 0,106500,2022,M,EX,US,US,Data Engineer
 100,188500,2022,M,SE,US,US,Data Architect
-100,116999,2022,M,SE,US,US,Data Architect
-100,249999,2022,M,SE,US,US,Data Analyst
+100,117000,2022,M,SE,US,US,Data Architect
+100,250000,2022,M,SE,US,US,Data Analyst
 100,138000,2022,M,SE,US,US,Data Analyst
-100,129999,2022,M,MI,CA,CA,Data Analyst
+100,130000,2022,M,MI,CA,CA,Data Analyst
 100,100000,2022,M,MI,CA,CA,Data Analyst
+0,123405,2022,L,SE,DE,DE,other
 0,140000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
+0,160000,2022,M,SE,US,US,other
+0,135000,2022,M,SE,US,US,other
 0,104500,2022,M,MI,US,US,Data Science Manager
 0,70000,2022,M,MI,US,US,Data Science Manager
 0,90000,2022,M,MI,US,US,Data Science Consultant
 0,70000,2022,M,MI,US,US,Data Science Consultant
 100,153600,2022,M,SE,US,US,Data Engineer
 100,106800,2022,M,SE,US,US,Data Engineer
-0,124999,2022,M,EN,US,US,Data Engineer
+0,125000,2022,M,EN,US,US,Data Engineer
 0,90000,2022,M,EN,US,US,Data Engineer
 100,185000,2022,M,MI,US,US,Research Scientist
-100,124999,2022,M,MI,US,US,Research Scientist
+100,125000,2022,M,MI,US,US,Research Scientist
 100,126999,2022,M,SE,US,US,Data Analyst
 100,94000,2022,M,SE,US,US,Data Analyst
 0,210550,2022,M,SE,US,US,Data Scientist
@@ -768,36 +826,42 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,200000,2022,M,MI,US,US,Data Scientist
 100,150000,2022,M,MI,US,US,Data Scientist
 100,161500,2022,M,SE,US,US,Data Analyst
-100,119499,2022,M,SE,US,US,Data Analyst
+100,119500,2022,M,SE,US,US,Data Analyst
 0,175000,2022,M,SE,US,US,Data Analyst
 0,145000,2022,M,SE,US,US,Data Analyst
 0,175000,2022,M,SE,US,US,Data Scientist
 0,148750,2022,M,SE,US,US,Data Scientist
+0,105000,2022,M,SE,US,US,other
+0,85000,2022,M,SE,US,US,other
 0,215000,2022,M,SE,US,US,Research Scientist
 0,146300,2022,M,SE,US,US,Research Scientist
 100,214618,2022,L,EN,DE,DE,AI Developer
-0,153400,2022,M,SE,US,US,Machine Learning Engineer
-0,122700,2022,M,SE,US,US,Machine Learning Engineer
-0,259999,2022,M,MI,US,US,Data Engineer
+100,72000,2022,M,MI,other,other,Data Engineer
+100,60000,2022,M,MI,other,other,Data Engineer
+0,153400,2022,M,SE,US,US,ML Engineer
+0,122700,2022,M,SE,US,US,ML Engineer
+0,260000,2022,M,MI,US,US,Data Engineer
 0,175000,2022,M,MI,US,US,Data Engineer
 100,186300,2022,M,SE,US,US,Data Scientist
 100,123900,2022,M,SE,US,US,Data Scientist
 100,340000,2022,M,MI,US,US,Research Scientist
 100,150000,2022,M,MI,US,US,Research Scientist
-0,153400,2022,M,SE,US,US,Machine Learning Engineer
-0,122700,2022,M,SE,US,US,Machine Learning Engineer
-0,249999,2022,M,MI,US,US,Data Engineer
+0,153400,2022,M,SE,US,US,ML Engineer
+0,122700,2022,M,SE,US,US,ML Engineer
+0,250000,2022,M,MI,US,US,Data Engineer
 0,175000,2022,M,MI,US,US,Data Engineer
 50,64385,2022,M,MI,FR,FR,Data Scientist
 0,185900,2022,M,SE,US,US,Data Analyst
-0,121700,2022,M,SE,US,US,Data Analyst
+0,121699,2022,M,SE,US,US,Data Analyst
 0,153600,2022,M,SE,US,US,Data Analyst
 0,106800,2022,M,SE,US,US,Data Analyst
-0,247500,2022,M,SE,US,US,Machine Learning Engineer
-0,172200,2022,M,SE,US,US,Machine Learning Engineer
+50,50000,2022,M,SE,other,AU,other
+100,100000,2022,L,EN,other,US,Data Analyst
+0,247500,2022,M,SE,US,US,ML Engineer
+0,172200,2022,M,SE,US,US,ML Engineer
 100,310000,2022,M,EX,US,US,Data Engineer
-100,238999,2022,M,EX,US,US,Data Engineer
-0,124999,2022,M,SE,US,US,Data Analyst
+100,239000,2022,M,EX,US,US,Data Engineer
+0,125000,2022,M,SE,US,US,Data Analyst
 0,110000,2022,M,SE,US,US,Data Analyst
 0,150000,2022,M,EN,US,US,Data Analyst
 0,100000,2022,M,EN,US,US,Data Analyst
@@ -805,50 +869,50 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,82365,2022,M,SE,US,US,Data Scientist
 0,146000,2022,M,MI,US,US,Data Engineer
 0,75000,2022,M,MI,US,US,Data Engineer
-0,139500,2022,M,SE,US,US,Machine Learning Engineer
-0,109400,2022,M,SE,US,US,Machine Learning Engineer
+0,139500,2022,M,SE,US,US,ML Engineer
+0,109400,2022,M,SE,US,US,ML Engineer
 0,139500,2022,M,SE,US,US,Data Engineer
 0,109400,2022,M,SE,US,US,Data Engineer
 0,149600,2022,M,MI,US,US,Data Engineer
 0,102000,2022,M,MI,US,US,Data Engineer
 0,97218,2022,M,MI,GB,GB,Data Analyst
 0,48609,2022,M,MI,GB,GB,Data Analyst
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
 0,95000,2022,M,SE,US,US,Data Analyst
 0,85500,2022,M,SE,US,US,Data Analyst
 0,185900,2022,M,SE,US,US,Data Analyst
-0,121700,2022,M,SE,US,US,Data Analyst
+0,121699,2022,M,SE,US,US,Data Analyst
 0,150000,2022,M,EN,US,US,Research Scientist
 0,100000,2022,M,EN,US,US,Research Scientist
 0,145000,2022,M,MI,US,US,Data Engineer
-0,124999,2022,M,MI,US,US,Data Engineer
+0,125000,2022,M,MI,US,US,Data Engineer
 100,150000,2022,M,MI,US,US,Data Scientist
 100,97750,2022,M,MI,US,US,Data Scientist
 0,201000,2022,M,SE,US,US,Data Scientist
 0,121999,2022,M,SE,US,US,Data Scientist
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
-100,119999,2022,M,SE,US,US,Data Analyst
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
+100,120000,2022,M,SE,US,US,Data Analyst
 100,75000,2022,M,SE,US,US,Data Analyst
 100,116990,2022,M,MI,US,US,Data Scientist
 100,82920,2022,M,MI,US,US,Data Scientist
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 0,200000,2022,S,MI,US,US,Machine Learning Scientist
-0,124999,2022,S,MI,US,US,Machine Learning Scientist
+0,125000,2022,S,MI,US,US,Machine Learning Scientist
 0,201000,2022,M,SE,US,US,Data Scientist
 0,121999,2022,M,SE,US,US,Data Scientist
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
 0,155000,2022,M,SE,US,US,Data Manager
 0,140000,2022,M,SE,US,US,Data Manager
 0,205920,2022,M,MI,US,US,Machine Learning Infrastructure Engineer
 0,171600,2022,M,MI,US,US,Machine Learning Infrastructure Engineer
-100,121499,2022,M,SE,US,US,Data Engineer
+100,121500,2022,M,SE,US,US,Data Engineer
 100,78000,2022,M,SE,US,US,Data Engineer
 0,154000,2022,M,MI,US,US,Data Engineer
-0,115999,2022,M,MI,US,US,Data Engineer
+0,116000,2022,M,MI,US,US,Data Engineer
 0,190000,2022,M,SE,US,US,Data Scientist
 0,136000,2022,M,SE,US,US,Data Scientist
 100,78990,2022,M,MI,GB,GB,Data Analyst
@@ -860,11 +924,11 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,170000,2022,M,SE,US,US,Data Engineer
 0,140000,2022,M,SE,US,US,Data Engineer
 0,154000,2022,M,SE,US,US,Data Engineer
-0,115999,2022,M,SE,US,US,Data Engineer
+0,116000,2022,M,SE,US,US,Data Engineer
 100,160000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,Data Engineer
 0,200000,2022,M,MI,US,US,Data Engineer
-0,119999,2022,M,MI,US,US,Data Engineer
+0,120000,2022,M,MI,US,US,Data Engineer
 100,175000,2022,M,SE,US,US,Data Scientist
 100,160000,2022,M,SE,US,US,Data Scientist
 0,127599,2022,M,MI,GB,GB,Data Engineer
@@ -876,122 +940,134 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,225000,2022,M,SE,US,US,Data Scientist
 0,156400,2022,M,SE,US,US,Data Scientist
 0,150000,2022,M,SE,US,US,Analytics Engineer
-0,119999,2022,M,SE,US,US,Analytics Engineer
-0,163800,2022,M,SE,US,US,Machine Learning Engineer
-0,125999,2022,M,SE,US,US,Machine Learning Engineer
+0,120000,2022,M,SE,US,US,Analytics Engineer
+0,163800,2022,M,SE,US,US,ML Engineer
+0,126000,2022,M,SE,US,US,ML Engineer
 100,145000,2022,M,SE,US,US,Data Analyst
 100,90000,2022,M,SE,US,US,Data Analyst
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
 0,95000,2022,M,SE,US,US,Data Analyst
 0,85500,2022,M,SE,US,US,Data Analyst
 0,167500,2022,M,SE,US,US,Data Engineer
 0,106500,2022,M,SE,US,US,Data Engineer
 0,163800,2022,M,SE,US,US,Data Engineer
-0,125999,2022,M,SE,US,US,Data Engineer
+0,126000,2022,M,SE,US,US,Data Engineer
 0,155000,2022,M,MI,US,US,Data Analytics Manager
 0,140000,2022,M,MI,US,US,Data Analytics Manager
-0,249999,2022,M,SE,US,US,Research Scientist
+0,250000,2022,M,SE,US,US,Research Scientist
 0,200000,2022,M,SE,US,US,Research Scientist
-0,259999,2022,M,SE,US,US,Data Scientist
+0,260000,2022,M,SE,US,US,Data Scientist
 0,186000,2022,M,SE,US,US,Data Scientist
 100,160000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,Data Engineer
 0,200000,2022,M,SE,US,US,Research Scientist
 0,150000,2022,M,SE,US,US,Research Scientist
 0,48289,2022,M,SE,ES,ES,Data Scientist
 0,38631,2022,M,SE,ES,ES,Data Scientist
 0,150000,2022,M,SE,US,US,Data Scientist
-0,119999,2022,M,SE,US,US,Data Scientist
-50,29999,2022,M,EN,IN,IN,Data Analyst
+0,120000,2022,M,SE,US,US,Data Scientist
+50,30000,2022,M,EN,IN,IN,Data Analyst
 0,185000,2022,M,MI,US,US,Research Scientist
-0,124999,2022,M,MI,US,US,Research Scientist
+0,125000,2022,M,MI,US,US,Research Scientist
 100,34320,2022,S,EN,US,US,Data Analyst
 100,9289,2022,M,MI,BR,BR,Business Data Analyst
-100,75116,2022,L,SE,PT,PT,Head of Data
+100,75116,2022,L,SE,PT,PT,other
+0,106000,2022,L,EX,other,other,Data Science Manager
 100,175000,2022,M,SE,US,US,Data Analyst
-100,129999,2022,M,SE,US,US,Data Analyst
+100,130000,2022,M,SE,US,US,Data Analyst
 100,121999,2022,M,SE,US,US,Data Analyst
 100,93800,2022,M,SE,US,US,Data Analyst
+100,150000,2022,M,SE,other,other,Data Science Manager
+100,90000,2022,M,SE,other,other,Data Science Manager
 100,165000,2022,M,SE,US,US,Data Analyst
 100,112000,2022,M,SE,US,US,Data Analyst
 0,220000,2022,M,EN,US,US,Computer Vision Engineer
 100,71897,2022,M,SE,DE,DE,BI Data Analyst
 0,64385,2022,M,EN,DE,DE,AI Developer
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
 100,15806,2022,S,SE,IN,IN,Data Analyst
-0,200000,2022,M,MI,US,US,Machine Learning Engineer
-0,175000,2022,M,MI,US,US,Machine Learning Engineer
+0,200000,2022,M,MI,US,US,ML Engineer
+0,175000,2022,M,MI,US,US,ML Engineer
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
 0,185900,2022,M,SE,US,US,Data Analyst
-0,121700,2022,M,SE,US,US,Data Analyst
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+0,121699,2022,M,SE,US,US,Data Analyst
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
 50,40000,2022,L,MI,FR,FR,Data Scientist
+50,29453,2022,M,SE,other,other,Data Science Consultant
 0,180180,2022,M,SE,US,US,Data Analyst
 0,106020,2022,M,SE,US,US,Data Analyst
 100,136000,2022,M,SE,US,US,Data Scientist
 100,104000,2022,M,SE,US,US,Data Scientist
-0,124999,2022,M,SE,US,US,Data Analyst
+0,125000,2022,M,SE,US,US,Data Analyst
 0,110000,2022,M,SE,US,US,Data Analyst
-0,153400,2022,M,SE,US,US,Machine Learning Engineer
-0,122700,2022,M,SE,US,US,Machine Learning Engineer
+0,153400,2022,M,SE,US,US,ML Engineer
+0,122700,2022,M,SE,US,US,ML Engineer
 100,310000,2022,M,EX,US,US,Data Engineer
-100,238999,2022,M,EX,US,US,Data Engineer
+100,239000,2022,M,EX,US,US,Data Engineer
 0,152380,2022,M,SE,US,US,Data Analyst
 0,121904,2022,M,SE,US,US,Data Analyst
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
-0,247500,2022,M,SE,US,US,Machine Learning Engineer
-0,172200,2022,M,SE,US,US,Machine Learning Engineer
+0,129299,2022,M,SE,US,US,Data Scientist
+0,247500,2022,M,SE,US,US,ML Engineer
+0,172200,2022,M,SE,US,US,ML Engineer
 0,168400,2022,M,SE,US,US,Data Architect
 0,105200,2022,M,SE,US,US,Data Architect
-0,128280,2022,M,SE,US,US,Machine Learning Engineer
-0,106900,2022,M,SE,US,US,Machine Learning Engineer
+0,128279,2022,M,SE,US,US,ML Engineer
+0,106900,2022,M,SE,US,US,ML Engineer
+100,192000,2022,L,SE,US,US,other
 0,140000,2022,M,MI,US,US,Data Engineer
 0,100000,2022,M,MI,US,US,Data Engineer
 100,107309,2022,S,SE,DE,DE,Research Engineer
 100,85847,2022,S,SE,DE,DE,Research Engineer
-0,275000,2022,M,SE,DE,DE,Machine Learning Engineer
-0,174000,2022,M,SE,DE,DE,Machine Learning Engineer
+0,275000,2022,M,SE,DE,DE,ML Engineer
+0,174000,2022,M,SE,DE,DE,ML Engineer
 0,139500,2022,M,SE,US,US,Data Engineer
 0,109400,2022,M,SE,US,US,Data Engineer
-0,139500,2022,M,SE,US,US,Machine Learning Engineer
-0,109400,2022,M,SE,US,US,Machine Learning Engineer
+0,139500,2022,M,SE,US,US,ML Engineer
+0,109400,2022,M,SE,US,US,ML Engineer
 100,170500,2022,M,SE,US,US,Data Analyst
 100,85000,2022,M,SE,US,US,Data Analyst
 0,72946,2022,M,SE,GB,GB,Data Manager
 0,54365,2022,M,SE,GB,GB,Data Manager
+0,160288,2022,M,EX,GB,GB,other
+0,127467,2022,M,EX,GB,GB,other
 0,80000,2022,M,SE,US,US,Data Engineer
-0,64999,2022,M,SE,US,US,Data Engineer
-0,124739,2022,M,SE,US,US,Data Engineer
-0,65487,2022,M,SE,US,US,Data Engineer
+0,65000,2022,M,SE,US,US,Data Engineer
+0,124740,2022,M,SE,US,US,Data Engineer
+0,65488,2022,M,SE,US,US,Data Engineer
+0,72200,2022,M,SE,US,US,other
+0,64979,2022,M,SE,US,US,other
 0,153600,2022,M,SE,US,US,Data Engineer
 0,106800,2022,M,SE,US,US,Data Engineer
 100,179975,2022,M,SE,US,US,Data Analyst
 100,86466,2022,M,SE,US,US,Data Analyst
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,90000,2022,M,SE,US,US,Data Engineer
+0,51039,2022,M,MI,GB,GB,other
+0,42533,2022,M,MI,GB,GB,other
 0,149076,2022,M,SE,US,US,Data Scientist
 0,82365,2022,M,SE,US,US,Data Scientist
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
 0,175000,2022,M,SE,US,US,Data Science Manager
-0,119999,2022,M,SE,US,US,Data Science Manager
-0,229999,2022,M,SE,US,US,Data Analyst
+0,120000,2022,M,SE,US,US,Data Science Manager
+0,230000,2022,M,SE,US,US,Data Analyst
 0,180000,2022,M,SE,US,US,Data Analyst
 0,153600,2022,M,SE,US,US,Data Analyst
 0,106800,2022,M,SE,US,US,Data Analyst
 0,140000,2022,M,SE,US,US,Data Manager
-0,119999,2022,M,SE,US,US,Data Manager
+0,120000,2022,M,SE,US,US,Data Manager
 0,205920,2022,M,SE,US,US,Machine Learning Infrastructure Engineer
 0,171600,2022,M,SE,US,US,Machine Learning Infrastructure Engineer
 100,165000,2022,M,SE,US,US,Data Analyst
-100,124999,2022,M,SE,US,US,Data Analyst
+100,125000,2022,M,SE,US,US,Data Analyst
 0,265000,2022,M,SE,US,US,Data Engineer
 0,185000,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,MI,US,US,other
 100,168000,2022,M,EN,US,US,Data Scientist
 50,38631,2022,L,MI,ES,ES,AI Scientist
 0,95000,2022,M,SE,US,US,Data Analyst
@@ -1003,17 +1079,19 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,202000,2022,M,SE,US,US,Data Engineer
 100,135000,2022,M,SE,US,US,Data Engineer
 0,163800,2022,M,SE,US,US,Data Engineer
-0,125999,2022,M,SE,US,US,Data Engineer
-0,163800,2022,M,SE,US,US,Machine Learning Engineer
-0,125999,2022,M,SE,US,US,Machine Learning Engineer
+0,126000,2022,M,SE,US,US,Data Engineer
+0,163800,2022,M,SE,US,US,ML Engineer
+0,126000,2022,M,SE,US,US,ML Engineer
 100,104000,2022,M,SE,US,US,Data Engineer
-100,64999,2022,M,SE,US,US,Data Engineer
-0,229999,2022,M,SE,US,US,Research Engineer
+100,65000,2022,M,SE,US,US,Data Engineer
+0,230000,2022,M,SE,US,US,Research Engineer
 0,148000,2022,M,SE,US,US,Research Engineer
-100,269000,2022,M,SE,CA,CA,Machine Learning Engineer
-100,158000,2022,M,SE,CA,CA,Machine Learning Engineer
+100,269000,2022,M,SE,CA,CA,ML Engineer
+100,158000,2022,M,SE,CA,CA,ML Engineer
 0,197000,2022,M,SE,US,US,Analytics Engineer
 0,106000,2022,M,SE,US,US,Analytics Engineer
+100,150000,2022,M,MI,US,US,other
+100,100000,2022,M,MI,US,US,other
 100,290000,2022,M,SE,US,US,Data Engineer
 100,210000,2022,M,SE,US,US,Data Engineer
 0,192000,2022,M,SE,US,US,Data Engineer
@@ -1027,8 +1105,8 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,169000,2022,M,SE,US,US,Data Manager
 0,100000,2022,M,SE,US,US,Data Manager
 0,370000,2022,M,SE,US,US,Data Scientist
-0,244999,2022,M,SE,US,US,Data Scientist
-100,115446,2022,L,MI,GB,GB,Data Engineer
+0,245000,2022,M,SE,US,US,Data Scientist
+100,115447,2022,L,MI,GB,GB,Data Engineer
 100,110000,2022,S,SE,US,US,Data Analyst
 100,80000,2022,S,SE,US,US,Data Analyst
 0,55000,2022,M,EN,US,US,Data Analyst
@@ -1037,90 +1115,102 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,85000,2022,M,SE,US,US,Data Analyst
 100,137500,2022,M,SE,US,US,Data Engineer
 100,81500,2022,M,SE,US,US,Data Engineer
-0,323300,2022,M,SE,US,US,Machine Learning Engineer
-0,184700,2022,M,SE,US,US,Machine Learning Engineer
-100,186000,2022,M,SE,US,US,Machine Learning Engineer
-100,153088,2022,M,SE,US,US,Machine Learning Engineer
-100,200000,2022,M,SE,US,US,Machine Learning Engineer
-100,150000,2022,M,SE,US,US,Machine Learning Engineer
-100,239999,2022,M,SE,US,US,Machine Learning Engineer
-100,180000,2022,M,SE,US,US,Machine Learning Engineer
-100,200000,2022,M,SE,US,US,Machine Learning Engineer
-100,150000,2022,M,SE,US,US,Machine Learning Engineer
+0,323300,2022,M,SE,US,US,ML Engineer
+0,184700,2022,M,SE,US,US,ML Engineer
+0,30000,2021,S,MI,other,other,AI Scientist
+100,186000,2022,M,SE,US,US,ML Engineer
+100,153088,2022,M,SE,US,US,ML Engineer
+100,190000,2022,M,MI,US,US,other
+100,160000,2022,M,MI,US,US,other
+100,200000,2022,M,SE,US,US,ML Engineer
+100,150000,2022,M,SE,US,US,ML Engineer
+0,190000,2022,M,MI,US,US,other
+0,183310,2022,M,MI,US,US,other
+100,240000,2022,M,SE,US,US,ML Engineer
+100,180000,2022,M,SE,US,US,ML Engineer
+100,200000,2022,M,SE,US,US,ML Engineer
+100,150000,2022,M,SE,US,US,ML Engineer
 0,299500,2022,M,SE,US,US,Data Science Manager
 0,245100,2022,M,SE,US,US,Data Science Manager
 100,144000,2022,M,SE,US,US,Data Engineer
 100,66000,2022,M,SE,US,US,Data Engineer
-0,148500,2022,M,MI,US,US,Machine Learning Engineer
-0,126276,2022,M,MI,US,US,Machine Learning Engineer
-0,228000,2022,M,SE,US,US,Data Architect
-0,119999,2022,M,SE,US,US,Data Architect
-0,180000,2022,M,SE,US,US,Machine Learning Software Engineer
-0,90000,2022,M,SE,US,US,Machine Learning Software Engineer
-0,126499,2022,M,SE,US,US,Data Scientist
+0,148500,2022,M,MI,US,US,ML Engineer
+0,126277,2022,M,MI,US,US,ML Engineer
+0,227999,2022,M,SE,US,US,Data Architect
+0,120000,2022,M,SE,US,US,Data Architect
+0,180000,2022,M,SE,US,US,other
+0,90000,2022,M,SE,US,US,other
+0,126500,2022,M,SE,US,US,Data Scientist
 0,78000,2022,M,SE,US,US,Data Scientist
 0,180000,2022,M,SE,US,US,Data Engineer
 0,160000,2022,M,SE,US,US,Data Engineer
-0,272000,2022,M,SE,US,US,Machine Learning Software Engineer
-0,170000,2022,M,SE,US,US,Machine Learning Software Engineer
+0,272000,2022,M,SE,US,US,other
+0,170000,2022,M,SE,US,US,other
 0,80000,2022,M,MI,US,US,Data Analyst
-0,59999,2022,M,MI,US,US,Data Analyst
+0,60000,2022,M,MI,US,US,Data Analyst
 100,258999,2022,M,SE,US,US,Data Engineer
 100,146000,2022,M,SE,US,US,Data Engineer
 0,200000,2022,M,SE,US,US,Data Engineer
 0,160000,2022,M,SE,US,US,Data Engineer
 100,310000,2022,M,EX,US,US,Data Engineer
-100,238999,2022,M,EX,US,US,Data Engineer
+100,239000,2022,M,EX,US,US,Data Engineer
 100,142000,2022,M,SE,US,US,Data Analyst
 100,95000,2022,M,SE,US,US,Data Analyst
 0,155000,2022,M,SE,US,US,Data Scientist
 0,139500,2022,M,SE,US,US,Data Scientist
 100,140000,2022,M,MI,US,US,Data Engineer
-100,119999,2022,M,MI,US,US,Data Engineer
+100,120000,2022,M,MI,US,US,Data Engineer
 100,258999,2022,M,SE,US,US,Data Engineer
 100,146000,2022,M,SE,US,US,Data Engineer
+0,109371,2022,M,MI,other,other,Data Analyst
+0,72914,2022,M,MI,other,other,Data Analyst
+100,17779,2022,L,EN,other,IN,Data Analyst
 100,19522,2022,L,EN,BR,BR,Data Scientist
+0,247500,2022,M,SE,US,US,other
+0,172200,2022,M,SE,US,US,other
 0,225000,2022,M,SE,US,US,Data Scientist
 0,156400,2022,M,SE,US,US,Data Scientist
 0,139500,2022,M,SE,US,US,Data Engineer
 0,109400,2022,M,SE,US,US,Data Engineer
-0,124999,2022,M,MI,US,US,Data Engineer
+0,125000,2022,M,MI,US,US,Data Engineer
 0,90000,2022,M,MI,US,US,Data Engineer
 100,107309,2022,M,SE,FR,FR,Machine Learning Infrastructure Engineer
 100,75116,2022,M,SE,FR,FR,Machine Learning Infrastructure Engineer
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
-0,139500,2022,M,SE,US,US,Machine Learning Engineer
-0,109400,2022,M,SE,US,US,Machine Learning Engineer
-100,119999,2022,M,SE,US,US,Data Analyst
+0,129299,2022,M,SE,US,US,Data Scientist
+0,139500,2022,M,SE,US,US,ML Engineer
+0,109400,2022,M,SE,US,US,ML Engineer
+100,120000,2022,M,SE,US,US,Data Analyst
 100,75000,2022,M,SE,US,US,Data Analyst
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
-100,288000,2022,M,SE,US,US,Machine Learning Engineer
-100,140000,2022,M,SE,US,US,Machine Learning Engineer
-100,288000,2022,M,SE,US,US,Machine Learning Engineer
-100,140000,2022,M,SE,US,US,Machine Learning Engineer
-0,119999,2022,M,MI,US,US,Data Engineer
+100,288000,2022,M,SE,US,US,ML Engineer
+100,140000,2022,M,SE,US,US,ML Engineer
+100,288000,2022,M,SE,US,US,ML Engineer
+100,140000,2022,M,SE,US,US,ML Engineer
+0,120000,2022,M,MI,US,US,Data Engineer
 0,90000,2022,M,MI,US,US,Data Engineer
+0,72914,2022,M,MI,GB,GB,other
+0,60761,2022,M,MI,GB,GB,other
 100,215050,2022,M,SE,US,US,Data Scientist
 100,156400,2022,M,SE,US,US,Data Scientist
 100,198000,2022,M,SE,US,US,Data Architect
-100,114000,2022,M,SE,US,US,Data Architect
+100,113999,2022,M,SE,US,US,Data Architect
 100,75000,2022,M,EN,US,US,Data Analyst
-100,59999,2022,M,EN,US,US,Data Analyst
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+100,60000,2022,M,EN,US,US,Data Analyst
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
 100,209300,2022,M,SE,US,US,Data Scientist
 100,182200,2022,M,SE,US,US,Data Scientist
 0,140000,2022,M,SE,US,US,Data Manager
-0,119999,2022,M,SE,US,US,Data Manager
+0,120000,2022,M,SE,US,US,Data Manager
 0,85000,2022,M,EN,US,US,Data Scientist
-100,48609,2022,M,MI,GB,GB,Machine Learning Engineer
-100,119999,2022,M,EN,GB,GB,Research Engineer
-100,59999,2022,M,EN,GB,GB,Research Engineer
-0,147100,2022,M,SE,US,US,Machine Learning Engineer
-0,90700,2022,M,SE,US,US,Machine Learning Engineer
-0,229999,2022,M,SE,US,US,Data Engineer
+100,48609,2022,M,MI,GB,GB,ML Engineer
+100,120000,2022,M,EN,GB,GB,Research Engineer
+100,60000,2022,M,EN,GB,GB,Research Engineer
+0,147100,2022,M,SE,US,US,ML Engineer
+0,90700,2022,M,SE,US,US,ML Engineer
+0,230000,2022,M,SE,US,US,Data Engineer
 0,170000,2022,M,SE,US,US,Data Engineer
 0,227000,2022,M,SE,US,US,Data Analyst
 0,108000,2022,M,SE,US,US,Data Analyst
@@ -1129,69 +1219,76 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,180000,2022,M,SE,US,US,Data Architect
 100,160000,2022,M,SE,US,US,Data Architect
 0,180000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
-100,55800,2022,M,SE,ES,ES,Data Analyst
+0,130000,2022,M,SE,US,US,Data Engineer
+100,55799,2022,M,SE,ES,ES,Data Analyst
 100,51508,2022,M,SE,ES,ES,Data Analyst
-100,59999,2022,L,EN,US,US,Data Analyst
+100,60000,2022,L,EN,US,US,Data Analyst
+50,50000,2022,L,EN,other,US,Data Analyst
 0,226700,2022,M,SE,US,US,Data Engineer
 0,133300,2022,M,SE,US,US,Data Engineer
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
+100,151902,2022,L,SE,GB,GB,other
 0,9727,2022,L,EN,IN,IN,Data Scientist
 0,80000,2022,M,SE,US,US,Data Analyst
 0,52500,2022,M,SE,US,US,Data Analyst
-100,249999,2022,M,SE,US,US,Data Engineer
+100,250000,2022,M,SE,US,US,Data Engineer
 100,162500,2022,M,SE,US,US,Data Engineer
 100,85000,2022,M,EN,US,US,Data Analyst
 100,75000,2022,M,EN,US,US,Data Analyst
 0,153600,2022,M,SE,US,US,Data Analyst
 0,106800,2022,M,SE,US,US,Data Analyst
 0,165000,2022,M,MI,US,US,Data Analyst
-0,123999,2022,M,MI,US,US,Data Analyst
-100,115934,2022,M,SE,US,US,Data Analyst
+0,124000,2022,M,MI,US,US,Data Analyst
+100,115933,2022,M,SE,US,US,Data Analyst
 100,81666,2022,M,SE,US,US,Data Analyst
 0,167580,2022,M,SE,US,US,Data Engineer
 0,87980,2022,M,SE,US,US,Data Engineer
-100,249999,2022,M,SE,US,US,Data Engineer
-100,62999,2022,M,SE,US,US,Data Engineer
+100,250000,2022,M,SE,US,US,Data Engineer
+100,63000,2022,M,SE,US,US,Data Engineer
 0,253750,2022,M,SE,ES,ES,Research Scientist
 0,169200,2022,M,SE,ES,ES,Research Scientist
 0,253750,2022,M,SE,ES,ES,Research Scientist
 0,169200,2022,M,SE,ES,ES,Research Scientist
 0,170000,2022,M,MI,US,US,Data Scientist
-0,119999,2022,M,MI,US,US,Data Scientist
-0,124739,2022,M,SE,US,US,Data Engineer
-0,65487,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,MI,US,US,Data Scientist
+0,124740,2022,M,SE,US,US,Data Engineer
+0,65488,2022,M,SE,US,US,Data Engineer
 100,213580,2022,M,SE,US,US,Data Engineer
 100,163625,2022,M,SE,US,US,Data Engineer
-100,375000,2022,M,SE,US,US,Machine Learning Software Engineer
-0,220000,2022,M,SE,US,US,Machine Learning Engineer
-0,170000,2022,M,SE,US,US,Machine Learning Engineer
-0,234999,2022,M,EX,US,US,Data Engineer
+0,12000,2022,L,EN,other,other,Data Engineer
+100,375000,2022,M,SE,US,US,other
+100,101943,2022,M,SE,other,other,Data Engineer
+100,16414,2022,L,MI,IN,IN,other
+0,220000,2022,M,SE,US,US,ML Engineer
+0,170000,2022,M,SE,US,US,ML Engineer
+0,235000,2022,M,EX,US,US,Data Engineer
 0,210000,2022,M,EX,US,US,Data Engineer
 100,180000,2022,M,SE,US,US,Data Architect
-100,114999,2022,M,SE,US,US,Data Architect
+100,115000,2022,M,SE,US,US,Data Architect
 100,200000,2022,M,SE,US,US,Data Architect
-100,114999,2022,M,SE,US,US,Data Architect
+100,115000,2022,M,SE,US,US,Data Architect
 100,231250,2022,M,SE,US,US,Data Science Manager
 100,138750,2022,M,SE,US,US,Data Science Manager
-0,284310,2022,M,SE,US,US,Machine Learning Engineer
-0,153090,2022,M,SE,US,US,Machine Learning Engineer
+0,284310,2022,M,SE,US,US,ML Engineer
+0,153090,2022,M,SE,US,US,ML Engineer
 100,160000,2022,M,SE,US,US,Data Engineer
 100,75000,2022,M,SE,US,US,Data Engineer
-0,124999,2022,M,MI,US,US,Data Analyst
+0,125000,2022,M,MI,US,US,Data Analyst
 0,105000,2022,M,MI,US,US,Data Analyst
 0,109371,2022,M,MI,GB,GB,Data Analyst
 0,85066,2022,M,MI,GB,GB,Data Analyst
 0,55000,2022,M,EN,US,US,Data Analyst
 0,48000,2022,M,EN,US,US,Data Analyst
 50,100000,2022,M,EN,US,US,Data Analyst
-100,249999,2022,M,SE,US,US,Data Engineer
+0,225899,2022,M,SE,US,US,other
+0,156400,2022,M,SE,US,US,other
+100,250000,2022,M,SE,US,US,Data Engineer
 100,162500,2022,M,SE,US,US,Data Engineer
-100,318300,2022,M,SE,US,US,Machine Learning Engineer
-100,188800,2022,M,SE,US,US,Machine Learning Engineer
+100,318300,2022,M,SE,US,US,ML Engineer
+100,188800,2022,M,SE,US,US,ML Engineer
 0,385000,2022,M,SE,US,US,Data Analyst
-0,59999,2022,M,SE,US,US,Data Analyst
+0,60000,2022,M,SE,US,US,Data Analyst
 100,110000,2022,M,MI,US,US,Data Analyst
 100,95000,2022,M,MI,US,US,Data Analyst
 100,145000,2022,M,SE,US,US,Data Scientist
@@ -1210,27 +1307,29 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,140000,2022,M,SE,US,US,Data Analyst
 0,149076,2022,M,SE,US,US,Data Scientist
 0,82365,2022,M,SE,US,US,Data Scientist
+100,36000,2022,S,MI,other,other,ML Engineer
 0,175000,2022,M,SE,US,US,Data Scientist
 0,148750,2022,M,SE,US,US,Data Scientist
 0,370000,2022,M,SE,US,US,Research Scientist
 0,200000,2022,M,SE,US,US,Research Scientist
-100,234999,2022,M,SE,US,US,Data Scientist
+100,235000,2022,M,SE,US,US,Data Scientist
 100,185000,2022,M,SE,US,US,Data Scientist
-0,121523,2022,M,MI,GB,GB,Machine Learning Engineer
-0,97218,2022,M,MI,GB,GB,Machine Learning Engineer
+0,121522,2022,M,MI,GB,GB,ML Engineer
+0,97218,2022,M,MI,GB,GB,ML Engineer
 0,216100,2022,M,SE,US,US,Data Scientist
 0,140800,2022,M,SE,US,US,Data Scientist
-0,145828,2022,M,MI,GB,GB,Machine Learning Engineer
-0,121523,2022,M,MI,GB,GB,Machine Learning Engineer
+0,145828,2022,M,MI,GB,GB,ML Engineer
+0,121522,2022,M,MI,GB,GB,ML Engineer
+100,53654,2022,L,SE,NL,CA,other
 50,110000,2022,S,EN,US,US,Data Scientist
-0,127999,2022,M,SE,US,US,Data Engineer
+0,128000,2022,M,SE,US,US,Data Engineer
 0,81500,2022,M,SE,US,US,Data Engineer
 100,66837,2022,M,MI,GB,GB,Data Engineer
 100,63192,2022,M,MI,GB,GB,Data Engineer
 0,60761,2022,M,MI,GB,GB,Data Analyst
 0,54685,2022,M,MI,GB,GB,Data Analyst
 100,284000,2022,M,EX,US,US,Data Engineer
-100,235999,2022,M,EX,US,US,Data Engineer
+100,236000,2022,M,EX,US,US,Data Engineer
 0,248100,2022,M,SE,CA,CA,Research Scientist
 0,145900,2022,M,SE,CA,CA,Research Scientist
 0,155850,2022,M,SE,US,US,Research Engineer
@@ -1238,13 +1337,14 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,151410,2022,M,MI,US,US,Data Scientist
 100,115360,2022,M,MI,US,US,Data Scientist
 100,66531,2022,M,MI,ES,ES,Data Engineer
-100,59019,2022,M,MI,ES,ES,Data Engineer
-50,125686,2022,M,SE,CA,CA,Director of Data Science
+100,59020,2022,M,MI,ES,ES,Data Engineer
+50,125685,2022,M,SE,CA,CA,Director of Data Science
+50,100000,2022,L,SE,NL,NL,other
 50,12767,2022,L,EN,IN,IN,Data Scientist
-0,249999,2022,M,SE,US,US,Data Scientist
+0,250000,2022,M,SE,US,US,Data Scientist
 0,162500,2022,M,SE,US,US,Data Scientist
 0,185000,2022,M,SE,GB,GB,Data Scientist
-0,120250,2022,M,SE,GB,GB,Data Scientist
+0,120249,2022,M,SE,GB,GB,Data Scientist
 100,26827,2022,L,EN,DE,DE,Data Engineer
 100,180000,2022,M,EN,US,US,Data Scientist
 0,85000,2022,M,MI,US,US,Research Scientist
@@ -1253,48 +1353,50 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,100000,2022,M,SE,US,US,BI Developer
 0,155000,2022,M,EX,US,US,Data Analytics Manager
 0,140000,2022,M,EX,US,US,Data Analytics Manager
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
 0,226700,2022,M,SE,US,US,Data Engineer
 0,133300,2022,M,SE,US,US,Data Engineer
 100,225000,2022,M,SE,US,US,Data Scientist
 100,156400,2022,M,SE,US,US,Data Scientist
 0,163800,2022,M,SE,US,US,Data Engineer
-0,125999,2022,M,SE,US,US,Data Engineer
-0,163800,2022,M,SE,US,US,Machine Learning Engineer
-0,125999,2022,M,SE,US,US,Machine Learning Engineer
+0,126000,2022,M,SE,US,US,Data Engineer
+0,163800,2022,M,SE,US,US,ML Engineer
+0,126000,2022,M,SE,US,US,ML Engineer
 0,220000,2022,M,SE,US,US,ML Engineer
 0,150000,2022,M,SE,US,US,ML Engineer
 0,145000,2022,M,SE,US,US,Data Engineer
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
 0,204500,2022,M,SE,US,US,Data Analytics Manager
 0,138900,2022,M,SE,US,US,Data Analytics Manager
 0,162500,2022,M,MI,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Data Engineer
+0,130000,2022,M,MI,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Data Engineer
 100,107000,2022,M,SE,US,US,Data Engineer
 0,175000,2022,M,EX,US,US,Data Engineer
 0,110000,2022,M,EX,US,US,Data Engineer
 0,226700,2022,M,SE,US,US,Data Engineer
 0,133300,2022,M,SE,US,US,Data Engineer
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
-0,150000,2022,M,SE,US,US,Machine Learning Engineer
-0,124999,2022,M,SE,US,US,Machine Learning Engineer
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
+0,150000,2022,M,SE,US,US,ML Engineer
+0,125000,2022,M,SE,US,US,ML Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
 0,225000,2022,M,SE,US,US,Data Scientist
 0,156400,2022,M,SE,US,US,Data Scientist
 100,23000,2022,L,MI,IN,IN,Research Scientist
-100,110000,2022,L,MI,US,US,Machine Learning Engineer
+100,110000,2022,L,MI,US,US,ML Engineer
 100,265000,2022,M,SE,US,US,Data Engineer
 100,182750,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Data Analyst
+0,130000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
 0,153600,2022,M,SE,US,US,Data Analyst
 0,106800,2022,M,SE,US,US,Data Analyst
 0,137500,2022,M,SE,US,US,Data Engineer
 0,81500,2022,M,SE,US,US,Data Engineer
+0,314100,2022,M,EX,US,US,other
+0,195800,2022,M,EX,US,US,other
 0,205000,2022,M,SE,US,US,Applied Scientist
 0,180000,2022,M,SE,US,US,Applied Scientist
 100,165000,2022,M,SE,US,US,Data Scientist
@@ -1309,44 +1411,47 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,112000,2022,M,SE,US,US,Data Manager
 0,105000,2022,M,SE,US,US,Data Scientist
 0,70000,2022,M,SE,US,US,Data Scientist
+100,130000,2022,S,EN,other,other,Big Data Engineer
 0,180180,2022,M,SE,US,US,Data Analyst
 0,106020,2022,M,SE,US,US,Data Analyst
 0,160000,2022,M,EN,US,US,Data Engineer
 0,135000,2022,M,EN,US,US,Data Engineer
 0,183000,2022,M,SE,US,US,Data Scientist
 0,134000,2022,M,SE,US,US,Data Scientist
-0,220000,2022,M,SE,US,US,Machine Learning Engineer
-0,150000,2022,M,SE,US,US,Machine Learning Engineer
+0,220000,2022,M,SE,US,US,ML Engineer
+0,150000,2022,M,SE,US,US,ML Engineer
 0,350000,2022,L,SE,US,US,Applied Scientist
 0,262500,2022,L,SE,US,US,Applied Scientist
 0,121999,2022,M,SE,US,US,Data Analyst
 0,94000,2022,M,SE,US,US,Data Analyst
-0,276000,2022,M,SE,US,US,Machine Learning Engineer
-0,184000,2022,M,SE,US,US,Machine Learning Engineer
+0,276000,2022,M,SE,US,US,ML Engineer
+0,184000,2022,M,SE,US,US,ML Engineer
 100,310000,2022,M,EX,US,US,Data Engineer
-100,238999,2022,M,EX,US,US,Data Engineer
+100,239000,2022,M,EX,US,US,Data Engineer
 100,225000,2022,M,SE,US,US,Data Scientist
 100,156400,2022,M,SE,US,US,Data Scientist
-100,180000,2022,M,MI,US,US,Machine Learning Engineer
-100,150000,2022,M,MI,US,US,Machine Learning Engineer
-0,228000,2022,M,SE,US,US,Data Scientist
+100,180000,2022,M,MI,US,US,ML Engineer
+100,150000,2022,M,MI,US,US,ML Engineer
+0,227999,2022,M,SE,US,US,Data Scientist
 0,152000,2022,M,SE,US,US,Data Scientist
 100,209450,2022,M,SE,US,US,Data Scientist
 100,158677,2022,M,SE,US,US,Data Scientist
 0,175000,2022,M,SE,US,US,Data Analyst
 0,145000,2022,M,SE,US,US,Data Analyst
-0,239999,2022,M,SE,US,US,Data Engineer
+0,240000,2022,M,SE,US,US,Data Engineer
 0,170000,2022,M,SE,US,US,Data Engineer
 0,103200,2022,M,MI,US,US,Data Analyst
 0,61200,2022,M,MI,US,US,Data Analyst
 100,155000,2022,L,MI,US,US,Data Scientist
-100,236999,2022,M,SE,US,US,Data Scientist
+50,66970,2021,L,EN,other,other,other
+50,63312,2022,L,SE,other,other,Data Scientist
+100,237000,2022,M,SE,US,US,Data Scientist
 100,145000,2022,M,SE,US,US,Data Scientist
-100,239999,2022,M,SE,US,US,Data Scientist
+100,240000,2022,M,SE,US,US,Data Scientist
 100,139000,2022,M,SE,US,US,Data Scientist
 0,174500,2022,M,SE,US,US,Data Architect
 0,113000,2022,M,SE,US,US,Data Architect
-100,129999,2022,M,SE,US,US,Data Analyst
+100,130000,2022,M,SE,US,US,Data Analyst
 100,87000,2022,M,SE,US,US,Data Analyst
 100,160000,2022,M,SE,US,US,Data Analyst
 100,108000,2022,M,SE,US,US,Data Analyst
@@ -1356,6 +1461,8 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,118999,2022,M,SE,US,US,Data Engineer
 100,285800,2022,M,SE,US,US,Data Scientist
 100,154600,2022,M,SE,US,US,Data Scientist
+50,60795,2022,L,MI,IN,IN,other
+100,30000,2022,S,EN,other,US,Data Analyst
 0,220000,2022,M,MI,US,US,Data Science Manager
 0,195000,2022,M,MI,US,US,Data Science Manager
 0,168400,2022,M,SE,US,US,Data Manager
@@ -1368,7 +1475,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,138750,2022,M,SE,US,US,Analytics Engineer
 100,153000,2022,M,SE,CA,CA,Data Engineer
 100,94000,2022,M,SE,CA,CA,Data Engineer
-0,240500,2022,L,SE,US,US,Data Engineer
+0,240499,2022,L,SE,US,US,Data Engineer
 0,123700,2022,L,SE,US,US,Data Engineer
 100,160000,2022,M,SE,US,US,Data Engineer
 100,90000,2022,M,SE,US,US,Data Engineer
@@ -1376,7 +1483,8 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,74540,2022,M,EN,US,US,Data Scientist
 0,109000,2022,M,MI,US,US,Data Analyst
 0,79000,2022,M,MI,US,US,Data Analyst
-50,84053,2022,L,SE,FR,FR,Machine Learning Engineer
+50,84053,2022,L,SE,FR,FR,ML Engineer
+0,50000,2022,S,MI,other,other,ML Engineer
 100,275300,2022,M,SE,US,US,Data Scientist
 100,183500,2022,M,SE,US,US,Data Scientist
 100,275300,2022,M,SE,US,US,Data Scientist
@@ -1384,27 +1492,27 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,160000,2022,M,SE,US,US,Data Analyst
 100,125600,2022,M,SE,US,US,Data Analyst
 0,170000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,225000,2022,M,SE,US,US,Data Engineer
 0,140000,2022,M,SE,US,US,Data Engineer
 0,141290,2022,M,SE,US,US,Data Analyst
 0,74178,2022,M,SE,US,US,Data Analyst
 0,150000,2022,M,SE,US,US,Data Scientist
-0,119999,2022,M,SE,US,US,Data Scientist
+0,120000,2022,M,SE,US,US,Data Scientist
 100,85000,2022,M,SE,US,US,Data Engineer
 100,75000,2022,M,SE,US,US,Data Engineer
 0,220000,2022,M,SE,US,US,Data Engineer
 0,160000,2022,M,SE,US,US,Data Engineer
 100,205600,2022,M,SE,US,US,Data Engineer
 100,107500,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,MI,US,US,Data Engineer
+0,120000,2022,M,MI,US,US,Data Engineer
 0,95000,2022,M,MI,US,US,Data Engineer
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
 100,160000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,Data Engineer
 50,12888,2022,S,EN,IN,IN,Data Scientist
-0,249999,2022,M,MI,US,US,Data Engineer
+0,250000,2022,M,MI,US,US,Data Engineer
 0,175000,2022,M,MI,US,US,Data Engineer
 100,136000,2022,M,SE,US,US,Data Scientist
 100,104000,2022,M,SE,US,US,Data Scientist
@@ -1412,15 +1520,18 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,52500,2022,M,MI,US,US,Data Analyst
 100,110000,2022,M,SE,US,US,Data Scientist
 100,84000,2022,M,SE,US,US,Data Scientist
+0,125000,2022,M,SE,US,US,other
+0,110000,2022,M,SE,US,US,other
 0,90000,2022,M,MI,US,US,Data Analyst
 0,80000,2022,M,MI,US,US,Data Analyst
 0,200000,2022,M,SE,US,US,ML Engineer
 0,135000,2022,M,SE,US,US,ML Engineer
 50,48000,2022,L,EN,US,US,Business Data Analyst
-0,129999,2022,M,SE,US,US,Data Engineer
+50,120000,2022,S,EN,other,other,AI Developer
+0,130000,2022,M,SE,US,US,Data Engineer
 0,75000,2022,M,SE,US,US,Data Engineer
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
 0,150000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
 0,226700,2022,M,SE,US,US,Data Engineer
@@ -1430,13 +1541,18 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,170000,2022,M,SE,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Data Engineer
 0,150000,2022,M,MI,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Data Engineer
+0,130000,2022,M,MI,US,US,Data Engineer
 0,225000,2022,M,SE,US,US,Data Scientist
 0,156400,2022,M,SE,US,US,Data Scientist
 100,200000,2022,S,SE,US,US,Computer Vision Engineer
+100,80000,2022,S,MI,other,other,other
 50,12877,2022,L,EN,GR,GR,Business Data Analyst
-0,256999,2022,M,SE,US,US,Data Scientist
+0,6304,2022,S,EN,other,other,AI Developer
+50,17509,2022,M,MI,IN,other,other
+0,257000,2022,M,SE,US,US,Data Scientist
 0,134000,2022,M,SE,US,US,Data Scientist
+0,77262,2022,M,SE,other,other,Data Scientist
+0,38631,2022,M,SE,other,other,Data Scientist
 0,205600,2022,L,SE,US,US,Data Engineer
 0,105700,2022,L,SE,US,US,Data Engineer
 100,140000,2022,M,SE,US,US,BI Developer
@@ -1445,21 +1561,22 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,245100,2022,M,SE,US,US,Data Science Manager
 0,210000,2022,M,SE,US,US,Research Scientist
 0,151800,2022,M,SE,US,US,Research Scientist
+50,53654,2022,L,MI,other,other,Data Scientist
 0,51508,2022,M,SE,ES,ES,Data Analyst
 0,40777,2022,M,SE,ES,ES,Data Analyst
 0,51508,2022,M,SE,ES,ES,Data Analyst
 0,40777,2022,M,SE,ES,ES,Data Analyst
 0,160000,2022,M,EN,US,US,Data Engineer
 0,135000,2022,M,EN,US,US,Data Engineer
-100,119999,2022,M,MI,US,US,Data Engineer
+100,120000,2022,M,MI,US,US,Data Engineer
 100,95000,2022,M,MI,US,US,Data Engineer
-100,249999,2022,M,SE,US,US,Data Engineer
-100,62999,2022,M,SE,US,US,Data Engineer
-100,236999,2022,M,SE,US,US,Data Scientist
+100,250000,2022,M,SE,US,US,Data Engineer
+100,63000,2022,M,SE,US,US,Data Engineer
+100,237000,2022,M,SE,US,US,Data Scientist
 100,145000,2022,M,SE,US,US,Data Scientist
-100,129999,2022,M,SE,US,US,Data Scientist
+100,130000,2022,M,SE,US,US,Data Scientist
 100,90000,2022,M,SE,US,US,Data Scientist
-100,119999,2022,M,MI,US,US,Data Analyst
+100,120000,2022,M,MI,US,US,Data Analyst
 100,100000,2022,M,MI,US,US,Data Analyst
 0,174500,2022,M,SE,US,US,Data Architect
 0,113000,2022,M,SE,US,US,Data Architect
@@ -1476,28 +1593,31 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,220000,2022,M,SE,US,US,Data Scientist
 0,146000,2022,M,SE,US,US,Data Scientist
 0,300000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
+50,24740,2022,L,MI,other,other,Data Scientist
 100,15897,2022,M,MI,IN,IN,Computer Vision Engineer
 0,145000,2022,M,SE,US,US,Data Science Consultant
-0,127999,2022,M,SE,US,US,Data Science Consultant
+0,128000,2022,M,SE,US,US,Data Science Consultant
 0,182000,2022,M,SE,US,US,Data Scientist
 0,140000,2022,M,SE,US,US,Data Scientist
 0,121999,2022,M,SE,US,US,Data Engineer
 0,94000,2022,M,SE,US,US,Data Engineer
+0,77262,2022,M,SE,other,other,ML Engineer
+0,38631,2022,M,SE,other,other,ML Engineer
 0,300000,2022,M,EX,US,US,Data Scientist
 0,200000,2022,M,EX,US,US,Data Scientist
 0,135000,2022,M,MI,US,US,Data Analyst
 0,105500,2022,M,MI,US,US,Data Analyst
-0,251999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Engineer
+0,252000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Engineer
 100,110000,2022,L,MI,US,US,Data Scientist
 100,136000,2022,M,SE,US,US,Data Scientist
 100,104000,2022,M,SE,US,US,Data Scientist
 100,168000,2022,M,SE,US,US,Data Scientist
-100,129999,2022,M,SE,US,US,Data Scientist
+100,130000,2022,M,SE,US,US,Data Scientist
 0,78990,2022,M,MI,GB,GB,Data Analyst
 0,43809,2022,M,MI,GB,GB,Data Analyst
-0,119999,2022,M,MI,US,US,Data Engineer
+0,120000,2022,M,MI,US,US,Data Engineer
 0,95000,2022,M,MI,US,US,Data Engineer
 0,153400,2022,M,SE,US,US,Data Scientist
 0,122700,2022,M,SE,US,US,Data Scientist
@@ -1505,10 +1625,10 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,160000,2022,M,SE,US,US,Data Scientist
 100,205000,2022,M,SE,US,US,Data Scientist
 100,185000,2022,M,SE,US,US,Data Scientist
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
-0,145000,2022,M,MI,US,US,Machine Learning Engineer
-0,87000,2022,M,MI,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
+0,145000,2022,M,MI,US,US,ML Engineer
+0,87000,2022,M,MI,US,US,ML Engineer
 100,50000,2022,M,EN,IN,US,Data Scientist
 100,234100,2022,M,SE,US,US,ML Engineer
 100,203500,2022,M,SE,US,US,ML Engineer
@@ -1522,8 +1642,10 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,106000,2022,M,SE,US,US,BI Developer
 0,180000,2022,M,SE,US,US,Research Scientist
 0,145000,2022,M,SE,US,US,Research Scientist
+0,225000,2022,M,SE,US,US,other
+0,200000,2022,M,SE,US,US,other
 100,170000,2022,M,SE,US,US,Data Engineer
-100,114000,2022,M,SE,US,US,Data Engineer
+100,113999,2022,M,SE,US,US,Data Engineer
 0,291500,2022,M,SE,US,US,Data Engineer
 0,180000,2022,M,SE,US,US,Data Engineer
 0,196200,2022,M,EX,US,US,Data Engineer
@@ -1532,22 +1654,26 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,105200,2022,M,SE,US,US,Data Scientist
 100,95000,2022,M,MI,ES,ES,Data Engineer
 100,80000,2022,M,MI,ES,ES,Data Engineer
-0,115999,2022,M,MI,US,US,Data Analyst
+0,116000,2022,M,MI,US,US,Data Analyst
 0,72000,2022,M,MI,US,US,Data Analyst
 0,207000,2022,M,SE,US,US,Analytics Engineer
 0,167000,2022,M,SE,US,US,Analytics Engineer
-0,145000,2022,M,SE,US,US,Machine Learning Engineer
-0,135000,2022,M,SE,US,US,Machine Learning Engineer
+0,145000,2022,M,SE,US,US,ML Engineer
+0,135000,2022,M,SE,US,US,ML Engineer
 0,105000,2022,M,MI,US,US,Data Engineer
 0,70000,2022,M,MI,US,US,Data Engineer
 100,180000,2022,M,SE,US,US,Data Architect
-100,114999,2022,M,SE,US,US,Data Architect
+100,115000,2022,M,SE,US,US,Data Architect
 100,133800,2022,M,SE,US,US,Data Engineer
 100,96100,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,MI,US,US,Data Analyst
+0,120000,2022,M,MI,US,US,Data Analyst
 0,80000,2022,M,MI,US,US,Data Analyst
+0,140000,2022,M,SE,US,US,other
+0,100000,2022,M,SE,US,US,other
 0,150000,2022,M,SE,US,US,Research Scientist
-0,119999,2022,M,SE,US,US,Research Scientist
+0,120000,2022,M,SE,US,US,Research Scientist
+100,140000,2022,M,SE,US,US,other
+100,115000,2022,M,SE,US,US,other
 100,297300,2022,M,SE,US,US,Data Science Manager
 100,198200,2022,M,SE,US,US,Data Science Manager
 100,297300,2022,M,SE,US,US,Data Scientist
@@ -1556,8 +1682,8 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,135000,2022,M,SE,US,US,Data Engineer
 100,110000,2022,M,SE,US,US,Data Scientist
 100,84000,2022,M,SE,US,US,Data Scientist
-50,219000,2022,L,MI,US,US,Machine Learning Engineer
-100,229999,2022,M,SE,US,US,Applied Scientist
+50,219000,2022,L,MI,US,US,ML Engineer
+100,230000,2022,M,SE,US,US,Applied Scientist
 100,196000,2022,M,SE,US,US,Applied Scientist
 100,140000,2022,M,SE,US,US,BI Developer
 100,110000,2022,M,SE,US,US,BI Developer
@@ -1566,45 +1692,50 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,160000,2022,M,SE,US,US,Data Engineer
 0,110000,2022,M,SE,US,US,Data Engineer
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 0,126100,2022,L,SE,US,US,Applied Scientist
 0,72000,2022,L,SE,US,US,Applied Scientist
 100,170000,2022,M,SE,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Data Engineer
-100,175000,2022,M,MI,US,US,Machine Learning Engineer
-100,140000,2022,M,MI,US,US,Machine Learning Engineer
-0,240500,2022,M,SE,US,US,Data Analyst
+100,175000,2022,M,MI,US,US,ML Engineer
+100,140000,2022,M,MI,US,US,ML Engineer
+0,240499,2022,M,SE,US,US,Data Analyst
 0,137500,2022,M,SE,US,US,Data Analyst
 0,187500,2022,M,MI,US,US,Data Scientist
 0,165000,2022,M,MI,US,US,Data Scientist
+0,72914,2022,L,MI,GB,GB,other
 100,25216,2022,L,EN,ES,US,Data Analyst
 0,210000,2022,M,SE,US,US,Research Scientist
 0,165750,2022,M,SE,US,US,Research Scientist
 100,225000,2022,M,SE,US,US,Machine Learning Scientist
 100,165750,2022,M,SE,US,US,Machine Learning Scientist
-0,109006,2022,M,MI,GB,GB,Machine Learning Engineer
-0,67141,2022,M,MI,GB,GB,Machine Learning Engineer
+0,109006,2022,M,MI,GB,GB,ML Engineer
+0,67141,2022,M,MI,GB,GB,ML Engineer
 100,135000,2022,M,SE,US,US,Data Scientist
-100,114999,2022,M,SE,US,US,Data Scientist
+100,115000,2022,M,SE,US,US,Data Scientist
+0,275000,2022,M,SE,US,US,other
+0,175000,2022,M,SE,US,US,other
 100,170000,2022,M,SE,US,US,Data Scientist
 100,140000,2022,M,SE,US,US,Data Scientist
 0,175308,2022,M,SE,US,US,Data Engineer
 0,100706,2022,M,SE,US,US,Data Engineer
+0,235000,2022,M,SE,US,US,other
+0,135000,2022,M,SE,US,US,other
 0,310000,2022,M,SE,US,US,Data Engineer
 0,229000,2022,M,SE,US,US,Data Engineer
 0,289076,2022,M,SE,US,US,ML Engineer
 0,202353,2022,M,SE,US,US,ML Engineer
 0,69751,2022,M,SE,PT,PT,Data Engineer
 0,37558,2022,M,SE,PT,PT,Data Engineer
-100,119999,2022,M,MI,US,US,Research Engineer
+100,120000,2022,M,MI,US,US,Research Engineer
 100,100000,2022,M,MI,US,US,Research Engineer
 0,226700,2022,M,SE,US,US,Data Engineer
 0,133300,2022,M,SE,US,US,Data Engineer
-0,124999,2022,M,SE,US,US,Data Analyst
+0,125000,2022,M,SE,US,US,Data Analyst
 0,85000,2022,M,SE,US,US,Data Analyst
-100,129999,2022,M,SE,US,US,Data Analyst
+100,130000,2022,M,SE,US,US,Data Analyst
 100,80000,2022,M,SE,US,US,Data Analyst
-0,119999,2022,M,MI,US,US,Data Engineer
+0,120000,2022,M,MI,US,US,Data Engineer
 0,100000,2022,M,MI,US,US,Data Engineer
 100,54094,2021,L,SE,IN,IN,Data Scientist
 50,18314,2022,L,MI,IN,IN,Business Data Analyst
@@ -1618,9 +1749,11 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,200000,2022,M,SE,US,US,Research Scientist
 0,150000,2022,M,SE,US,US,Research Scientist
 0,160000,2022,M,EN,US,US,Research Engineer
-0,119999,2022,M,EN,US,US,Research Engineer
-0,249999,2022,M,SE,US,US,Research Scientist
+0,120000,2022,M,EN,US,US,Research Engineer
+0,250000,2022,M,SE,US,US,Research Scientist
 0,200000,2022,M,SE,US,US,Research Scientist
+0,150000,2022,M,EN,US,US,other
+0,120000,2022,M,EN,US,US,other
 0,150000,2022,M,SE,US,US,Research Engineer
 0,100000,2022,M,SE,US,US,Research Engineer
 0,133000,2022,L,SE,NL,NL,Data Analytics Manager
@@ -1630,17 +1763,17 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,140000,2022,M,SE,US,US,Data Scientist
 0,200000,2022,M,SE,US,US,Data Engineer
 0,160000,2022,M,SE,US,US,Data Engineer
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
-0,119999,2022,M,MI,US,US,Data Scientist
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
+0,120000,2022,M,MI,US,US,Data Scientist
 0,105000,2022,M,MI,US,US,Data Scientist
 100,187500,2022,M,SE,US,US,Data Engineer
 100,175000,2022,M,SE,US,US,Data Engineer
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
 100,155000,2022,M,SE,US,US,Data Analyst
-100,63999,2022,M,SE,US,US,Data Analyst
-0,234999,2022,M,SE,US,US,Computer Vision Engineer
+100,64000,2022,M,SE,US,US,Data Analyst
+0,235000,2022,M,SE,US,US,Computer Vision Engineer
 0,185000,2022,M,SE,US,US,Computer Vision Engineer
 0,174500,2022,M,SE,US,US,Data Architect
 0,113000,2022,M,SE,US,US,Data Architect
@@ -1649,44 +1782,45 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,184000,2022,M,SE,US,US,Applied Scientist
 100,142000,2022,M,SE,US,US,Applied Scientist
 0,140000,2022,M,SE,US,US,Data Scientist
-0,119999,2022,M,SE,US,US,Data Scientist
+0,120000,2022,M,SE,US,US,Data Scientist
 0,174500,2022,M,SE,US,US,Data Architect
 0,113000,2022,M,SE,US,US,Data Architect
 0,180560,2022,M,SE,US,US,Data Scientist
 0,115440,2022,M,SE,US,US,Data Scientist
 0,140000,2022,M,SE,US,US,Data Scientist
-0,119999,2022,M,SE,US,US,Data Scientist
+0,120000,2022,M,SE,US,US,Data Scientist
 0,248100,2022,M,SE,US,US,Research Scientist
 0,145900,2022,M,SE,US,US,Research Scientist
-0,119999,2022,M,SE,CA,CA,Data Scientist
+0,120000,2022,M,SE,CA,CA,Data Scientist
 0,110000,2022,M,SE,CA,CA,Data Scientist
 0,291500,2022,M,SE,US,US,Data Engineer
 0,180000,2022,M,SE,US,US,Data Engineer
-100,75344,2022,M,MI,GB,GB,Machine Learning Engineer
-100,63192,2022,M,MI,GB,GB,Machine Learning Engineer
+100,75344,2022,M,MI,GB,GB,ML Engineer
+100,63192,2022,M,MI,GB,GB,ML Engineer
 0,161800,2022,M,SE,US,US,Data Engineer
 0,141600,2022,M,SE,US,US,Data Engineer
-100,58330,2022,M,MI,GB,GB,Machine Learning Engineer
-100,46178,2022,M,MI,GB,GB,Machine Learning Engineer
+100,58331,2022,M,MI,GB,GB,ML Engineer
+100,46178,2022,M,MI,GB,GB,ML Engineer
 100,166000,2022,M,SE,US,US,Data Engineer
-100,127999,2022,M,SE,US,US,Data Engineer
+100,128000,2022,M,SE,US,US,Data Engineer
 100,170000,2022,M,SE,US,US,Data Architect
 100,110000,2022,M,SE,US,US,Data Architect
 100,160000,2022,M,SE,US,US,Data Engineer
 100,75000,2022,M,SE,US,US,Data Engineer
-100,235999,2022,M,SE,US,US,Data Engineer
+100,236000,2022,M,SE,US,US,Data Engineer
 100,182000,2022,M,SE,US,US,Data Engineer
 100,14307,2022,L,MI,IN,IN,Data Analyst
-0,129999,2022,M,EN,US,US,Data Scientist
+0,130000,2022,M,EN,US,US,Data Scientist
 0,150000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
-0,261500,2022,L,SE,US,US,Machine Learning Engineer
-0,134500,2022,L,SE,US,US,Machine Learning Engineer
+0,261499,2022,L,SE,US,US,ML Engineer
+0,134500,2022,L,SE,US,US,ML Engineer
 100,13989,2022,L,MI,IN,IN,Data Scientist
-0,129999,2022,M,MI,US,US,Data Scientist
+0,130000,2022,M,MI,US,US,Data Scientist
 0,90000,2022,M,MI,US,US,Data Scientist
 0,160000,2022,M,EN,US,US,Data Engineer
 0,135000,2022,M,EN,US,US,Data Engineer
+100,125000,2022,L,SE,US,US,other
 0,175000,2022,M,SE,US,US,Data Engineer
 0,155000,2022,M,SE,US,US,Data Engineer
 0,153600,2022,M,SE,US,US,Data Engineer
@@ -1696,28 +1830,30 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,121999,2022,M,SE,US,US,Data Science Consultant
 0,94500,2022,M,SE,US,US,Data Science Consultant
 0,170000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
 0,145000,2022,M,SE,US,US,Data Science Consultant
-0,127999,2022,M,SE,US,US,Data Science Consultant
+0,128000,2022,M,SE,US,US,Data Science Consultant
 0,145000,2022,M,SE,US,US,Data Engineer
 0,100000,2022,M,SE,US,US,Data Engineer
 0,175000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,145000,2022,M,SE,US,US,Data Engineer
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Applied Machine Learning Scientist
 0,150000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
 100,150000,2022,M,MI,US,US,Data Scientist
-100,127499,2022,M,MI,US,US,Data Scientist
-100,126499,2022,M,SE,US,US,Data Scientist
+100,127500,2022,M,MI,US,US,Data Scientist
+100,126500,2022,M,SE,US,US,Data Scientist
 100,51000,2022,M,SE,US,US,Data Scientist
-0,259999,2022,M,MI,US,US,Data Engineer
+0,260000,2022,M,MI,US,US,Data Engineer
 0,175000,2022,M,MI,US,US,Data Engineer
-100,249999,2022,M,SE,US,US,Data Engineer
-100,62999,2022,M,SE,US,US,Data Engineer
-100,210000,2022,M,SE,US,US,Machine Learning Engineer
-100,160000,2022,M,SE,US,US,Machine Learning Engineer
+100,40000,2022,M,EN,AU,other,other
+100,40000,2022,M,EN,other,AU,other
+100,250000,2022,M,SE,US,US,Data Engineer
+100,63000,2022,M,SE,US,US,Data Engineer
+100,210000,2022,M,SE,US,US,ML Engineer
+100,160000,2022,M,SE,US,US,ML Engineer
 100,272550,2022,M,SE,US,US,Data Scientist
 100,198200,2022,M,SE,US,US,Data Scientist
 100,94560,2022,M,MI,FR,FR,Data Scientist
@@ -1726,59 +1862,67 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,146000,2022,M,SE,US,US,Data Scientist
 0,150000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
-100,248400,2022,M,SE,CA,CA,Machine Learning Software Engineer
-100,183600,2022,M,SE,CA,CA,Machine Learning Software Engineer
+100,248399,2022,M,SE,CA,CA,other
+100,183600,2022,M,SE,CA,CA,other
 100,150000,2022,M,MI,US,US,Data Engineer
 100,150000,2022,M,MI,US,US,Data Engineer
-0,119999,2022,M,MI,US,US,Data Engineer
+100,40000,2022,M,EN,other,AU,other
+0,56722,2022,L,SE,IN,IN,other
+0,120000,2022,M,MI,US,US,Data Engineer
 0,95000,2022,M,MI,US,US,Data Engineer
 0,160000,2022,M,EN,US,US,Data Engineer
 0,135000,2022,M,EN,US,US,Data Engineer
+50,24165,2022,M,EN,other,other,Data Science Consultant
 100,216000,2022,M,SE,US,US,Data Engineer
 100,144000,2022,M,SE,US,US,Data Engineer
 0,85000,2022,M,EN,US,US,Data Engineer
-0,64999,2022,M,EN,US,US,Data Engineer
+0,65000,2022,M,EN,US,US,Data Engineer
 100,149000,2022,M,SE,US,US,Data Analyst
 100,118999,2022,M,SE,US,US,Data Analyst
 0,140000,2022,M,SE,US,US,Data Scientist
-0,119999,2022,M,SE,US,US,Data Scientist
+0,120000,2022,M,SE,US,US,Data Scientist
 0,150000,2022,M,MI,US,US,Data Scientist
 0,110000,2022,M,MI,US,US,Data Scientist
-100,245999,2022,M,SE,US,US,Machine Learning Engineer
-100,201000,2022,M,SE,US,US,Machine Learning Engineer
+100,246000,2022,M,SE,US,US,ML Engineer
+100,201000,2022,M,SE,US,US,ML Engineer
 0,190000,2022,M,SE,US,US,Data Scientist
 0,155000,2022,M,SE,US,US,Data Scientist
-100,234999,2022,M,SE,US,US,ML Engineer
+100,235000,2022,M,SE,US,US,ML Engineer
 100,185000,2022,M,SE,US,US,ML Engineer
-0,129999,2022,M,MI,US,US,Data Engineer
-0,114999,2022,M,MI,US,US,Data Engineer
+100,190000,2022,M,SE,US,US,other
+100,160000,2022,M,SE,US,US,other
+100,100000,2022,M,EN,US,US,other
+0,130000,2022,M,MI,US,US,Data Engineer
+0,115000,2022,M,MI,US,US,Data Engineer
 0,92350,2022,M,MI,GB,GB,Data Scientist
 0,67723,2022,M,MI,GB,GB,Data Scientist
 0,105000,2022,M,MI,US,US,Data Engineer
 0,70000,2022,M,MI,US,US,Data Engineer
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
-100,192000,2022,M,SE,US,US,Machine Learning Engineer
-100,164000,2022,M,SE,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
+100,192000,2022,M,SE,US,US,ML Engineer
+100,164000,2022,M,SE,US,US,ML Engineer
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
 0,75000,2022,M,SE,US,US,Data Engineer
 0,175000,2022,M,SE,US,US,Data Science Manager
-0,119999,2022,M,SE,US,US,Data Science Manager
+0,120000,2022,M,SE,US,US,Data Science Manager
 0,167500,2022,M,SE,US,US,Data Engineer
 0,106500,2022,M,SE,US,US,Data Engineer
 100,75000,2022,M,MI,US,US,Data Analyst
-100,59999,2022,M,MI,US,US,Data Analyst
+100,60000,2022,M,MI,US,US,Data Analyst
 100,184000,2022,M,SE,US,US,Applied Scientist
 100,142000,2022,M,SE,US,US,Applied Scientist
 0,145000,2022,M,MI,US,US,Data Scientist
 0,100000,2022,M,MI,US,US,Data Scientist
+50,10000,2022,S,EN,other,other,other
 100,31795,2022,M,MI,IN,US,Data Scientist
+100,44365,2022,S,MI,other,other,other
 0,175000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,175000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,200000,2022,M,EX,US,US,Data Engineer
 0,145000,2022,M,EX,US,US,Data Engineer
 100,92350,2022,M,MI,GB,GB,Data Engineer
@@ -1788,35 +1932,36 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,192000,2022,M,SE,US,US,Applied Scientist
 100,164000,2022,M,SE,US,US,Applied Scientist
 100,310000,2022,M,EX,US,US,Data Engineer
-100,238999,2022,M,EX,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Analyst
+100,239000,2022,M,EX,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Analyst
 0,95000,2022,M,SE,US,US,Data Analyst
-0,145000,2022,M,SE,US,US,Machine Learning Engineer
-0,135000,2022,M,SE,US,US,Machine Learning Engineer
+0,145000,2022,M,SE,US,US,ML Engineer
+0,135000,2022,M,SE,US,US,ML Engineer
 0,100000,2022,M,SE,US,US,Data Engineer
 0,78000,2022,M,SE,US,US,Data Engineer
 0,73546,2022,M,SE,ES,ES,Data Engineer
 0,36773,2022,M,SE,ES,ES,Data Engineer
 100,160000,2022,M,MI,US,US,Data Engineer
-100,119999,2022,M,MI,US,US,Data Engineer
+100,120000,2022,M,MI,US,US,Data Engineer
 0,190000,2022,M,SE,US,US,Data Scientist
 0,150000,2022,M,SE,US,US,Data Scientist
 50,35610,2022,L,MI,IN,IN,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+100,125000,2022,L,SE,other,other,AI Scientist
+0,120000,2022,M,SE,US,US,Data Engineer
 0,95000,2022,M,SE,US,US,Data Engineer
 0,150000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
 0,47280,2022,M,SE,ES,ES,Data Scientist
 0,37824,2022,M,SE,ES,ES,Data Scientist
-100,115934,2022,M,SE,US,US,Data Analyst
+100,115933,2022,M,SE,US,US,Data Analyst
 100,81666,2022,M,SE,US,US,Data Analyst
 100,175000,2022,M,SE,US,US,Data Scientist
 100,140000,2022,M,SE,US,US,Data Scientist
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,95000,2022,M,SE,US,US,Data Engineer
 0,249500,2022,M,SE,US,US,Research Engineer
 0,149850,2022,M,SE,US,US,Research Engineer
-100,122499,2022,M,MI,US,US,Analytics Engineer
+100,122500,2022,M,MI,US,US,Analytics Engineer
 100,100000,2022,M,MI,US,US,Analytics Engineer
 0,249500,2022,M,SE,US,US,Data Scientist
 0,149850,2022,M,SE,US,US,Data Scientist
@@ -1826,15 +1971,15 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,149850,2022,M,SE,US,US,Research Scientist
 100,58837,2022,S,MI,FR,FR,Computer Vision Engineer
 100,190000,2022,M,SE,US,US,Data Engineer
-100,119999,2022,M,SE,US,US,Data Engineer
+100,120000,2022,M,SE,US,US,Data Engineer
 100,126999,2022,M,SE,US,US,Data Analyst
 100,104000,2022,M,SE,US,US,Data Analyst
 100,210000,2022,M,SE,US,US,Data Scientist
 100,150000,2022,M,SE,US,US,Data Scientist
-100,210000,2022,M,SE,US,US,Machine Learning Engineer
-100,150000,2022,M,SE,US,US,Machine Learning Engineer
+100,210000,2022,M,SE,US,US,ML Engineer
+100,150000,2022,M,SE,US,US,ML Engineer
 100,210000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,Data Engineer
 100,182750,2022,M,SE,US,US,Data Scientist
 100,161500,2022,M,SE,US,US,Data Scientist
 100,102640,2022,M,MI,US,US,Data Analyst
@@ -1843,7 +1988,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,150000,2022,M,SE,US,US,Research Scientist
 0,198800,2022,M,SE,US,US,Data Engineer
 0,122600,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,MI,US,US,Data Engineer
+100,130000,2022,M,MI,US,US,Data Engineer
 100,80000,2022,M,MI,US,US,Data Engineer
 100,136000,2022,M,SE,US,US,Data Scientist
 100,104000,2022,M,SE,US,US,Data Scientist
@@ -1854,15 +1999,17 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,216000,2022,M,SE,US,US,Data Engineer
 100,144000,2022,M,SE,US,US,Data Engineer
 100,159000,2022,M,EX,US,US,Data Scientist
-100,129999,2022,M,EX,US,US,Data Scientist
-100,115934,2022,M,SE,US,US,Data Analyst
+100,130000,2022,M,EX,US,US,Data Scientist
+100,115933,2022,M,SE,US,US,Data Analyst
 100,81666,2022,M,SE,US,US,Data Analyst
 100,215000,2022,M,SE,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Data Engineer
-100,245999,2022,M,SE,US,US,Machine Learning Engineer
-100,201000,2022,M,SE,US,US,Machine Learning Engineer
+100,246000,2022,M,SE,US,US,ML Engineer
+100,201000,2022,M,SE,US,US,ML Engineer
 100,187000,2022,M,MI,US,US,Data Engineer
 100,153000,2022,M,MI,US,US,Data Engineer
+100,255000,2022,M,SE,other,other,ML Engineer
+100,185000,2022,M,SE,other,other,ML Engineer
 0,430967,2022,M,MI,GB,GB,Data Analyst
 0,55410,2022,M,MI,GB,GB,Data Analyst
 0,50432,2022,M,SE,ES,ES,Data Analyst
@@ -1871,18 +2018,22 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,110600,2022,M,SE,US,US,Data Analyst
 0,60938,2022,L,EN,DE,DE,BI Data Analyst
 100,140000,2022,M,SE,US,US,BI Developer
-100,119999,2022,M,SE,US,US,BI Developer
+100,120000,2022,M,SE,US,US,BI Developer
 100,75000,2022,M,MI,US,US,Data Analyst
-100,59999,2022,M,MI,US,US,Data Analyst
+100,60000,2022,M,MI,US,US,Data Analyst
+50,10000,2022,S,SE,CA,other,other
 50,50000,2022,L,EN,US,US,Data Analyst
+100,134000,2022,M,MI,US,US,other
+100,124000,2022,M,MI,US,US,other
 0,166700,2022,M,SE,US,US,Data Analyst
 0,118999,2022,M,SE,US,US,Data Analyst
 0,124234,2022,M,EN,US,US,Data Scientist
 0,74540,2022,M,EN,US,US,Data Scientist
 100,100000,2022,M,MI,US,US,Data Analyst
-100,64999,2022,M,MI,US,US,Data Analyst
+100,65000,2022,M,MI,US,US,Data Analyst
 50,16904,2021,L,MI,IN,IN,Data Analyst
 50,200000,2022,L,EN,CA,CA,AI Scientist
+100,12000,2022,L,EN,other,other,ML Engineer
 100,220000,2022,M,SE,US,US,Data Engineer
 100,146000,2022,M,SE,US,US,Data Engineer
 0,68293,2022,M,SE,ES,ES,Data Engineer
@@ -1890,7 +2041,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,110000,2022,M,SE,US,US,Data Specialist
 0,70000,2022,M,SE,US,US,Data Specialist
 50,50000,2022,L,EN,US,US,Data Analyst
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,95000,2022,M,SE,US,US,Data Engineer
 0,150000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
@@ -1898,83 +2049,93 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,37824,2022,M,SE,ES,ES,Data Scientist
 100,190000,2022,M,SE,US,US,Data Architect
 100,135000,2022,M,SE,US,US,Data Architect
-0,127999,2022,M,SE,US,US,Data Scientist
+0,128000,2022,M,SE,US,US,Data Scientist
 0,81500,2022,M,SE,US,US,Data Scientist
 100,173000,2022,M,SE,US,US,Data Scientist
 100,110000,2022,M,SE,US,US,Data Scientist
-0,192000,2022,M,SE,US,US,Machine Learning Engineer
-0,119999,2022,M,SE,US,US,Machine Learning Engineer
-100,115934,2022,M,SE,US,US,Data Analyst
+0,192000,2022,M,SE,US,US,ML Engineer
+0,120000,2022,M,SE,US,US,ML Engineer
+100,115933,2022,M,SE,US,US,Data Analyst
 100,81666,2022,M,SE,US,US,Data Analyst
-0,119999,2022,M,SE,US,US,Data Analyst
+0,120000,2022,M,SE,US,US,Data Analyst
 0,95000,2022,M,SE,US,US,Data Analyst
+100,190000,2022,L,SE,US,US,other
 100,194000,2022,M,SE,US,US,Data Engineer
-100,129400,2022,M,SE,US,US,Data Engineer
+100,129399,2022,M,SE,US,US,Data Engineer
 100,201000,2022,M,SE,US,US,Data Analyst
 100,89200,2022,M,SE,US,US,Data Analyst
 0,165000,2022,M,SE,US,US,Data Scientist
-0,124999,2022,M,SE,US,US,Data Scientist
-100,229999,2022,M,SE,US,US,Applied Scientist
+0,125000,2022,M,SE,US,US,Data Scientist
+100,230000,2022,M,SE,US,US,Applied Scientist
 100,196000,2022,M,SE,US,US,Applied Scientist
-0,129999,2022,M,MI,US,US,Machine Learning Engineer
-0,90000,2022,M,MI,US,US,Machine Learning Engineer
-0,229999,2022,M,MI,US,US,Machine Learning Engineer
-0,150000,2022,M,MI,US,US,Machine Learning Engineer
+0,130000,2022,M,MI,US,US,ML Engineer
+0,90000,2022,M,MI,US,US,ML Engineer
+100,150000,2022,M,MI,US,US,other
+100,100000,2022,M,MI,US,US,other
+0,230000,2022,M,MI,US,US,ML Engineer
+0,150000,2022,M,MI,US,US,ML Engineer
 0,153600,2022,M,SE,US,US,Data Engineer
 0,106800,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,MI,US,US,other
+100,100000,2022,M,MI,US,US,other
 100,216000,2022,M,SE,US,US,Data Engineer
 100,144000,2022,M,SE,US,US,Data Engineer
 0,180000,2022,M,MI,US,US,Data Scientist
-0,119999,2022,M,MI,US,US,Data Scientist
+0,120000,2022,M,MI,US,US,Data Scientist
 0,160000,2022,M,EN,US,US,Data Engineer
 0,135000,2022,M,EN,US,US,Data Engineer
 100,192500,2022,M,SE,US,US,Data Analyst
 100,140000,2022,M,SE,US,US,Data Analyst
 0,152500,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
-100,64999,2022,M,SE,US,US,Data Analyst
+0,130000,2022,M,SE,US,US,Data Engineer
+100,65000,2022,M,SE,US,US,Data Analyst
 100,55000,2022,M,SE,US,US,Data Analyst
 0,178750,2022,M,SE,US,US,Data Engineer
 0,160000,2022,M,SE,US,US,Data Engineer
-100,63040,2022,M,MI,FR,FR,Data Scientist
+100,63039,2022,M,MI,FR,FR,Data Scientist
 100,52533,2022,M,MI,FR,FR,Data Scientist
 0,165000,2022,M,MI,US,US,Machine Learning Scientist
 0,135000,2022,M,MI,US,US,Machine Learning Scientist
 100,170000,2022,M,SE,US,US,Analytics Engineer
-100,124999,2022,M,SE,US,US,Analytics Engineer
+100,125000,2022,M,SE,US,US,Analytics Engineer
 0,105000,2022,M,SE,US,US,Data Engineer
 0,70000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Scientist
+0,130000,2022,M,SE,US,US,Data Scientist
 0,95000,2022,M,SE,US,US,Data Scientist
 0,203500,2022,M,SE,US,US,Data Scientist
 0,152000,2022,M,SE,US,US,Data Scientist
 100,197430,2022,M,SE,US,US,Data Engineer
 100,134760,2022,M,SE,US,US,Data Engineer
-100,119999,2022,M,MI,US,US,Data Scientist
+100,120000,2022,M,MI,US,US,Data Scientist
 0,197000,2022,M,SE,US,US,Data Engineer
 0,99000,2022,M,SE,US,US,Data Engineer
 100,220000,2022,M,SE,US,US,Data Engineer
 100,162000,2022,M,SE,US,US,Data Engineer
+0,110446,2022,M,MI,other,other,Data Engineer
+0,79178,2022,M,MI,other,other,Data Engineer
 0,70186,2022,M,MI,GB,GB,Data Science Consultant
 0,51716,2022,M,MI,GB,GB,Data Science Consultant
 100,149040,2022,M,SE,US,US,Data Architect
-100,113900,2022,M,SE,US,US,Data Architect
+100,113899,2022,M,SE,US,US,Data Architect
 0,95000,2019,M,MI,US,US,Business Data Analyst
-100,114999,2021,S,SE,US,US,Data Analyst
+100,115000,2021,S,SE,US,US,Data Analyst
+100,171000,2022,L,SE,US,AU,Data Analyst
+100,13000,2022,S,EN,other,other,other
 0,100000,2022,M,SE,US,US,Data Engineer
 0,78000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,95000,2022,M,SE,US,US,Data Engineer
 0,110000,2022,M,SE,US,US,Data Specialist
 0,70000,2022,M,SE,US,US,Data Specialist
+100,50000,2022,S,EN,other,US,other
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 0,150000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
-100,229999,2022,M,SE,US,US,Data Engineer
+100,230000,2022,M,SE,US,US,Data Engineer
 100,154600,2022,M,SE,US,US,Data Engineer
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
 100,160000,2022,M,MI,US,US,Data Engineer
 100,75000,2022,M,MI,US,US,Data Engineer
 0,47280,2022,M,SE,ES,ES,Data Scientist
@@ -1982,76 +2143,80 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,213000,2022,M,SE,US,US,Data Engineer
 0,152000,2022,M,SE,US,US,Data Engineer
 100,140000,2022,M,SE,US,US,Data Scientist
-100,119999,2022,M,SE,US,US,Data Scientist
+100,120000,2022,M,SE,US,US,Data Scientist
 0,110000,2022,M,SE,US,US,Data Scientist
 0,70000,2022,M,SE,US,US,Data Scientist
-100,227200,2022,M,SE,CA,CA,Machine Learning Software Engineer
-100,168000,2022,M,SE,CA,CA,Machine Learning Software Engineer
-0,64090,2022,M,MI,DE,DE,Data Scientist
+100,227200,2022,M,SE,CA,CA,other
+100,168000,2022,M,SE,CA,CA,other
+0,20000,2021,M,EN,other,other,other
+0,64089,2022,M,MI,DE,DE,Data Scientist
 0,60938,2022,M,MI,DE,DE,Data Scientist
-100,242999,2022,M,SE,US,US,ML Engineer
+100,243000,2022,M,SE,US,US,ML Engineer
 100,183000,2022,M,SE,US,US,ML Engineer
 0,175000,2022,M,SE,US,US,Data Engineer
 0,150000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,MI,US,US,Data Scientist
+100,130000,2022,M,MI,US,US,Data Scientist
 100,90000,2022,M,MI,US,US,Data Scientist
 0,165000,2022,M,MI,US,US,Data Analyst
-0,123999,2022,M,MI,US,US,Data Analyst
+0,124000,2022,M,MI,US,US,Data Analyst
 0,178000,2022,M,SE,CA,CA,Data Engineer
 0,132000,2022,M,SE,CA,CA,Data Engineer
 0,300000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
-100,115999,2022,M,SE,US,US,Data Analyst
+100,116000,2022,M,SE,US,US,Data Analyst
 100,96000,2022,M,SE,US,US,Data Analyst
 0,92350,2022,M,SE,GB,GB,Data Analyst
 0,70186,2022,M,SE,GB,GB,Data Analyst
 0,105000,2022,M,SE,US,US,Data Analyst
 0,70000,2022,M,SE,US,US,Data Analyst
+50,105236,2022,L,MI,CA,CA,other
 100,194000,2022,M,SE,US,US,Data Engineer
-100,129400,2022,M,SE,US,US,Data Engineer
+100,129399,2022,M,SE,US,US,Data Engineer
 100,190000,2022,M,SE,US,US,Data Architect
 100,135000,2022,M,SE,US,US,Data Architect
 0,100000,2022,M,SE,US,US,Data Analyst
 0,70000,2022,M,SE,US,US,Data Analyst
-0,189750,2022,M,EN,US,US,Machine Learning Engineer
-0,140250,2022,M,EN,US,US,Machine Learning Engineer
-0,129999,2022,M,SE,US,US,Data Analyst
+0,189750,2022,M,EN,US,US,ML Engineer
+0,140250,2022,M,EN,US,US,ML Engineer
+0,130000,2022,M,SE,US,US,Data Analyst
 0,100000,2022,M,SE,US,US,Data Analyst
 0,160000,2022,M,MI,US,US,Data Analyst
 0,109000,2022,M,MI,US,US,Data Analyst
-0,249999,2022,M,SE,US,US,Research Engineer
+0,250000,2022,M,SE,US,US,Research Engineer
 0,150000,2022,M,SE,US,US,Research Engineer
 0,206000,2022,M,MI,US,US,Data Analyst
 0,160000,2022,M,MI,US,US,Data Analyst
 0,135000,2022,M,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
-100,115572,2022,M,SE,FR,FR,Machine Learning Engineer
-100,73546,2022,M,SE,FR,FR,Machine Learning Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
+100,115573,2022,M,SE,FR,FR,ML Engineer
+100,73546,2022,M,SE,FR,FR,ML Engineer
 0,160000,2022,M,EN,US,US,Data Engineer
 0,135000,2022,M,EN,US,US,Data Engineer
 0,150000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
-0,119999,2022,M,MI,US,US,Data Engineer
+0,120000,2022,M,MI,US,US,Data Engineer
 0,95000,2022,M,MI,US,US,Data Engineer
 0,68293,2022,M,SE,ES,ES,Data Engineer
 0,42026,2022,M,SE,ES,ES,Data Engineer
 0,191200,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
 0,191200,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
-0,229999,2022,L,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
+50,66192,2022,L,EN,DE,DE,other
+100,50000,2022,S,EN,US,other,other
+0,230000,2022,L,SE,US,US,Data Engineer
 0,154600,2022,L,SE,US,US,Data Engineer
-0,119999,2022,M,SE,US,US,Data Engineer
+0,120000,2022,M,SE,US,US,Data Engineer
 0,95000,2022,M,SE,US,US,Data Engineer
 0,140000,2022,M,SE,US,US,Data Scientist
-0,119999,2022,M,SE,US,US,Data Scientist
+0,120000,2022,M,SE,US,US,Data Scientist
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
 100,80000,2022,L,MI,US,US,Data Analyst
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
 0,135000,2022,M,SE,US,US,Analytics Engineer
 0,110000,2022,M,SE,US,US,Analytics Engineer
 0,155000,2022,M,MI,US,US,Data Analytics Manager
@@ -2061,12 +2226,12 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,179500,2022,M,SE,US,US,Data Engineer
 0,134000,2022,M,SE,US,US,Data Engineer
 0,180000,2022,M,MI,US,US,Data Scientist
-0,119999,2022,M,MI,US,US,Data Scientist
+0,120000,2022,M,MI,US,US,Data Scientist
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 100,175000,2022,M,SE,US,US,Data Scientist
 100,145000,2022,M,SE,US,US,Data Scientist
-100,234999,2022,M,SE,US,US,Data Architect
+100,235000,2022,M,SE,US,US,Data Architect
 100,175000,2022,M,SE,US,US,Data Architect
 50,27317,2022,L,EN,ES,ES,Data Science Consultant
 100,160000,2022,M,MI,US,US,Data Engineer
@@ -2074,58 +2239,62 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,68293,2022,M,SE,ES,ES,Data Engineer
 0,36773,2022,M,SE,ES,ES,Data Engineer
 0,145000,2022,M,SE,US,US,Data Engineer
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
 0,165000,2022,M,MI,US,US,Data Specialist
 0,135000,2022,M,MI,US,US,Data Specialist
 0,168400,2022,M,SE,US,US,Data Engineer
 0,105200,2022,M,SE,US,US,Data Engineer
+100,86193,2022,M,MI,GB,GB,other
+100,49253,2022,M,MI,GB,GB,other
 0,200000,2022,M,SE,US,US,Data Engineer
 0,160000,2022,M,SE,US,US,Data Engineer
 0,47280,2022,M,SE,ES,ES,Data Scientist
 0,37824,2022,M,SE,ES,ES,Data Scientist
 0,198800,2022,M,SE,US,US,Data Scientist
 0,122600,2022,M,SE,US,US,Data Scientist
+100,100000,2022,M,EN,other,other,ML Engineer
 50,105066,2022,M,MI,FR,FR,BI Data Analyst
-0,129999,2022,M,SE,US,US,Data Analyst
+0,130000,2022,M,SE,US,US,Data Analyst
 0,100000,2022,M,SE,US,US,Data Analyst
 0,104663,2022,M,MI,GB,GB,Analytics Engineer
 0,73880,2022,M,MI,GB,GB,Analytics Engineer
-100,124999,2022,M,SE,US,US,Data Engineer
+100,125000,2022,M,SE,US,US,Data Engineer
 100,110000,2022,M,SE,US,US,Data Engineer
 0,165000,2022,M,MI,US,US,Data Analyst
-0,123999,2022,M,MI,US,US,Data Analyst
+0,124000,2022,M,MI,US,US,Data Analyst
 100,148000,2022,M,SE,US,US,Data Scientist
 100,107000,2022,M,SE,US,US,Data Scientist
 0,150000,2022,M,MI,US,US,Data Analyst
 0,100000,2022,M,MI,US,US,Data Analyst
 0,160000,2022,M,EN,US,US,Data Engineer
 0,135000,2022,M,EN,US,US,Data Engineer
-0,119999,2022,M,MI,US,US,Data Engineer
+0,120000,2022,M,MI,US,US,Data Engineer
 0,95000,2022,M,MI,US,US,Data Engineer
 0,153600,2022,M,SE,US,US,Data Engineer
 0,106800,2022,M,SE,US,US,Data Engineer
 0,100000,2022,M,MI,CA,CA,Data Analyst
-0,64999,2022,M,MI,CA,CA,Data Analyst
-0,119999,2022,M,MI,US,US,Data Engineer
+0,65000,2022,M,MI,CA,CA,Data Analyst
+0,120000,2022,M,MI,US,US,Data Engineer
 0,95000,2022,M,MI,US,US,Data Engineer
-0,63040,2022,M,SE,PT,PT,Data Engineer
+0,63039,2022,M,SE,PT,PT,Data Engineer
 0,36773,2022,M,SE,PT,PT,Data Engineer
 100,310000,2022,M,EX,US,US,Data Engineer
-100,238999,2022,M,EX,US,US,Data Engineer
+100,239000,2022,M,EX,US,US,Data Engineer
 0,299500,2022,M,SE,US,US,Data Science Manager
 0,245100,2022,M,SE,US,US,Data Science Manager
 100,168000,2022,M,SE,US,US,Data Scientist
-100,129999,2022,M,SE,US,US,Data Scientist
+100,130000,2022,M,SE,US,US,Data Scientist
 100,136000,2022,M,SE,US,US,Data Scientist
 100,104000,2022,M,SE,US,US,Data Scientist
 100,161000,2022,M,MI,US,US,Data Engineer
-100,117999,2022,M,MI,US,US,Data Engineer
+100,118000,2022,M,MI,US,US,Data Engineer
 100,205000,2022,M,SE,US,US,Applied Scientist
 100,184000,2022,M,SE,US,US,Applied Scientist
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 0,247500,2022,M,SE,US,US,Data Science Manager
 0,172200,2022,M,SE,US,US,Data Science Manager
+0,68293,2022,L,SE,other,other,other
 0,177000,2022,M,SE,US,US,Data Analyst
 0,131000,2022,M,SE,US,US,Data Analyst
 100,205000,2022,M,SE,US,US,Applied Scientist
@@ -2134,15 +2303,15 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,102000,2022,M,SE,US,US,Data Engineer
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
-100,229999,2022,M,SE,US,US,Applied Scientist
+100,230000,2022,M,SE,US,US,Applied Scientist
 100,196000,2022,M,SE,US,US,Applied Scientist
 0,135000,2022,M,SE,US,US,Data Engineer
 0,100000,2022,M,SE,US,US,Data Engineer
 0,80000,2022,M,MI,US,US,Data Engineer
-0,64999,2022,M,MI,US,US,Data Engineer
+0,65000,2022,M,MI,US,US,Data Engineer
 0,135000,2022,M,SE,US,US,Data Engineer
 0,100000,2022,M,SE,US,US,Data Engineer
-100,61566,2022,M,SE,GB,GB,Data Engineer
+100,61565,2022,M,SE,GB,GB,Data Engineer
 100,43096,2022,M,SE,GB,GB,Data Engineer
 100,175000,2022,M,MI,US,US,Data Engineer
 100,135000,2022,M,MI,US,US,Data Engineer
@@ -2163,20 +2332,21 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,126999,2022,M,SE,US,US,Data Scientist
 100,300000,2022,M,SE,US,US,Research Scientist
 100,196000,2022,M,SE,US,US,Research Scientist
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
+50,45555,2021,M,MI,other,other,other
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
 0,47280,2022,M,SE,ES,ES,Data Scientist
 0,37824,2022,M,SE,ES,ES,Data Scientist
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
 100,205000,2022,M,SE,US,US,Data Scientist
 100,185000,2022,M,SE,US,US,Data Scientist
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
-0,247500,2022,M,SE,US,US,Machine Learning Engineer
-0,172200,2022,M,SE,US,US,Machine Learning Engineer
+0,129299,2022,M,SE,US,US,Data Scientist
+0,247500,2022,M,SE,US,US,ML Engineer
+0,172200,2022,M,SE,US,US,ML Engineer
 0,160000,2022,M,EN,US,US,Data Engineer
 0,135000,2022,M,EN,US,US,Data Engineer
 0,150000,2022,M,MI,US,US,Data Analyst
@@ -2184,34 +2354,40 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,110000,2022,M,SE,US,US,Data Analyst
 0,95000,2022,M,SE,US,US,Data Analyst
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 100,205000,2022,M,SE,US,US,Applied Scientist
 100,184000,2022,M,SE,US,US,Applied Scientist
+100,17684,2022,M,EN,other,other,Data Scientist
+50,375000,2022,L,SE,US,US,other
 0,191200,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
 0,225000,2022,M,SE,US,US,Data Scientist
 0,156400,2022,M,SE,US,US,Data Scientist
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
-0,104663,2022,M,MI,GB,GB,Machine Learning Engineer
-0,80036,2022,M,MI,GB,GB,Machine Learning Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
+0,104663,2022,M,MI,GB,GB,ML Engineer
+0,80036,2022,M,MI,GB,GB,ML Engineer
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 0,140700,2022,M,SE,US,US,Data Scientist
 0,93800,2022,M,SE,US,US,Data Scientist
 100,350000,2022,M,SE,US,US,Data Scientist
 100,135000,2022,M,SE,US,US,Data Scientist
-100,115934,2022,M,SE,US,US,Data Analyst
+100,115933,2022,M,SE,US,US,Data Analyst
 100,81666,2022,M,SE,US,US,Data Analyst
-0,201000,2022,M,SE,US,US,Machine Learning Engineer
-0,118999,2022,M,SE,US,US,Machine Learning Engineer
+100,12000,2022,L,EN,other,US,other
+100,104697,2022,L,MI,other,other,ML Engineer
+100,33000,2022,S,EN,other,DE,other
+100,34672,2022,S,EN,other,DE,Machine Learning Scientist
+0,201000,2022,M,SE,US,US,ML Engineer
+0,118999,2022,M,SE,US,US,ML Engineer
 100,175000,2022,M,SE,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Data Engineer
 0,154560,2022,M,SE,US,US,Data Analyst
 0,123648,2022,M,SE,US,US,Data Analyst
-0,129999,2022,M,SE,US,US,Data Analyst
+0,130000,2022,M,SE,US,US,Data Analyst
 0,100000,2022,M,SE,US,US,Data Analyst
 0,170000,2022,M,MI,US,US,Data Engineer
 0,145000,2022,M,MI,US,US,Data Engineer
@@ -2222,10 +2398,10 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,177500,2022,M,SE,US,US,Data Scientist
 100,134000,2022,M,SE,US,US,Data Scientist
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 100,192564,2022,M,SE,US,US,Data Architect
 100,144854,2022,M,SE,US,US,Data Architect
-0,129999,2022,M,SE,US,US,Data Analyst
+0,130000,2022,M,SE,US,US,Data Analyst
 0,105000,2022,M,SE,US,US,Data Analyst
 100,179305,2022,M,SE,US,US,Data Engineer
 100,142127,2022,M,SE,US,US,Data Engineer
@@ -2239,8 +2415,9 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,79000,2022,M,MI,US,US,Data Analyst
 0,160000,2022,M,MI,US,US,Data Analyst
 0,109000,2022,M,MI,US,US,Data Analyst
+50,89306,2022,L,MI,other,other,other
 100,182500,2022,M,SE,US,US,Data Engineer
-100,128499,2022,M,SE,US,US,Data Engineer
+100,128500,2022,M,SE,US,US,Data Engineer
 100,160000,2022,M,MI,US,US,Data Engineer
 100,90000,2022,M,MI,US,US,Data Engineer
 100,77300,2022,M,EN,US,US,Data Manager
@@ -2249,15 +2426,16 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,110000,2022,M,SE,US,US,Data Analyst
 100,210000,2022,M,SE,US,US,Data Architect
 100,136000,2022,M,SE,US,US,Data Architect
+100,12608,2022,S,SE,other,other,other
 100,170000,2022,M,SE,US,US,Data Engineer
 100,140000,2022,M,SE,US,US,Data Engineer
 0,247500,2022,M,SE,US,US,Data Engineer
 0,172200,2022,M,SE,US,US,Data Engineer
 0,225000,2022,M,SE,US,US,Data Engineer
 0,184100,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,MI,US,US,Machine Learning Engineer
-0,90000,2022,M,MI,US,US,Machine Learning Engineer
-100,119999,2022,M,MI,US,US,Data Scientist
+0,130000,2022,M,MI,US,US,ML Engineer
+0,90000,2022,M,MI,US,US,ML Engineer
+100,120000,2022,M,MI,US,US,Data Scientist
 100,100000,2022,M,MI,US,US,Data Scientist
 100,85000,2022,M,MI,US,US,Data Scientist
 100,78000,2022,M,MI,US,US,Data Scientist
@@ -2267,15 +2445,15 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,104000,2022,M,SE,US,US,Data Scientist
 0,47280,2022,M,SE,ES,ES,Data Scientist
 0,37824,2022,M,SE,ES,ES,Data Scientist
-0,205000,2022,M,EX,US,US,Head of Data
-0,160000,2022,M,EX,US,US,Head of Data
+0,205000,2022,M,EX,US,US,other
+0,160000,2022,M,EX,US,US,other
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
-100,61566,2022,M,EN,GB,GB,Data Engineer
+100,61565,2022,M,EN,GB,GB,Data Engineer
 100,49253,2022,M,EN,GB,GB,Data Engineer
 0,160000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
-0,244999,2022,M,SE,US,US,Data Scientist
+0,130000,2022,M,SE,US,US,Data Engineer
+0,245000,2022,M,SE,US,US,Data Scientist
 0,180000,2022,M,SE,US,US,Data Scientist
 0,135000,2022,M,SE,US,US,Data Engineer
 0,100000,2022,M,SE,US,US,Data Engineer
@@ -2283,34 +2461,35 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,150000,2022,M,SE,US,US,Data Engineer
 0,198440,2022,L,SE,US,US,Data Scientist
 0,144000,2022,L,SE,US,US,Data Scientist
-0,239999,2022,M,SE,US,US,Data Engineer
+0,240000,2022,M,SE,US,US,Data Engineer
 0,170000,2022,M,SE,US,US,Data Engineer
 0,198440,2022,M,SE,US,US,Data Scientist
 0,144000,2022,M,SE,US,US,Data Scientist
 100,150000,2022,M,MI,US,US,Data Analyst
 100,100000,2022,M,MI,US,US,Data Analyst
-0,119999,2022,M,SE,US,US,Data Analyst
+0,120000,2022,M,SE,US,US,Data Analyst
 0,95000,2022,M,SE,US,US,Data Analyst
 50,57872,2022,M,MI,GB,GB,Data Scientist
-100,63999,2022,L,EN,US,US,Data Analyst
+100,64000,2022,L,EN,US,US,Data Analyst
 50,39925,2022,L,EN,FR,FR,Data Scientist
-100,187200,2022,M,SE,CA,CA,Machine Learning Engineer
-100,116100,2022,M,SE,CA,CA,Machine Learning Engineer
+100,187200,2022,M,SE,CA,CA,ML Engineer
+100,116100,2022,M,SE,CA,CA,ML Engineer
 0,150000,2022,M,SE,US,US,Data Analyst
 0,126999,2022,M,SE,US,US,Data Analyst
 100,275000,2022,M,SE,US,US,Data Engineer
 100,166000,2022,M,SE,US,US,Data Engineer
 0,159699,2022,M,SE,US,US,Data Scientist
 0,138938,2022,M,SE,US,US,Data Scientist
+50,76000,2022,L,EN,US,US,other
 0,166700,2022,M,SE,US,US,Data Analyst
 0,118999,2022,M,SE,US,US,Data Analyst
-0,129999,2022,M,SE,US,US,Data Analyst
+0,130000,2022,M,SE,US,US,Data Analyst
 0,100000,2022,M,SE,US,US,Data Analyst
 0,103432,2022,M,SE,GB,GB,Analytics Engineer
 0,92350,2022,M,SE,GB,GB,Analytics Engineer
 0,80000,2022,M,SE,US,US,Data Analyst
 0,52500,2022,M,SE,US,US,Data Analyst
-100,235999,2022,M,SE,US,US,Data Engineer
+100,236000,2022,M,SE,US,US,Data Engineer
 100,182000,2022,M,SE,US,US,Data Engineer
 100,180000,2022,M,SE,US,US,Data Scientist
 100,140000,2022,M,SE,US,US,Data Scientist
@@ -2318,15 +2497,18 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,156400,2022,M,SE,US,US,Data Scientist
 100,135000,2022,M,SE,US,US,Data Analyst
 100,100000,2022,M,SE,US,US,Data Analyst
-0,204500,2022,M,SE,US,US,Machine Learning Engineer
-0,142200,2022,M,SE,US,US,Machine Learning Engineer
-100,239999,2022,M,MI,US,US,Research Engineer
+0,204500,2022,M,SE,US,US,ML Engineer
+0,142200,2022,M,SE,US,US,ML Engineer
+100,240000,2022,M,MI,US,US,Research Engineer
+50,125404,2022,S,EN,other,US,Data Analyst
 0,300000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
 100,195000,2022,M,SE,US,US,Data Engineer
 100,175000,2022,M,SE,US,US,Data Engineer
 0,155000,2022,M,SE,US,US,Data Engineer
 0,110000,2022,M,SE,US,US,Data Engineer
+0,123000,2022,M,SE,US,US,other
+0,92250,2022,M,SE,US,US,other
 0,170000,2022,M,SE,US,US,Data Engineer
 0,150000,2022,M,SE,US,US,Data Engineer
 100,180000,2022,M,MI,US,US,ML Engineer
@@ -2335,9 +2517,9 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,90000,2022,M,SE,US,US,Data Engineer
 0,200000,2022,M,SE,US,US,Data Engineer
 0,160000,2022,M,SE,US,US,Data Engineer
-100,210000,2022,M,SE,US,US,Machine Learning Engineer
-100,180000,2022,M,SE,US,US,Machine Learning Engineer
-0,259999,2022,M,SE,US,US,Data Engineer
+100,210000,2022,M,SE,US,US,ML Engineer
+100,180000,2022,M,SE,US,US,ML Engineer
+0,260000,2022,M,SE,US,US,Data Engineer
 0,180000,2022,M,SE,US,US,Data Engineer
 100,210000,2022,M,EX,US,US,Analytics Engineer
 100,157000,2022,M,EX,US,US,Analytics Engineer
@@ -2345,14 +2527,14 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,100000,2022,M,EN,US,US,Data Scientist
 0,80000,2022,M,MI,US,US,Data Analyst
 0,52500,2022,M,MI,US,US,Data Analyst
-0,127999,2022,M,SE,US,US,Data Architect
+0,128000,2022,M,SE,US,US,Data Architect
 0,81500,2022,M,SE,US,US,Data Architect
-0,105000,2022,M,SE,US,US,Data Operations Engineer
-0,70000,2022,M,SE,US,US,Data Operations Engineer
+0,105000,2022,M,SE,US,US,other
+0,70000,2022,M,SE,US,US,other
 0,175000,2022,M,SE,US,US,Data Scientist
-0,122499,2022,M,SE,US,US,Data Scientist
+0,122500,2022,M,SE,US,US,Data Scientist
 0,171000,2022,M,SE,US,US,Data Engineer
-0,116999,2022,M,SE,US,US,Data Engineer
+0,117000,2022,M,SE,US,US,Data Engineer
 0,202800,2022,L,SE,US,US,Data Scientist
 0,104300,2022,L,SE,US,US,Data Scientist
 0,50432,2022,M,SE,ES,ES,Data Analyst
@@ -2362,11 +2544,12 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,160000,2022,M,SE,US,US,Data Engineer
 0,110000,2022,M,SE,US,US,Data Engineer
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
+100,30000,2022,L,MI,other,other,Data Scientist
 100,78000,2022,M,MI,BR,BR,Analytics Engineer
 100,48000,2022,M,MI,BR,BR,Analytics Engineer
 0,170000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
 0,150000,2022,M,SE,US,US,Data Analyst
 0,95000,2022,M,SE,US,US,Data Analyst
 100,78000,2022,M,MI,BR,BR,Data Engineer
@@ -2374,7 +2557,9 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,345600,2022,M,SE,US,US,Data Architect
 0,230400,2022,M,SE,US,US,Data Architect
 0,145000,2022,M,SE,US,US,Data Engineer
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
+100,78000,2022,M,MI,BR,BR,other
+100,48000,2022,M,MI,BR,BR,other
 100,175950,2022,M,SE,US,US,Data Analyst
 100,130050,2022,M,SE,US,US,Data Analyst
 0,205600,2022,L,SE,US,US,Data Engineer
@@ -2384,25 +2569,30 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,84000,2022,M,MI,BR,BR,Data Scientist
 100,54000,2022,M,MI,BR,BR,Data Scientist
 100,80000,2022,L,EN,US,US,Data Scientist
+100,200000,2022,S,SE,GB,GB,other
 100,73742,2022,L,EN,CA,CA,Data Scientist
+50,165000,2022,S,SE,US,US,other
 50,33246,2022,L,EN,GB,GB,Data Scientist
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
+50,5409,2021,L,EN,IN,IN,other
+50,75050,2021,L,MI,AU,AU,Data Engineer
 0,225000,2022,M,SE,US,US,Data Engineer
 0,184100,2022,M,SE,US,US,Data Engineer
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 0,225000,2022,M,SE,US,US,Data Scientist
 0,156400,2022,M,SE,US,US,Data Scientist
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
-0,108000,2022,S,EN,US,US,Machine Learning Engineer
+0,129299,2022,M,SE,US,US,Data Scientist
+0,108000,2022,S,EN,US,US,ML Engineer
+100,8000,2022,L,SE,IN,other,other
 100,155000,2022,M,SE,US,US,Data Scientist
 100,38000,2022,M,SE,US,US,Data Scientist
 0,85000,2022,M,MI,US,US,Data Analyst
-0,64999,2022,M,MI,US,US,Data Analyst
+0,65000,2022,M,MI,US,US,Data Analyst
 100,155000,2022,M,SE,US,US,Data Scientist
 100,38000,2022,M,SE,US,US,Data Scientist
 0,110820,2022,M,MI,GB,GB,Data Engineer
@@ -2412,42 +2602,42 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,185000,2022,M,SE,US,US,Data Scientist
 100,50000,2022,M,SE,US,US,Data Scientist
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
 100,155000,2022,M,SE,US,US,Data Scientist
 100,38000,2022,M,SE,US,US,Data Scientist
 100,168000,2022,M,SE,US,US,Data Scientist
-100,129999,2022,M,SE,US,US,Data Scientist
+100,130000,2022,M,SE,US,US,Data Scientist
 0,123400,2022,M,SE,US,US,Data Scientist
 0,88100,2022,M,SE,US,US,Data Scientist
-100,119999,2022,S,SE,US,US,Data Scientist
+100,120000,2022,S,SE,US,US,Data Scientist
 100,55000,2022,S,SE,US,US,Data Scientist
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 0,191200,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
 0,169000,2022,M,SE,US,US,Data Analyst
 0,110600,2022,M,SE,US,US,Data Analyst
 0,150000,2022,M,SE,US,US,Analytics Engineer
-0,119999,2022,M,SE,US,US,Analytics Engineer
+0,120000,2022,M,SE,US,US,Analytics Engineer
 0,139000,2022,M,SE,US,US,Data Science Consultant
 0,121999,2022,M,SE,US,US,Data Science Consultant
 0,185900,2022,M,SE,US,US,Data Scientist
-0,129300,2022,M,SE,US,US,Data Scientist
+0,129299,2022,M,SE,US,US,Data Scientist
 0,139600,2022,M,SE,US,US,Data Analyst
 0,85700,2022,M,SE,US,US,Data Analyst
 100,185000,2022,M,SE,US,US,Data Engineer
 100,50000,2022,M,SE,US,US,Data Engineer
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
 0,225000,2022,M,SE,US,US,Data Scientist
 0,156400,2022,M,SE,US,US,Data Scientist
 100,200000,2022,M,SE,US,US,Data Scientist
 100,175000,2022,M,SE,US,US,Data Scientist
 0,185900,2022,M,SE,US,US,Data Engineer
-0,129300,2022,M,SE,US,US,Data Engineer
+0,129299,2022,M,SE,US,US,Data Engineer
 100,148500,2022,L,MI,US,US,ML Engineer
 100,98200,2022,L,MI,US,US,ML Engineer
-100,114999,2022,M,SE,US,US,Data Analyst
+100,115000,2022,M,SE,US,US,Data Analyst
 100,95000,2022,M,SE,US,US,Data Analyst
 100,225000,2022,M,SE,US,US,Data Architect
 100,66000,2022,M,SE,US,US,Data Architect
@@ -2458,11 +2648,13 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,134000,2022,M,MI,US,US,Data Manager
 0,98000,2022,M,MI,US,US,Data Manager
 0,105000,2022,M,MI,US,US,Data Analyst
-0,61999,2022,M,MI,US,US,Data Analyst
-100,57000,2022,L,EN,US,US,BI Data Analyst
+0,62000,2022,M,MI,US,US,Data Analyst
+100,56999,2022,L,EN,US,US,BI Data Analyst
 50,161311,2022,M,SE,CA,CA,Big Data Engineer
 100,144200,2022,M,MI,US,US,Data Scientist
 100,115360,2022,M,MI,US,US,Data Scientist
+0,83171,2022,L,MI,AU,AU,Data Scientist
+100,38154,2022,L,SE,IN,IN,other
 0,73546,2022,M,SE,PT,PT,Data Engineer
 0,42026,2022,M,SE,PT,PT,Data Engineer
 100,170000,2022,M,SE,US,US,Data Engineer
@@ -2470,10 +2662,12 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,180000,2022,M,SE,US,US,Data Architect
 100,160000,2022,M,SE,US,US,Data Architect
 50,108000,2022,L,MI,US,US,Data Scientist
-50,125975,2022,L,EX,CA,CA,Data Manager
+100,200000,2022,M,SE,US,US,other
+100,150000,2022,M,SE,US,US,other
+50,125976,2022,L,EX,CA,CA,Data Manager
 100,188700,2022,M,SE,US,US,Data Engineer
 100,160395,2022,M,SE,US,US,Data Engineer
-100,115934,2022,M,SE,US,US,Data Analyst
+100,115933,2022,M,SE,US,US,Data Analyst
 100,81666,2022,M,SE,US,US,Data Analyst
 0,300000,2022,M,SE,US,US,Data Engineer
 0,225000,2022,M,SE,US,US,Data Engineer
@@ -2484,31 +2678,40 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,50432,2022,M,SE,ES,ES,Data Analyst
 0,36773,2022,M,SE,ES,ES,Data Analyst
 100,75648,2022,S,MI,DE,DE,Data Scientist
+100,156868,2022,L,SE,US,US,other
+100,200000,2022,S,SE,other,other,other
 0,198440,2022,L,SE,US,US,Data Scientist
 0,144000,2022,L,SE,US,US,Data Scientist
+100,69344,2022,L,SE,PT,PT,other
+100,5132,2022,M,MI,other,other,other
 100,90000,2022,M,SE,US,US,Data Analyst
-0,126080,2022,S,MI,DE,DE,Research Scientist
+0,126079,2022,S,MI,DE,DE,Research Scientist
 0,84053,2022,S,MI,DE,DE,Research Scientist
 100,200000,2022,M,SE,US,US,Data Engineer
 100,180000,2022,M,SE,US,US,Data Engineer
 100,108000,2022,M,MI,US,US,Analytics Engineer
 100,85000,2022,M,MI,US,US,Analytics Engineer
-100,210000,2022,M,SE,US,US,Machine Learning Engineer
-100,180000,2022,M,SE,US,US,Machine Learning Engineer
+100,210000,2022,M,SE,US,US,ML Engineer
+100,180000,2022,M,SE,US,US,ML Engineer
 100,165000,2022,M,SE,US,US,Data Engineer
 100,132000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Analytics Engineer
+100,130000,2022,M,SE,US,US,Analytics Engineer
 100,110000,2022,M,SE,US,US,Analytics Engineer
+50,45050,2022,L,MI,AU,AU,BI Data Analyst
+50,42028,2021,L,EN,AU,AU,Data Analyst
+100,135000,2022,L,MI,US,US,other
 100,178800,2022,L,SE,US,US,Data Engineer
 100,132100,2022,L,SE,US,US,Data Engineer
-0,140000,2022,M,SE,CA,CA,Machine Learning Engineer
-0,110000,2022,M,SE,CA,CA,Machine Learning Engineer
+50,20000,2022,M,EN,other,US,Data Analyst
+0,140000,2022,M,SE,CA,CA,ML Engineer
+0,110000,2022,M,SE,CA,CA,ML Engineer
 100,160000,2022,M,SE,US,US,Data Engineer
 100,85000,2022,M,SE,US,US,Data Engineer
-100,249999,2022,M,SE,US,US,ETL Developer
-100,62999,2022,M,SE,US,US,ETL Developer
+100,250000,2022,M,SE,US,US,other
+100,63000,2022,M,SE,US,US,other
 100,187200,2022,M,EX,US,US,Data Engineer
 100,116100,2022,M,EX,US,US,Data Engineer
+0,10000,2022,M,MI,other,other,Data Scientist
 100,200000,2022,M,SE,US,US,Data Engineer
 100,145000,2022,M,SE,US,US,Data Engineer
 0,229998,2022,L,SE,US,US,Data Engineer
@@ -2518,6 +2721,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,229998,2022,L,SE,US,US,Data Engineer
 0,154545,2022,L,SE,US,US,Data Engineer
 100,50000,2022,M,EN,US,US,AI Scientist
+100,183000,2022,L,SE,US,US,other
 100,99750,2022,M,SE,US,US,Data Analyst
 100,68400,2022,M,SE,US,US,Data Analyst
 100,236900,2022,L,SE,US,US,Data Scientist
@@ -2526,13 +2730,13 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,179775,2022,M,SE,US,US,Data Science Manager
 100,175000,2022,M,SE,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Data Engineer
-100,210000,2022,M,SE,US,US,Machine Learning Engineer
-100,180000,2022,M,SE,US,US,Machine Learning Engineer
+100,210000,2022,M,SE,US,US,ML Engineer
+100,180000,2022,M,SE,US,US,ML Engineer
 100,148000,2022,M,SE,US,US,Data Scientist
-100,127999,2022,M,SE,US,US,Data Scientist
+100,128000,2022,M,SE,US,US,Data Scientist
 100,190000,2022,M,SE,US,US,Data Architect
 100,135000,2022,M,SE,US,US,Data Architect
-100,129999,2022,M,SE,US,US,Analytics Engineer
+100,130000,2022,M,SE,US,US,Analytics Engineer
 100,110000,2022,M,SE,US,US,Analytics Engineer
 100,191475,2022,M,SE,US,US,Data Scientist
 100,141525,2022,M,SE,US,US,Data Scientist
@@ -2542,6 +2746,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,145300,2022,M,SE,US,US,Data Scientist
 100,195400,2022,L,SE,US,US,ML Engineer
 100,131300,2022,L,SE,US,US,ML Engineer
+100,105000,2022,L,EN,other,US,Data Specialist
 100,191475,2022,M,SE,US,US,Data Scientist
 100,141525,2022,M,SE,US,US,Data Scientist
 100,207000,2022,M,SE,US,US,Data Scientist
@@ -2556,6 +2761,8 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,141525,2022,M,SE,US,US,Data Scientist
 100,191475,2022,M,SE,US,US,Data Scientist
 100,141525,2022,M,SE,US,US,Data Scientist
+100,200000,2022,M,SE,other,other,ML Engineer
+100,135000,2022,M,SE,other,other,ML Engineer
 100,207000,2022,M,SE,US,US,Data Scientist
 100,153000,2022,M,SE,US,US,Data Scientist
 100,191475,2022,M,SE,US,US,Data Scientist
@@ -2565,11 +2772,11 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,191475,2022,M,SE,US,US,Data Scientist
 100,141525,2022,M,SE,US,US,Data Scientist
 0,195700,2022,M,SE,US,US,Data Engineer
-0,130499,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,ML Engineer
+0,130500,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,ML Engineer
 100,84000,2022,M,SE,US,US,ML Engineer
-100,100000,2022,M,MI,US,US,Data Operations Engineer
-100,59999,2022,M,MI,US,US,Data Operations Engineer
+100,100000,2022,M,MI,US,US,other
+100,60000,2022,M,MI,US,US,other
 100,80036,2022,M,MI,GB,GB,Data Engineer
 100,67723,2022,M,MI,GB,GB,Data Engineer
 0,141300,2022,M,SE,US,US,Data Engineer
@@ -2581,11 +2788,11 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 50,22892,2022,M,EN,IN,IN,Data Scientist
 100,144000,2022,M,SE,US,US,Data Analyst
 100,113000,2022,M,SE,US,US,Data Analyst
-100,31520,2022,M,EN,PT,ES,AI Scientist
+100,31519,2022,M,EN,PT,ES,AI Scientist
 100,195400,2022,L,SE,US,US,Data Architect
 100,131300,2022,L,SE,US,US,Data Architect
-100,195400,2022,L,SE,US,US,Machine Learning Engineer
-100,131300,2022,L,SE,US,US,Machine Learning Engineer
+100,195400,2022,L,SE,US,US,ML Engineer
+100,131300,2022,L,SE,US,US,ML Engineer
 100,195400,2022,L,SE,US,US,Data Architect
 100,131300,2022,L,SE,US,US,Data Architect
 100,190000,2022,M,SE,US,US,Data Architect
@@ -2597,41 +2804,46 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,85000,2022,M,SE,US,US,Data Engineer
 100,178800,2022,L,SE,US,US,Data Engineer
 100,132100,2022,L,SE,US,US,Data Engineer
+100,60000,2022,S,MI,IN,US,other
+50,63039,2022,S,SE,other,other,ML Engineer
+100,50000,2022,L,EN,IN,other,Business Data Analyst
 100,140000,2022,M,SE,US,US,Data Engineer
 100,105000,2022,M,SE,US,US,Data Engineer
 100,80036,2022,M,MI,GB,GB,Data Engineer
 100,67723,2022,M,MI,GB,GB,Data Engineer
 100,190000,2022,M,SE,US,US,Analytics Engineer
 100,140000,2022,M,SE,US,US,Analytics Engineer
-100,100000,2022,M,MI,US,US,Data Operations Engineer
-100,59999,2022,M,MI,US,US,Data Operations Engineer
+100,100000,2022,M,MI,US,US,other
+100,60000,2022,M,MI,US,US,other
 100,180000,2022,L,SE,US,US,Data Scientist
 100,165000,2022,L,SE,US,US,Data Scientist
 0,108000,2022,L,SE,US,US,Applied Machine Learning Scientist
+50,20000,2021,M,EN,FR,FR,other
 100,190000,2022,M,SE,US,US,Data Architect
 100,135000,2022,M,SE,US,US,Data Architect
 0,179400,2022,M,SE,US,US,Data Scientist
 0,154000,2022,M,SE,US,US,Data Scientist
 0,193900,2022,M,SE,US,US,Machine Learning Scientist
-0,129300,2022,M,SE,US,US,Machine Learning Scientist
+0,129299,2022,M,SE,US,US,Machine Learning Scientist
 0,222640,2022,M,EX,US,US,Data Science Manager
 0,182160,2022,M,EX,US,US,Data Science Manager
 0,150000,2022,M,MI,US,US,Data Engineer
 0,100000,2022,M,MI,US,US,Data Engineer
-100,122499,2022,M,SE,US,US,Analytics Engineer
+100,122500,2022,M,SE,US,US,Analytics Engineer
 100,100000,2022,M,SE,US,US,Analytics Engineer
 100,297500,2022,M,EX,US,US,Data Engineer
-100,259999,2022,M,EX,US,US,Data Engineer
+100,260000,2022,M,EX,US,US,Data Engineer
+100,15000,2021,L,EN,other,other,other
 100,193000,2022,M,SE,ES,US,Data Engineer
 0,93000,2022,M,EN,US,US,Data Scientist
 0,73000,2022,M,EN,US,US,Data Scientist
-100,100000,2022,M,MI,US,US,Data Operations Engineer
-100,59999,2022,M,MI,US,US,Data Operations Engineer
-100,7799,2022,L,EN,BR,BR,Data Analyst
+100,100000,2022,M,MI,US,US,other
+100,60000,2022,M,MI,US,US,other
+100,7798,2022,L,EN,BR,BR,Data Analyst
 100,136994,2022,M,SE,US,US,Data Scientist
 100,101570,2022,M,SE,US,US,Data Scientist
-100,249999,2022,M,SE,US,US,ETL Developer
-100,62999,2022,M,SE,US,US,ETL Developer
+100,250000,2022,M,SE,US,US,other
+100,63000,2022,M,SE,US,US,other
 0,134000,2022,M,MI,US,US,Data Manager
 0,98000,2022,M,MI,US,US,Data Manager
 100,191475,2022,M,SE,US,US,Data Scientist
@@ -2644,14 +2856,14 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,215000,2022,M,SE,US,US,Data Engineer
 0,164000,2022,M,SE,US,US,Data Engineer
 0,300000,2022,M,SE,US,US,Data Engineer
-0,129999,2022,M,SE,US,US,Data Engineer
-100,249999,2022,M,SE,US,US,Data Engineer
-100,62999,2022,M,SE,US,US,Data Engineer
+0,130000,2022,M,SE,US,US,Data Engineer
+100,250000,2022,M,SE,US,US,Data Engineer
+100,63000,2022,M,SE,US,US,Data Engineer
 100,180000,2022,M,SE,US,US,Data Engineer
 100,150000,2022,M,SE,US,US,Data Engineer
 50,45390,2021,L,EN,GB,GB,Data Engineer
-100,249999,2022,M,SE,US,US,Data Engineer
-100,62999,2022,M,SE,US,US,Data Engineer
+100,250000,2022,M,SE,US,US,Data Engineer
+100,63000,2022,M,SE,US,US,Data Engineer
 100,191475,2022,M,SE,US,US,Data Scientist
 100,141525,2022,M,SE,US,US,Data Scientist
 100,97500,2022,L,MI,US,US,Data Analyst
@@ -2661,11 +2873,11 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 50,50000,2022,M,EN,US,DE,Data Scientist
 100,6359,2022,L,EN,FR,IN,Data Analyst
 0,151800,2022,M,SE,US,US,Data Scientist
-0,130239,2022,M,SE,US,US,Data Scientist
+0,130240,2022,M,SE,US,US,Data Scientist
 100,165000,2022,M,SE,US,US,Analytics Engineer
 100,140250,2022,M,SE,US,US,Analytics Engineer
 0,135000,2022,M,SE,US,US,Data Engineer
-0,114999,2022,M,SE,US,US,Data Engineer
+0,115000,2022,M,SE,US,US,Data Engineer
 100,179400,2022,M,SE,US,US,Data Scientist
 100,154000,2022,M,SE,US,US,Data Scientist
 100,191475,2022,M,SE,US,US,Data Scientist
@@ -2674,6 +2886,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,141525,2022,M,SE,US,US,Data Scientist
 100,191475,2022,M,SE,US,US,Data Scientist
 100,141525,2022,M,SE,US,US,Data Scientist
+0,75000,2022,M,MI,US,US,other
 100,84053,2022,M,MI,GR,GR,Data Engineer
 100,73546,2022,M,MI,GR,GR,Data Engineer
 100,98506,2022,M,MI,GB,GB,Data Engineer
@@ -2694,8 +2907,10 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,141525,2022,M,SE,US,US,Data Scientist
 0,191475,2022,M,SE,US,US,Data Scientist
 0,141525,2022,M,SE,US,US,Data Scientist
-0,114999,2022,L,SE,US,US,Data Analyst
-50,31520,2022,M,EN,ES,ES,Data Scientist
+0,115000,2022,L,SE,US,US,Data Analyst
+50,31519,2022,M,EN,ES,ES,Data Scientist
+100,81000,2022,M,SE,US,US,other
+100,66000,2022,M,SE,US,US,other
 100,46000,2022,L,EN,US,US,Data Analyst
 100,80000,2022,L,EN,US,US,Data Engineer
 100,200000,2022,S,EX,US,US,Machine Learning Scientist
@@ -2703,10 +2918,11 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,200000,2022,S,EX,US,US,AI Scientist
 0,204100,2022,M,SE,US,US,Data Scientist
 0,136100,2022,M,SE,US,US,Data Scientist
-0,249999,2022,M,SE,US,US,Analytics Engineer
-0,62999,2022,M,SE,US,US,Analytics Engineer
+0,250000,2022,M,SE,US,US,Analytics Engineer
+0,63000,2022,M,SE,US,US,Analytics Engineer
 0,118208,2022,M,MI,GB,GB,Data Scientist
 0,110820,2022,M,MI,GB,GB,Data Scientist
+50,19073,2021,L,EN,other,other,other
 100,191475,2022,M,SE,US,US,Data Scientist
 100,141525,2022,M,SE,US,US,Data Scientist
 100,191475,2022,M,SE,US,US,Data Scientist
@@ -2715,113 +2931,127 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,141525,2022,M,SE,US,US,Data Scientist
 100,95000,2022,M,SE,US,US,Data Specialist
 100,70000,2022,M,SE,US,US,Data Specialist
+100,75000,2022,M,MI,other,US,Applied Machine Learning Scientist
+50,7500,2022,M,MI,other,other,Analytics Engineer
 0,113000,2022,L,MI,US,US,Data Analyst
 100,170000,2022,M,SE,US,US,Data Scientist
-100,129999,2022,M,SE,US,US,Data Scientist
+100,130000,2022,M,SE,US,US,Data Scientist
+100,113000,2022,L,MI,US,US,other
+100,140000,2022,M,MI,US,US,other
+100,50000,2021,S,SE,other,other,Data Analyst
+100,53368,2022,M,MI,AU,AU,BI Data Analyst
 0,175000,2022,M,SE,US,US,Data Scientist
 0,140000,2022,M,SE,US,US,Data Scientist
-0,249999,2022,M,SE,US,US,Analytics Engineer
-0,62999,2022,M,SE,US,US,Analytics Engineer
+50,29944,2022,S,SE,PT,PT,other
+0,250000,2022,M,SE,US,US,Analytics Engineer
+0,63000,2022,M,SE,US,US,Analytics Engineer
 0,160000,2022,L,SE,US,US,Data Scientist
-0,119300,2022,L,SE,US,US,Data Scientist
+0,119299,2022,L,SE,US,US,Data Scientist
 50,145000,2022,L,MI,US,US,Research Scientist
 0,105000,2022,M,SE,US,US,Data Engineer
 0,90000,2022,M,SE,US,US,Data Engineer
-100,146200,2022,M,SE,US,US,ETL Developer
-100,124270,2022,M,SE,US,US,ETL Developer
+100,146200,2022,M,SE,US,US,other
+100,124269,2022,M,SE,US,US,other
 0,225000,2022,M,MI,US,US,Data Scientist
 0,160000,2022,M,MI,US,US,Data Scientist
 100,54634,2022,S,MI,NL,NL,Data Scientist
 100,185800,2022,M,SE,CA,CA,Data Engineer
 100,137400,2022,M,SE,CA,CA,Data Engineer
-0,244999,2022,M,SE,US,US,Analytics Engineer
+0,245000,2022,M,SE,US,US,Analytics Engineer
 0,180000,2022,M,SE,US,US,Analytics Engineer
 0,203500,2022,M,SE,US,US,Analytics Engineer
 0,152000,2022,M,SE,US,US,Analytics Engineer
-0,249999,2022,M,SE,US,US,Data Engineer
-0,62999,2022,M,SE,US,US,Data Engineer
+0,250000,2022,M,SE,US,US,Data Engineer
+0,63000,2022,M,SE,US,US,Data Engineer
 100,186000,2022,M,SE,US,US,Machine Learning Infrastructure Engineer
 100,148800,2022,M,SE,US,US,Machine Learning Infrastructure Engineer
-50,128058,2022,L,MI,GB,GB,Machine Learning Engineer
+50,95386,2022,L,SE,IN,IN,other
+50,128058,2022,L,MI,GB,GB,ML Engineer
 0,82000,2022,L,EN,US,US,Data Scientist
+100,110000,2022,M,EN,other,FR,Data Scientist
 50,173000,2022,M,MI,US,US,Applied Machine Learning Scientist
 0,203500,2022,M,SE,US,US,Data Scientist
 0,152000,2022,M,SE,US,US,Data Scientist
-100,186000,2022,M,SE,US,US,Machine Learning Engineer
-100,148800,2022,M,SE,US,US,Machine Learning Engineer
+100,186000,2022,M,SE,US,US,ML Engineer
+100,148800,2022,M,SE,US,US,ML Engineer
 100,6270,2022,L,EN,BR,BR,BI Data Analyst
 100,158000,2022,M,MI,US,US,Data Science Manager
 100,134000,2022,M,MI,US,US,Data Science Manager
 100,170000,2022,M,SE,US,US,Data Scientist
-100,119999,2022,M,SE,US,US,Data Scientist
+100,120000,2022,M,SE,US,US,Data Scientist
 100,200000,2022,M,EX,US,US,Analytics Engineer
 100,150000,2022,M,EX,US,US,Analytics Engineer
 0,216200,2022,M,SE,US,US,Data Analyst
 0,144100,2022,M,SE,US,US,Data Analyst
-0,115572,2022,M,MI,NL,NL,Data Scientist
+0,115573,2022,M,MI,NL,NL,Data Scientist
 0,89306,2022,M,MI,NL,NL,Data Scientist
-0,249999,2022,M,SE,US,US,ETL Developer
-0,62999,2022,M,SE,US,US,ETL Developer
+0,250000,2022,M,SE,US,US,other
+0,63000,2022,M,SE,US,US,other
 100,135000,2022,M,SE,US,US,Data Engineer
 100,85000,2022,M,SE,US,US,Data Engineer
-100,135000,2022,M,SE,US,US,Machine Learning Engineer
-100,85000,2022,M,SE,US,US,Machine Learning Engineer
+100,135000,2022,M,SE,US,US,ML Engineer
+100,85000,2022,M,SE,US,US,ML Engineer
 100,206000,2022,M,SE,US,US,Data Science Manager
 100,175100,2022,M,SE,US,US,Data Science Manager
-0,189650,2022,M,SE,US,US,Machine Learning Engineer
-0,164996,2022,M,SE,US,US,Machine Learning Engineer
+0,189650,2022,M,SE,US,US,ML Engineer
+0,164996,2022,M,SE,US,US,ML Engineer
 100,149040,2022,M,SE,US,US,Data Architect
-100,113900,2022,M,SE,US,US,Data Architect
+100,113899,2022,M,SE,US,US,Data Architect
 100,154000,2022,M,SE,US,US,Data Engineer
-100,125999,2022,M,SE,US,US,Data Engineer
-100,200000,2022,L,SE,US,US,Machine Learning Engineer
-100,150000,2022,L,SE,US,US,Machine Learning Engineer
+100,126000,2022,M,SE,US,US,Data Engineer
+100,200000,2022,L,SE,US,US,ML Engineer
+100,150000,2022,L,SE,US,US,ML Engineer
 0,195700,2022,M,SE,US,US,Data Engineer
-0,130499,2022,M,SE,US,US,Data Engineer
+0,130500,2022,M,SE,US,US,Data Engineer
 100,170000,2022,M,SE,US,US,Analytics Engineer
 100,135000,2022,M,SE,US,US,Analytics Engineer
 0,98506,2022,M,MI,GB,GB,Data Engineer
 0,73880,2022,M,MI,GB,GB,Data Engineer
-100,116999,2022,M,SE,US,US,Data Analyst
+100,117000,2022,M,SE,US,US,Data Analyst
 100,99450,2022,M,SE,US,US,Data Analyst
-0,193900,2022,M,SE,US,US,Machine Learning Engineer
-0,129300,2022,M,SE,US,US,Machine Learning Engineer
-100,55410,2022,S,EN,GB,GB,Machine Learning Engineer
+100,200000,2022,M,SE,other,other,Data Engineer
+100,135000,2022,M,SE,other,other,Data Engineer
+0,193900,2022,M,SE,US,US,ML Engineer
+0,129299,2022,M,SE,US,US,ML Engineer
+100,55410,2022,S,EN,GB,GB,ML Engineer
 0,86193,2022,M,SE,GB,GB,Data Analyst
-0,61566,2022,M,SE,GB,GB,Data Analyst
+0,61565,2022,M,SE,GB,GB,Data Analyst
 100,175000,2022,M,SE,US,US,Data Analyst
-100,129999,2022,M,SE,US,US,Data Analyst
+100,130000,2022,M,SE,US,US,Data Analyst
 0,188100,2022,M,SE,US,US,Data Engineer
 0,139860,2022,M,SE,US,US,Data Engineer
-0,248699,2022,M,SE,US,US,Machine Learning Engineer
-0,167100,2022,M,SE,US,US,Machine Learning Engineer
+0,248700,2022,M,SE,US,US,ML Engineer
+0,167100,2022,M,SE,US,US,ML Engineer
 100,5723,2022,S,MI,IN,IN,Data Analyst
 0,123400,2022,M,SE,US,US,Data Scientist
 0,88100,2022,M,SE,US,US,Data Scientist
 100,50432,2022,S,MI,DE,DE,BI Data Analyst
-0,244999,2022,M,SE,US,US,Data Scientist
+0,245000,2022,M,SE,US,US,Data Scientist
 0,205000,2022,M,SE,US,US,Data Scientist
 0,141300,2022,M,SE,US,US,Data Engineer
 0,102100,2022,M,SE,US,US,Data Engineer
 0,141300,2022,M,SE,US,US,Data Architect
 0,102100,2022,M,SE,US,US,Data Architect
-0,249999,2022,M,SE,US,US,Data Architect
-0,62999,2022,M,SE,US,US,Data Architect
+100,50000,2022,L,EN,other,other,Data Analyst
+100,84053,2022,L,EN,other,other,Data Scientist
+50,61565,2022,S,MI,GB,GB,other
+0,250000,2022,M,SE,US,US,Data Architect
+0,63000,2022,M,SE,US,US,Data Architect
 100,189500,2022,L,SE,US,US,Data Science Manager
 100,140100,2022,L,SE,US,US,Data Science Manager
 100,177600,2022,L,SE,US,US,Data Engineer
 100,131300,2022,L,SE,US,US,Data Engineer
 0,24000,2022,M,MI,US,US,Data Engineer
 0,24000,2022,M,MI,US,US,Data Engineer
-0,249999,2022,M,SE,US,US,Data Engineer
-0,62999,2022,M,SE,US,US,Data Engineer
-100,202900,2022,L,SE,US,US,Machine Learning Engineer
-100,131300,2022,L,SE,US,US,Machine Learning Engineer
+0,250000,2022,M,SE,US,US,Data Engineer
+0,63000,2022,M,SE,US,US,Data Engineer
+100,202900,2022,L,SE,US,US,ML Engineer
+100,131300,2022,L,SE,US,US,ML Engineer
 100,145000,2022,M,SE,US,US,Data Engineer
-100,114999,2022,M,SE,US,US,Data Engineer
-50,114999,2022,L,EN,US,US,Machine Learning Engineer
-0,193900,2022,M,MI,US,US,Machine Learning Engineer
-0,129300,2022,M,MI,US,US,Machine Learning Engineer
+100,115000,2022,M,SE,US,US,Data Engineer
+50,115000,2022,L,EN,US,US,ML Engineer
+0,193900,2022,M,MI,US,US,ML Engineer
+0,129299,2022,M,MI,US,US,ML Engineer
 100,180000,2022,L,SE,US,US,Data Scientist
 100,140000,2022,L,SE,US,US,Data Scientist
 0,216200,2022,M,MI,US,US,Data Analyst
@@ -2829,47 +3059,53 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,216000,2022,M,SE,US,US,Machine Learning Scientist
 0,144000,2022,M,SE,US,US,Machine Learning Scientist
 100,150000,2022,L,EN,US,US,Data Analyst
+100,12171,2021,M,EN,IN,IN,other
+100,53416,2022,L,MI,IN,other,Data Scientist
+50,50000,2022,M,EN,other,other,other
+50,250000,2021,L,SE,US,US,other
 0,84053,2022,L,EX,NL,NL,Research Scientist
 100,131752,2022,M,MI,GB,GB,Data Scientist
+100,48000,2022,S,SE,other,US,Analytics Engineer
 0,260500,2022,M,EX,US,US,Data Science Manager
 0,175100,2022,M,EX,US,US,Data Science Manager
 100,210000,2022,M,SE,US,US,Data Engineer
 100,100000,2022,M,SE,US,US,Data Engineer
 100,55000,2022,S,EN,US,US,Data Analyst
-100,129999,2022,M,MI,US,US,Data Analyst
+100,130000,2022,M,MI,US,US,Data Analyst
 100,77119,2022,L,SE,FR,GB,Applied Machine Learning Scientist
+50,52008,2022,S,EN,other,other,Data Scientist
 100,30523,2022,S,MI,IN,IN,Applied Machine Learning Scientist
 0,206699,2022,M,SE,US,US,Data Engineer
 0,99100,2022,M,SE,US,US,Data Engineer
 0,200000,2022,M,MI,US,US,Analytics Engineer
 0,54000,2022,M,MI,US,US,Analytics Engineer
-0,249999,2022,M,SE,US,US,Data Engineer
-0,62999,2022,M,SE,US,US,Data Engineer
-0,249999,2022,M,SE,US,US,Data Architect
-0,62999,2022,M,SE,US,US,Data Architect
-0,249999,2022,M,SE,US,US,Data Engineer
-0,62999,2022,M,SE,US,US,Data Engineer
-50,129999,2022,L,EN,US,US,Analytics Engineer
+0,250000,2022,M,SE,US,US,Data Engineer
+0,63000,2022,M,SE,US,US,Data Engineer
+0,250000,2022,M,SE,US,US,Data Architect
+0,63000,2022,M,SE,US,US,Data Architect
+0,250000,2022,M,SE,US,US,Data Engineer
+0,63000,2022,M,SE,US,US,Data Engineer
+50,130000,2022,L,EN,US,US,Analytics Engineer
 0,100000,2022,L,SE,US,US,Data Engineer
 0,80000,2022,L,SE,US,US,Data Engineer
 0,160000,2022,L,SE,US,US,Data Scientist
 0,100000,2022,L,SE,US,US,Data Scientist
 100,221300,2022,L,SE,US,US,Data Specialist
 100,148700,2022,L,SE,US,US,Data Specialist
-100,29999,2022,L,EN,GB,GB,Machine Learning Engineer
+100,30000,2022,L,EN,GB,GB,ML Engineer
 50,28368,2022,M,EN,FR,FR,Data Analyst
 0,91118,2022,M,MI,GB,GB,Data Engineer
-0,61566,2022,M,MI,GB,GB,Data Engineer
+0,61565,2022,M,MI,GB,GB,Data Engineer
 100,60938,2022,S,MI,DE,DE,Data Scientist
 0,249259,2022,M,SE,US,US,Data Science Manager
 0,185400,2022,M,SE,US,US,Data Science Manager
 100,170000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,Data Engineer
 50,80036,2022,M,MI,GB,GB,Data Scientist
-100,128875,2022,M,SE,US,US,Data Analyst
+100,128874,2022,M,SE,US,US,Data Analyst
 100,93700,2022,M,SE,US,US,Data Analyst
-100,180000,2022,M,SE,US,US,Machine Learning Engineer
-100,100000,2022,M,SE,US,US,Machine Learning Engineer
+100,180000,2022,M,SE,US,US,ML Engineer
+100,100000,2022,M,SE,US,US,ML Engineer
 100,136260,2022,M,SE,US,US,Data Analyst
 100,109280,2022,M,SE,US,US,Data Analyst
 100,160000,2022,L,SE,US,US,Data Scientist
@@ -2878,44 +3114,50 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,160000,2022,M,SE,US,US,Data Engineer
 0,135446,2022,M,MI,GB,GB,Data Engineer
 0,104663,2022,M,MI,GB,GB,Data Engineer
-100,116999,2022,M,SE,US,US,Data Analyst
+100,117000,2022,M,SE,US,US,Data Analyst
 100,99450,2022,M,SE,US,US,Data Analyst
-100,128999,2022,L,EN,US,US,Data Engineer
+100,129000,2022,L,EN,US,US,Data Engineer
 100,86000,2022,L,EN,US,US,Data Engineer
 100,13493,2019,L,EN,IN,IN,Data Engineer
 100,13493,2019,L,EN,IN,IN,Data Engineer
 0,160000,2022,L,SE,US,US,Data Scientist
-0,119300,2022,L,SE,US,US,Data Scientist
+0,119299,2022,L,SE,US,US,Data Scientist
 100,100000,2022,L,SE,US,US,Business Data Analyst
+50,25000,2022,M,MI,other,other,Data Scientist
+50,65256,2022,M,MI,other,other,Data Analyst
 100,200000,2022,M,MI,US,US,AI Scientist
+100,180000,2022,L,EN,US,US,other
 100,153000,2022,L,MI,US,US,Data Scientist
 100,210000,2022,M,SE,US,US,Data Engineer
 100,100000,2022,M,SE,US,US,Data Engineer
 100,150075,2022,M,SE,US,US,Data Analyst
 100,110925,2022,M,SE,US,US,Data Analyst
+100,22800,2022,M,MI,other,other,Machine Learning Scientist
 100,160000,2022,L,SE,US,US,Data Scientist
 100,92000,2022,L,SE,US,US,Data Scientist
-100,202900,2022,L,SE,US,US,Machine Learning Engineer
-100,131300,2022,L,SE,US,US,Machine Learning Engineer
+100,202900,2022,L,SE,US,US,ML Engineer
+100,131300,2022,L,SE,US,US,ML Engineer
 100,22809,2019,M,EN,PT,PT,Data Analyst
+0,15000,2022,L,EN,other,other,Data Analyst
 100,175000,2022,M,SE,US,US,Data Engineer
 100,135000,2022,M,SE,US,US,Data Engineer
-0,83000,2022,L,EN,US,US,Machine Learning Engineer
+100,133766,2022,L,SE,AU,AU,Data Science Manager
+0,83000,2022,L,EN,US,US,ML Engineer
 100,92350,2022,M,MI,GB,GB,Data Engineer
 100,67723,2022,M,MI,GB,GB,Data Engineer
 0,186000,2022,M,SE,US,US,Data Scientist
 0,148800,2022,M,SE,US,US,Data Scientist
 0,112900,2022,M,SE,US,US,Data Analyst
 0,90320,2022,M,SE,US,US,Data Analyst
-0,239999,2022,M,SE,US,US,ML Engineer
+0,240000,2022,M,SE,US,US,ML Engineer
 0,160000,2022,M,SE,US,US,ML Engineer
 100,300000,2022,M,SE,US,US,Data Science Manager
 100,200000,2022,M,SE,US,US,Data Science Manager
 50,65666,2022,S,MI,DE,DE,Data Engineer
 100,200000,2022,L,MI,IN,US,AI Scientist
-0,116976,2022,M,MI,GB,GB,Machine Learning Engineer
-0,92350,2022,M,MI,GB,GB,Machine Learning Engineer
-0,119999,2022,M,MI,US,US,AI Scientist
+0,116976,2022,M,MI,GB,GB,ML Engineer
+0,92350,2022,M,MI,GB,GB,ML Engineer
+0,120000,2022,M,MI,US,US,AI Scientist
 100,112900,2022,M,SE,US,US,Data Analyst
 100,90320,2022,M,SE,US,US,Data Analyst
 100,145000,2022,M,SE,US,US,Data Analytics Manager
@@ -2927,73 +3169,77 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,158200,2022,L,SE,US,US,Data Scientist
 100,209100,2022,L,SE,US,US,Data Engineer
 100,154600,2022,L,SE,US,US,Data Engineer
-0,115934,2022,M,SE,US,US,Data Analyst
+0,115933,2022,M,SE,US,US,Data Analyst
 0,81666,2022,M,SE,US,US,Data Analyst
 100,175000,2022,M,SE,US,US,Data Engineer
 100,155000,2022,M,SE,US,US,Data Engineer
-100,84053,2022,M,MI,FR,DE,Machine Learning Engineer
+100,84053,2022,M,MI,FR,DE,ML Engineer
 0,164000,2022,M,SE,US,US,Data Analyst
 0,132000,2022,M,SE,US,US,Data Analyst
 100,170000,2022,M,SE,US,US,Data Scientist
-100,122999,2022,M,SE,US,US,Data Scientist
-0,189650,2022,M,SE,US,US,Machine Learning Engineer
-0,164996,2022,M,SE,US,US,Machine Learning Engineer
-0,52533,2022,M,MI,GR,GR,ETL Developer
-0,52533,2022,M,MI,GR,GR,ETL Developer
+100,123000,2022,M,SE,US,US,Data Scientist
+0,189650,2022,M,SE,US,US,ML Engineer
+0,164996,2022,M,SE,US,US,ML Engineer
+0,52533,2022,M,MI,GR,GR,other
+0,52533,2022,M,MI,GR,GR,other
+100,115222,2022,S,EX,CA,CA,other
 100,165400,2022,M,SE,US,US,Data Engineer
 100,132320,2022,M,SE,US,US,Data Engineer
 100,208775,2022,M,SE,US,US,Data Architect
 100,147800,2022,M,SE,US,US,Data Architect
 100,136994,2022,M,SE,US,US,Data Engineer
 100,101570,2022,M,SE,US,US,Data Engineer
-100,128875,2022,M,SE,US,US,Data Analyst
+100,128874,2022,M,SE,US,US,Data Analyst
 100,93700,2022,M,SE,US,US,Data Analyst
-100,35093,2022,L,EN,GB,GB,Machine Learning Engineer
+50,76309,2022,L,EX,IN,IN,other
+100,35093,2022,L,EN,GB,GB,ML Engineer
 100,183600,2022,L,SE,US,US,Data Engineer
 100,100800,2022,L,SE,US,US,Data Engineer
 100,49253,2022,M,MI,GB,GB,Data Analyst
 100,36940,2022,M,MI,GB,GB,Data Analyst
 100,42026,2022,M,MI,ES,ES,Data Analyst
-100,31520,2022,M,MI,ES,ES,Data Analyst
+100,31519,2022,M,MI,ES,ES,Data Analyst
 100,84053,2022,M,MI,ES,ES,Data Engineer
 100,73546,2022,M,MI,ES,ES,Data Engineer
 100,98506,2022,M,MI,GB,GB,Data Engineer
 100,86193,2022,M,MI,GB,GB,Data Engineer
 100,84053,2022,M,MI,GR,GR,Data Engineer
 100,73546,2022,M,MI,GR,GR,Data Engineer
-0,189650,2022,M,SE,US,US,Machine Learning Engineer
-0,164996,2022,M,SE,US,US,Machine Learning Engineer
+0,189650,2022,M,SE,US,US,ML Engineer
+0,164996,2022,M,SE,US,US,ML Engineer
 100,42026,2022,M,MI,GR,GR,Data Analyst
-100,31520,2022,M,MI,GR,GR,Data Analyst
+100,31519,2022,M,MI,GR,GR,Data Analyst
 100,92350,2022,M,MI,GB,GB,Data Engineer
 100,73880,2022,M,MI,GB,GB,Data Engineer
 0,215300,2022,L,SE,US,US,Data Scientist
 0,140400,2022,L,SE,US,US,Data Scientist
-100,63040,2022,M,MI,ES,ES,Data Engineer
+100,63039,2022,M,MI,ES,ES,Data Engineer
 100,47280,2022,M,MI,ES,ES,Data Engineer
-100,259999,2022,M,SE,US,US,Data Scientist
+100,260000,2022,M,SE,US,US,Data Scientist
 100,180000,2022,M,SE,US,US,Data Scientist
 0,67723,2022,M,MI,GB,GB,Data Scientist
 0,43096,2022,M,MI,GB,GB,Data Scientist
-100,63040,2022,M,MI,GR,GR,Data Engineer
+100,63039,2022,M,MI,GR,GR,Data Engineer
 100,47280,2022,M,MI,GR,GR,Data Engineer
 100,73880,2022,M,MI,GB,GB,Data Engineer
 100,55410,2022,M,MI,GB,GB,Data Engineer
+50,51064,2021,L,MI,other,other,ML Engineer
+100,60000,2022,L,SE,other,other,other
 0,82900,2022,M,MI,US,US,Data Engineer
 0,63900,2022,M,MI,US,US,Data Engineer
 100,160000,2022,L,MI,US,US,Machine Learning Scientist
-100,112299,2022,L,MI,US,US,Machine Learning Scientist
-100,240999,2022,M,MI,US,US,Data Science Manager
+100,112300,2022,L,MI,US,US,Machine Learning Scientist
+100,241000,2022,M,MI,US,US,Data Science Manager
 100,159000,2022,M,MI,US,US,Data Science Manager
 0,180000,2022,M,SE,US,US,Data Scientist
 0,80000,2022,M,SE,US,US,Data Scientist
-0,57999,2022,S,MI,US,US,Data Analyst
-0,57999,2022,S,MI,US,US,Data Analyst
+0,58000,2022,S,MI,US,US,Data Analyst
+0,58000,2022,S,MI,US,US,Data Analyst
 0,136000,2022,M,SE,US,US,Data Engineer
 0,108800,2022,M,SE,US,US,Data Engineer
-100,241999,2022,M,EX,US,US,Data Engineer
+100,242000,2022,M,EX,US,US,Data Engineer
 100,200000,2022,M,EX,US,US,Data Engineer
-0,61566,2022,M,MI,GB,GB,Data Scientist
+0,61565,2022,M,MI,GB,GB,Data Scientist
 0,36940,2022,M,MI,GB,GB,Data Scientist
 0,73880,2022,M,MI,GB,GB,Data Engineer
 0,49253,2022,M,MI,GB,GB,Data Engineer
@@ -3006,14 +3252,14 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,220110,2022,M,SE,US,US,Data Engineer
 0,160080,2022,M,SE,US,US,Data Engineer
 0,180000,2022,L,SE,US,US,Data Scientist
-0,119999,2022,L,SE,US,US,Data Scientist
-0,126499,2022,M,MI,US,US,Data Analyst
+0,120000,2022,L,SE,US,US,Data Scientist
+0,126500,2022,M,MI,US,US,Data Analyst
 0,106260,2022,M,MI,US,US,Data Analyst
-0,115999,2022,M,SE,US,US,Data Analyst
+0,116000,2022,M,SE,US,US,Data Analyst
 0,99000,2022,M,SE,US,US,Data Analyst
 100,155000,2022,M,SE,US,US,Data Analyst
 100,120600,2022,M,SE,US,US,Data Analyst
-0,129999,2022,M,MI,US,US,Data Scientist
+0,130000,2022,M,MI,US,US,Data Scientist
 0,90000,2022,M,MI,US,US,Data Scientist
 100,170000,2022,M,MI,US,US,Data Engineer
 100,150000,2022,M,MI,US,US,Data Engineer
@@ -3024,33 +3270,33 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,110820,2022,M,SE,GB,GB,Data Scientist
 0,98506,2022,M,SE,GB,GB,Data Scientist
 100,146000,2022,M,SE,US,US,Data Scientist
-100,122999,2022,M,SE,US,US,Data Scientist
+100,123000,2022,M,SE,US,US,Data Scientist
 100,49253,2022,M,EN,GB,GB,Data Engineer
 100,43096,2022,M,EN,GB,GB,Data Engineer
-100,129999,2022,M,EX,US,US,Data Analyst
+100,130000,2022,M,EX,US,US,Data Analyst
 100,110000,2022,M,EX,US,US,Data Analyst
 100,170000,2022,M,SE,US,US,Data Analyst
 100,135000,2022,M,SE,US,US,Data Analyst
 100,161342,2022,M,SE,US,US,Data Science Manager
 100,137141,2022,M,SE,US,US,Data Science Manager
 100,167000,2022,M,SE,US,US,Data Scientist
-100,122999,2022,M,SE,US,US,Data Scientist
+100,123000,2022,M,SE,US,US,Data Scientist
 0,73880,2022,M,SE,GB,GB,Data Engineer
-0,61566,2022,M,SE,GB,GB,Data Engineer
+0,61565,2022,M,SE,GB,GB,Data Engineer
 100,211500,2022,M,SE,US,US,Data Scientist
 100,138600,2022,M,SE,US,US,Data Scientist
 100,192400,2022,M,SE,CA,CA,Data Architect
 100,90700,2022,M,SE,CA,CA,Data Architect
-100,129999,2022,M,SE,CA,CA,Data Analyst
+100,130000,2022,M,SE,CA,CA,Data Analyst
 100,61300,2022,M,SE,CA,CA,Data Analyst
-100,129999,2022,M,SE,CA,CA,Data Analyst
+100,130000,2022,M,SE,CA,CA,Data Analyst
 100,61300,2022,M,SE,CA,CA,Data Analyst
 0,160000,2022,L,SE,US,US,Data Engineer
 0,113000,2022,L,SE,US,US,Data Engineer
 0,150000,2022,M,SE,US,US,Data Scientist
 0,95550,2022,M,SE,US,US,Data Scientist
 100,167000,2022,M,MI,US,US,Data Analyst
-100,115499,2022,M,MI,US,US,Data Analyst
+100,115500,2022,M,MI,US,US,Data Analyst
 100,112900,2022,M,SE,US,US,Data Analyst
 100,90320,2022,M,SE,US,US,Data Analyst
 100,112900,2022,M,SE,US,US,Data Analyst
@@ -3061,8 +3307,10 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,156600,2022,M,SE,US,US,Data Engineer
 100,136600,2022,M,SE,US,US,Data Analyst
 100,109280,2022,M,SE,US,US,Data Analyst
-100,128875,2022,M,SE,US,US,Data Engineer
+100,128874,2022,M,SE,US,US,Data Engineer
 100,93700,2022,M,SE,US,US,Data Engineer
+100,224000,2022,M,EX,US,US,other
+100,167875,2022,M,EX,US,US,other
 100,175000,2022,M,EX,US,US,Analytics Engineer
 100,135000,2022,M,EX,US,US,Analytics Engineer
 100,209100,2022,L,SE,US,US,Data Engineer
@@ -3083,47 +3331,47 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 0,184700,2022,M,SE,US,US,Analytics Engineer
 100,175100,2022,M,SE,US,US,Data Engineer
 100,140250,2022,M,SE,US,US,Data Engineer
-100,116149,2022,M,SE,US,US,Data Analyst
+100,116150,2022,M,SE,US,US,Data Analyst
 100,99050,2022,M,SE,US,US,Data Analyst
 100,145000,2022,M,SE,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,Data Engineer
 100,112900,2022,M,SE,US,US,Data Analyst
 100,90320,2022,M,SE,US,US,Data Analyst
 0,85000,2022,M,MI,CA,CA,Data Analyst
 0,75000,2022,M,MI,CA,CA,Data Analyst
-100,214000,2022,M,SE,US,US,Machine Learning Engineer
-100,192600,2022,M,SE,US,US,Machine Learning Engineer
+100,214000,2022,M,SE,US,US,ML Engineer
+100,192600,2022,M,SE,US,US,ML Engineer
 100,266400,2022,M,SE,US,US,Data Architect
 100,213120,2022,M,SE,US,US,Data Architect
 100,155000,2022,M,SE,US,US,Data Engineer
-100,114999,2022,M,SE,US,US,Data Engineer
+100,115000,2022,M,SE,US,US,Data Engineer
 0,141300,2022,M,MI,US,US,Data Scientist
 0,102100,2022,M,MI,US,US,Data Scientist
-100,115934,2022,M,SE,US,US,Data Analyst
+100,115933,2022,M,SE,US,US,Data Analyst
 100,81666,2022,M,SE,US,US,Data Analyst
 0,206699,2022,M,MI,US,US,Data Engineer
 0,99100,2022,M,MI,US,US,Data Engineer
-100,129999,2022,M,SE,US,US,Data Engineer
+100,130000,2022,M,SE,US,US,Data Engineer
 100,110500,2022,M,SE,US,US,Data Engineer
-0,61566,2022,M,MI,GB,GB,Data Analyst
+0,61565,2022,M,MI,GB,GB,Data Analyst
 0,43096,2022,M,MI,GB,GB,Data Analyst
 100,80000,2022,M,SE,US,US,Data Analyst
-100,59999,2022,M,SE,US,US,Data Analyst
+100,60000,2022,M,SE,US,US,Data Analyst
 100,192564,2022,M,SE,US,US,Data Architect
 100,144854,2022,M,SE,US,US,Data Architect
-100,229999,2022,M,SE,US,US,Data Scientist
+100,230000,2022,M,SE,US,US,Data Scientist
 100,150000,2022,M,SE,US,US,Data Scientist
 100,150260,2022,M,SE,US,US,Data Analytics Manager
 100,109280,2022,M,SE,US,US,Data Analytics Manager
 100,170000,2022,M,SE,US,US,Data Analyst
 100,150000,2022,M,SE,US,US,Data Analyst
 100,160000,2022,M,MI,US,US,Data Scientist
-100,129999,2022,M,MI,US,US,Data Scientist
+100,130000,2022,M,MI,US,US,Data Scientist
 0,67000,2022,M,EN,CA,CA,Data Analyst
 0,52000,2022,M,EN,CA,CA,Data Analyst
 100,154000,2022,M,SE,US,US,Data Engineer
-100,125999,2022,M,SE,US,US,Data Engineer
-0,128999,2022,M,SE,US,US,Data Analyst
+100,126000,2022,M,SE,US,US,Data Engineer
+0,129000,2022,M,SE,US,US,Data Analyst
 0,99000,2022,M,SE,US,US,Data Analyst
 100,210000,2022,M,SE,US,US,Data Scientist
 100,140000,2022,M,SE,US,US,Data Scientist
@@ -3139,7 +3387,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,110925,2022,M,SE,US,US,Data Analyst
 100,100000,2022,M,SE,US,US,Data Engineer
 100,25000,2022,M,SE,US,US,Data Engineer
-100,126499,2022,M,SE,US,US,Data Analyst
+100,126500,2022,M,SE,US,US,Data Analyst
 100,106260,2022,M,SE,US,US,Data Analyst
 100,220110,2022,M,SE,US,US,Data Engineer
 100,160080,2022,M,SE,US,US,Data Engineer
@@ -3147,7 +3395,7 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,100000,2022,M,SE,US,US,Data Analyst
 100,170000,2022,M,SE,US,US,Data Analyst
 100,135000,2022,M,SE,US,US,Data Analyst
-100,229999,2022,M,SE,US,US,Data Scientist
+100,230000,2022,M,SE,US,US,Data Scientist
 100,140000,2022,M,SE,US,US,Data Scientist
 100,135000,2022,M,MI,US,US,Data Analyst
 100,50000,2022,M,MI,US,US,Data Analyst
@@ -3155,10 +3403,12 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,140000,2022,M,SE,US,US,Data Scientist
 0,172386,2022,M,MI,GB,GB,Data Scientist
 0,86193,2022,M,MI,GB,GB,Data Scientist
-100,220000,2022,M,SE,US,US,Machine Learning Engineer
-100,119999,2022,M,SE,US,US,Machine Learning Engineer
+100,220000,2022,M,SE,US,US,ML Engineer
+100,120000,2022,M,SE,US,US,ML Engineer
 100,200000,2022,M,MI,US,US,Data Scientist
-100,119999,2022,M,MI,US,US,Data Scientist
+100,120000,2022,M,MI,US,US,Data Scientist
+100,120000,2022,S,SE,other,other,ML Engineer
+100,65000,2022,S,SE,other,other,ML Engineer
 100,324000,2022,M,EX,US,US,Data Engineer
 100,216000,2022,M,EX,US,US,Data Engineer
 100,210000,2022,M,SE,US,US,Data Engineer
@@ -3167,111 +3417,173 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,104890,2022,M,SE,US,US,Data Scientist
 100,105000,2022,M,SE,US,US,Data Engineer
 100,80000,2022,M,SE,US,US,Data Engineer
+100,76814,2022,M,MI,CA,CA,other
+50,117104,2019,L,SE,CA,CA,other
 50,192037,2022,L,EX,CA,CA,Director of Data Science
-100,119999,2022,S,MI,US,US,Machine Learning Engineer
+100,120000,2022,S,MI,US,US,ML Engineer
 100,17805,2022,M,MI,IN,IN,Business Data Analyst
 100,30523,2022,L,MI,IN,IN,Data Scientist
-50,55685,2022,L,MI,PT,PT,Machine Learning Infrastructure Engineer
+50,55684,2022,L,MI,PT,PT,Machine Learning Infrastructure Engineer
 50,52533,2022,L,MI,DE,DE,Data Engineer
 100,17805,2022,M,EN,IN,IN,Data Scientist
-100,157000,2022,L,MI,US,US,Applied Data Scientist
+100,75000,2022,L,MI,other,US,Applied Machine Learning Scientist
+100,157000,2022,L,MI,US,US,other
 50,69133,2022,L,MI,CA,CA,Business Data Analyst
-100,64999,2022,S,EN,US,US,Data Engineer
+100,65000,2022,S,EN,US,US,Data Engineer
+100,68293,2022,S,SE,other,other,ML Engineer
 50,109000,2021,L,MI,US,US,Data Scientist
 100,67597,2022,M,MI,CA,CA,Data Scientist
+100,10000,2022,M,EN,PT,other,Computer Vision Engineer
 100,20000,2022,S,MI,GR,GR,Data Analyst
+100,102839,2021,L,SE,other,other,other
+100,200000,2022,M,SE,other,US,other
 100,51081,2022,L,EN,CA,CA,Data Scientist
 100,78000,2022,M,MI,US,US,Data Scientist
 100,135000,2022,M,SE,US,US,Data Engineer
-100,114999,2022,M,SE,US,US,Data Engineer
-100,59887,2022,L,SE,NL,NL,Machine Learning Engineer
+100,115000,2022,M,SE,US,US,Data Engineer
+100,83864,2022,L,MI,AU,AU,ML Engineer
+100,40000,2022,L,EN,other,other,Data Scientist
+100,31519,2022,S,MI,other,other,other
+100,59888,2022,L,SE,NL,NL,ML Engineer
+100,54742,2019,L,EN,other,DE,Data Engineer
 50,89306,2022,L,SE,FR,FR,Research Scientist
+50,83171,2022,M,EN,AU,AU,Data Scientist
 100,165000,2022,M,SE,US,US,Data Scientist
 50,153000,2022,M,MI,US,US,Machine Learning Scientist
 100,100000,2022,M,SE,BR,US,Data Scientist
+100,76814,2022,M,SE,CA,CA,other
+100,33609,2022,L,MI,other,other,Data Scientist
+100,75000,2022,S,MI,CA,CA,other
+0,20000,2019,S,MI,other,other,other
+100,30469,2022,M,EN,other,other,Applied Machine Learning Scientist
+50,69999,2021,L,MI,other,other,Research Scientist
+100,55475,2022,M,EN,other,DE,Data Engineer
+0,61989,2022,L,MI,other,other,Research Scientist
 100,152500,2022,M,SE,US,US,Data Science Manager
-100,119999,2022,L,EN,US,US,Research Scientist
+100,120000,2022,L,EN,US,US,Research Scientist
 100,135000,2022,L,MI,US,US,Data Scientist
+100,405000,2022,L,SE,US,US,other
 0,150000,2021,L,SE,US,US,Data Engineer
-0,239999,2021,L,SE,US,US,Data Science Manager
+0,240000,2021,L,SE,US,US,Data Science Manager
 100,135000,2021,L,MI,US,US,Data Analyst
 100,80000,2021,M,EN,US,US,Data Scientist
-100,380000,2022,L,SE,US,US,Applied Data Scientist
-100,177000,2022,L,SE,US,US,Applied Data Scientist
+100,380000,2022,L,SE,US,US,other
+0,120402,2022,L,MI,other,other,Data Scientist
+100,177000,2022,L,SE,US,US,other
 100,65141,2022,M,MI,FR,FR,Data Engineer
+100,48000,2022,S,MI,other,US,Data Scientist
+0,20000,2022,M,EN,other,other,other
+0,220000,2021,L,SE,US,US,other
+50,77364,2021,S,MI,other,other,ML Engineer
+50,63711,2021,S,MI,other,other,ML Engineer
+100,150000,2022,S,EN,AU,AU,other
 100,90000,2021,M,MI,US,US,Data Analyst
 100,100000,2022,M,MI,CA,US,Data Scientist
 0,100000,2021,S,EN,US,US,Data Scientist
+50,100000,2022,M,EN,other,other,Data Scientist
 50,144000,2022,L,SE,US,US,Research Scientist
+100,155499,2022,M,SE,DE,DE,other
 100,24000,2021,M,SE,BR,BR,Computer Vision Engineer
+100,38400,2021,M,MI,other,US,Applied Machine Learning Scientist
+50,100000,2022,L,EN,US,US,other
 100,82500,2021,S,MI,US,US,Data Scientist
 50,49646,2021,M,EN,FR,FR,Data Scientist
-100,119999,2022,M,EN,US,US,Data Engineer
-100,20000,2021,S,EN,IN,IN,Machine Learning Engineer
-0,124999,2022,M,EN,US,US,Computer Vision Engineer
+50,40570,2021,L,SE,IN,IN,other
+100,120000,2022,M,EN,US,US,Data Engineer
+0,84053,2022,M,SE,DE,DE,other
+100,20000,2021,S,EN,IN,IN,ML Engineer
+0,125000,2022,M,EN,US,US,Computer Vision Engineer
 0,9466,2021,S,MI,IN,IN,Data Scientist
-50,119999,2021,S,SE,US,US,Machine Learning Scientist
+50,120000,2021,S,SE,US,US,Machine Learning Scientist
 50,10354,2021,M,EN,ES,ES,Data Analyst
-0,110037,2021,L,EN,GB,GB,Applied Data Scientist
+0,110037,2021,L,EN,GB,GB,other
 100,21013,2022,L,EN,PT,PT,ML Engineer
 100,50000,2021,M,EN,US,US,Data Analyst
+100,200000,2021,M,SE,US,US,other
+50,60000,2021,M,MI,ES,other,Big Data Engineer
 100,200000,2021,L,MI,US,US,Data Engineer
+50,100000,2021,S,EN,other,other,other
 100,100000,2021,L,MI,US,US,Data Engineer
+50,82744,2021,M,SE,other,other,ML Engineer
 100,59303,2019,S,MI,DE,DE,Data Engineer
 50,62649,2021,M,MI,FR,FR,Research Scientist
 100,82528,2021,L,MI,GB,GB,Data Engineer
 100,170000,2021,L,MI,US,US,Data Architect
 100,150000,2021,L,MI,US,US,Data Architect
 50,55000,2021,S,EN,US,US,BI Data Analyst
-0,249999,2021,L,EX,US,US,Director of Data Science
+0,250000,2021,L,EX,US,US,Director of Data Science
 100,80000,2021,L,EN,US,US,Data Engineer
 100,70000,2019,L,EN,US,US,Big Data Engineer
 50,130026,2021,M,EX,DE,DE,Director of Data Science
 50,63831,2021,L,EN,DE,DE,Data Science Consultant
 100,68428,2019,L,SE,GR,US,Data Scientist
-100,124999,2021,S,EN,US,US,Machine Learning Engineer
-100,119999,2021,M,SE,US,US,Data Analytics Manager
+0,85000,2021,M,EX,other,other,other
+50,230000,2021,L,EX,other,other,other
+100,125000,2021,S,EN,US,US,ML Engineer
+100,120000,2021,M,SE,US,US,Data Analytics Manager
 0,450000,2019,M,MI,US,US,Research Scientist
 50,46759,2019,L,MI,FR,FR,Data Analyst
+50,74130,2019,L,MI,other,other,Data Engineer
+50,127221,2021,L,SE,CA,CA,other
 100,144000,2021,L,SE,US,US,Data Science Manager
+100,13400,2021,L,EN,other,other,Data Scientist
 100,75774,2021,L,MI,CA,CA,Data Scientist
 100,150000,2021,M,MI,US,US,Data Scientist
 100,103000,2019,L,MI,US,US,Data Science Consultant
 100,153000,2021,L,SE,US,US,Data Engineer
 100,90000,2021,L,MI,US,US,Data Engineer
 100,90000,2021,S,EN,US,US,Data Analyst
-100,59999,2021,S,EN,US,US,Data Analyst
+100,60000,2021,S,EN,US,US,Data Analyst
+100,50000,2021,L,MI,other,other,Data Scientist
+100,12000,2021,M,EN,other,US,AI Scientist
+50,5409,2021,M,MI,IN,IN,other
 100,270000,2021,L,MI,US,US,ML Engineer
-50,54238,2021,L,MI,GB,CA,Applied Data Scientist
-100,47282,2021,S,MI,ES,ES,Machine Learning Engineer
+50,54238,2021,L,MI,GB,CA,other
+100,47282,2021,S,MI,ES,ES,ML Engineer
+100,153667,2021,L,EX,other,other,Director of Data Science
+100,28476,2021,L,MI,other,other,Data Engineer
+100,110000,2021,L,MI,US,US,other
 50,82528,2021,L,EN,GB,GB,Research Scientist
-50,249999,2019,L,EN,US,US,Machine Learning Engineer
-50,59102,2021,M,EN,FR,FR,Data Analyst
-100,138000,2019,S,EN,US,US,Machine Learning Engineer
+50,250000,2019,L,EN,US,US,ML Engineer
+50,59101,2021,M,EN,FR,FR,Data Analyst
+100,80000,2021,S,SE,other,US,Data Analyst
+100,10000,2019,S,EN,other,other,Data Analyst
+100,138000,2019,S,EN,US,US,ML Engineer
 100,140000,2021,L,MI,US,US,Data Engineer
+100,79197,2021,L,SE,DE,DE,other
+100,170000,2021,L,SE,US,US,other
 100,80000,2021,M,EN,US,US,Data Analyst
+100,45760,2019,S,MI,other,US,Data Scientist
 100,100000,2021,M,MI,US,US,BI Data Analyst
 50,53192,2021,L,SE,FR,FR,Data Scientist
-100,234999,2021,L,EX,US,US,Head of Data
+100,235000,2021,L,EX,US,US,other
 100,150000,2021,L,EX,IN,US,BI Data Analyst
 50,79833,2019,L,EX,ES,ES,Data Engineer
 100,225000,2021,L,EN,US,US,Machine Learning Scientist
 100,76833,2021,S,EN,DE,DE,Data Science Consultant
 0,50180,2019,M,MI,PT,PT,Machine Learning Infrastructure Engineer
+100,88654,2021,L,SE,GR,other,other
+100,103160,2021,S,SE,GB,GB,other
 100,113476,2021,M,SE,GB,GB,Data Engineer
-50,94564,2021,L,SE,DE,DE,Machine Learning Engineer
-100,30428,2021,L,EN,IN,IN,Data Engineer
+50,94564,2021,L,SE,DE,DE,ML Engineer
+100,30427,2021,L,EN,IN,IN,Data Engineer
 100,150000,2021,M,SE,US,US,Data Engineer
-100,114999,2021,S,SE,US,US,Data Engineer
+100,115000,2021,S,SE,US,US,Data Engineer
 100,187442,2021,L,MI,CA,CA,Research Scientist
 50,51519,2021,L,MI,GB,GB,Data Analyst
 100,106000,2019,L,MI,US,US,Data Engineer
 50,112872,2019,L,MI,GB,GB,Data Engineer
+50,36259,2021,L,MI,other,US,BI Data Analyst
 100,150000,2021,L,SE,US,US,Data Engineer
-100,15965,2019,S,EN,DE,DE,ML Engineer
+100,15966,2019,S,EN,DE,DE,ML Engineer
+100,95746,2021,S,MI,DE,US,other
+100,70000,2021,M,EN,US,US,other
 100,76958,2019,S,MI,GB,GB,Data Scientist
-50,29750,2021,L,EN,IN,IN,Data Scientist
+50,89294,2021,L,MI,other,other,other
+50,29751,2021,L,EN,IN,IN,Data Scientist
+0,276000,2021,L,SE,US,US,other
 100,188000,2019,L,SE,US,US,Data Engineer
+100,160000,2021,S,SE,BR,US,other
 100,105000,2019,L,MI,US,US,Data Scientist
 100,200000,2021,L,MI,US,US,Data Engineer
 100,174000,2021,L,SE,US,US,Data Engineer
@@ -3281,105 +3593,164 @@ remote_ratio,salary_in_usd,work_year,company_size,experience_level,employee_resi
 100,90000,2021,S,EN,US,US,Data Scientist
 50,70139,2019,L,MI,FR,FR,Data Engineer
 0,6072,2019,S,EN,IN,IN,Data Analyst
+0,33511,2019,S,SE,other,other,Data Engineer
+100,170000,2021,M,SE,US,US,other
 50,96282,2021,L,SE,GB,GB,Data Engineer
+0,12103,2021,M,MI,other,other,Data Engineer
 50,36643,2021,L,EN,FR,FR,Data Scientist
 50,72212,2021,L,MI,GB,GB,Data Engineer
 100,91000,2019,L,EN,US,US,Data Analyst
+50,99703,2021,M,SE,CA,CA,other
 100,165000,2021,L,SE,US,US,Data Scientist
 100,80000,2021,L,MI,US,US,Data Analyst
 100,103691,2021,L,SE,CA,CA,Data Scientist
 50,21637,2021,M,EN,IN,IN,Data Engineer
 50,42000,2019,L,EN,NL,NL,Research Scientist
+0,115000,2019,L,MI,other,other,other
 100,63810,2021,M,MI,CA,CA,Research Scientist
+0,260000,2019,S,SE,other,other,Machine Learning Scientist
+0,110000,2021,S,MI,US,US,other
 100,180000,2021,L,MI,US,US,Data Architect
 100,200000,2021,L,SE,US,US,Data Analyst
 50,109024,2019,M,SE,GB,GB,Big Data Engineer
 100,200000,2021,L,SE,US,US,Data Engineer
-100,255999,2021,S,SE,US,US,ML Engineer
+100,256000,2021,S,SE,US,US,ML Engineer
 100,110000,2021,L,MI,US,US,Data Engineer
 0,79833,2019,L,MI,DE,DE,Data Scientist
 100,72500,2021,L,EN,US,US,Data Engineer
-50,185000,2021,L,SE,US,US,Machine Learning Engineer
+50,185000,2021,L,SE,US,US,ML Engineer
 100,69741,2021,L,MI,NL,NL,Data Engineer
+0,100000,2021,L,EN,other,other,Research Scientist
 100,112000,2021,L,MI,US,US,Data Engineer
-50,150000,2019,L,SE,US,US,Machine Learning Engineer
+50,150000,2019,L,SE,US,US,ML Engineer
+50,20171,2021,L,SE,other,other,Data Scientist
 100,55000,2021,L,SE,ES,ES,AI Scientist
-50,57999,2021,L,EN,US,US,Data Scientist
+50,58000,2021,L,EN,US,US,Data Scientist
 100,100000,2021,M,EN,US,US,Data Scientist
 50,77684,2021,M,SE,FR,FR,Data Scientist
-100,85000,2021,S,EN,NL,DE,Machine Learning Engineer
+100,85000,2021,S,EN,NL,DE,ML Engineer
 0,76833,2021,L,EN,DE,DE,Data Science Consultant
+100,105000,2021,M,SE,US,US,other
 100,72000,2019,L,EN,US,US,Data Analyst
 50,65013,2021,M,EN,DE,DE,Data Engineer
+100,28016,2021,M,MI,other,other,Data Engineer
 0,111775,2021,M,MI,US,US,Data Engineer
 0,93150,2021,M,MI,US,US,Data Engineer
-0,66265,2021,L,SE,IN,IN,Machine Learning Engineer
+50,160000,2021,S,SE,other,US,other
+100,25532,2021,S,MI,other,DE,Data Scientist
+0,66265,2021,L,SE,IN,IN,ML Engineer
 100,16904,2021,S,MI,IN,IN,Data Scientist
 50,63831,2021,L,SE,DE,DE,Data Analyst
+100,190000,2019,S,SE,US,US,other
 0,141846,2021,L,EX,DE,DE,Director of Data Science
-100,16228,2021,L,EN,IN,IN,Big Data Engineer
+100,16227,2021,L,EN,IN,IN,Big Data Engineer
 100,71786,2021,M,SE,CA,CA,Data Analyst
+50,35735,2019,L,MI,other,other,Data Scientist
 0,135000,2021,L,SE,US,US,Data Scientist
-50,24823,2021,M,EN,DE,DE,Machine Learning Engineer
+50,24823,2021,M,EN,DE,DE,ML Engineer
 50,54094,2021,L,SE,IN,US,Data Science Manager
-100,24342,2021,L,SE,IN,IN,Machine Learning Engineer
+100,24342,2021,L,SE,IN,IN,ML Engineer
+100,9272,2021,S,EN,other,other,BI Data Analyst
 50,147000,2021,L,MI,US,US,Data Scientist
 50,96113,2021,L,SE,CA,CA,Research Scientist
 100,174000,2021,L,SE,US,US,Data Science Manager
 100,135000,2019,L,MI,US,US,Business Data Analyst
+50,21844,2021,M,EN,other,other,ML Engineer
+50,125000,2019,S,SE,other,other,other
 0,51321,2019,S,EN,FR,FR,Data Scientist
 0,40481,2019,L,MI,IN,IN,Data Scientist
 100,69741,2021,S,EX,FR,ES,Data Science Consultant
+100,50000,2021,M,SE,other,GB,other
 0,39916,2019,M,EN,FR,FR,Data Scientist
+100,87000,2019,L,MI,US,US,other
+0,26005,2021,L,MI,other,US,Data Engineer
 50,90734,2021,L,MI,DE,DE,Data Scientist
 0,22611,2021,L,MI,IN,IN,Big Data Engineer
 100,5679,2021,S,MI,IN,US,Data Scientist
-50,81000,2021,S,EN,US,US,Machine Learning Engineer
+50,81000,2021,S,EN,US,US,ML Engineer
+100,40038,2021,L,MI,other,other,Data Scientist
 100,90000,2021,S,EN,US,US,Data Science Consultant
+50,61467,2021,M,MI,DE,other,Data Scientist
 100,195000,2021,M,SE,US,US,Machine Learning Infrastructure Engineer
 100,37825,2021,L,MI,ES,ES,Data Scientist
 100,85000,2019,L,MI,US,US,Data Analyst
+100,416000,2021,S,EX,US,US,other
 100,225000,2021,L,SE,US,CA,Machine Learning Scientist
-50,56255,2021,L,MI,GB,GB,Data Scientist
+50,56256,2021,L,MI,GB,GB,Data Scientist
 0,33808,2021,M,MI,IN,IN,Data Scientist
-50,116913,2021,L,MI,GB,GB,Data Scientist
+50,116914,2021,L,MI,GB,GB,Data Scientist
+100,46597,2021,L,MI,other,other,ML Engineer
+50,8000,2019,L,MI,other,other,Data Analyst
+100,41689,2019,S,EN,other,other,Data Engineer
+100,114046,2019,S,SE,other,GB,Big Data Engineer
+100,88654,2021,M,MI,other,other,ML Engineer
 50,5707,2019,M,EN,IN,IN,Data Science Consultant
+100,56000,2019,M,MI,PT,US,other
+50,28608,2021,S,EN,other,other,Computer Vision Engineer
 50,88654,2021,L,MI,DE,DE,Data Scientist
+100,6072,2019,L,MI,IN,IN,other
 50,47899,2019,L,SE,GR,GR,Data Engineer
 0,98000,2019,M,MI,US,US,BI Data Analyst
+50,66022,2021,S,MI,other,GB,Data Engineer
 50,56738,2021,S,MI,FR,FR,Research Scientist
-0,119999,2021,L,SE,US,US,Data Analytics Manager
+50,24823,2021,L,MI,other,other,ML Engineer
+0,120000,2021,L,SE,US,US,Data Analytics Manager
+0,20000,2021,L,MI,other,US,Data Engineer
 100,325000,2019,L,EX,US,US,Director of Data Science
-100,200000,2021,L,SE,US,US,Machine Learning Engineer
+100,200000,2021,L,SE,US,US,ML Engineer
+50,45896,2019,S,EN,other,other,AI Scientist
 100,160000,2021,L,MI,US,US,Data Scientist
 100,50000,2021,S,SE,FR,US,Research Scientist
+100,40189,2021,M,MI,GR,GR,other
 0,12901,2021,S,MI,BR,BR,Data Scientist
 0,165000,2021,M,SE,US,US,Data Engineer
+0,5882,2021,L,EN,IN,other,Big Data Engineer
 50,42197,2019,S,MI,FR,FR,Data Scientist
+100,185000,2021,L,SE,US,US,other
 50,62726,2019,S,EN,DE,DE,Data Scientist
 50,90734,2021,L,MI,DE,DE,Data Scientist
+50,21669,2019,S,EN,other,other,Data Scientist
 100,110000,2019,L,MI,US,US,Data Engineer
 100,140000,2021,L,SE,US,US,Data Analytics Manager
-50,119999,2019,L,SE,US,US,Data Scientist
+50,120000,2019,L,SE,US,US,Data Scientist
 100,87738,2021,S,SE,CA,CA,Data Scientist
+50,61896,2021,L,SE,GB,GB,other
+50,12000,2021,M,MI,other,other,Machine Learning Scientist
+50,76833,2021,S,SE,other,GB,Data Engineer
+50,74000,2021,S,MI,other,other,ML Engineer
 100,152000,2021,L,SE,US,FR,Data Science Manager
-50,129999,2021,L,MI,US,US,Data Scientist
+0,18000,2021,S,MI,other,other,Big Data Engineer
+100,60000,2019,S,SE,other,US,Computer Vision Engineer
+50,130000,2021,L,MI,US,US,Data Scientist
 0,18907,2021,M,SE,BR,BR,Computer Vision Engineer
+100,59101,2021,L,EN,other,other,Business Data Analyst
+100,173762,2021,M,SE,DE,DE,other
+100,148261,2019,M,SE,DE,DE,other
 100,38776,2019,M,MI,ES,ES,Data Scientist
 100,46809,2021,M,MI,ES,ES,Data Scientist
-50,114999,2021,L,MI,US,US,Data Scientist
+100,18053,2021,S,EN,IN,other,AI Scientist
+0,91237,2019,S,SE,other,other,Data Scientist
+50,62726,2019,S,MI,FR,other,Data Scientist
+50,115000,2021,L,MI,US,US,Data Scientist
+100,235000,2021,L,SE,US,US,other
+100,19609,2021,L,MI,IN,IN,other
 100,12000,2021,S,EN,BR,US,AI Scientist
 0,75000,2021,L,MI,US,US,Data Analyst
-0,61999,2021,L,MI,US,US,Data Analyst
+0,62000,2021,L,MI,US,US,Data Analyst
 0,73000,2021,L,MI,US,US,Data Scientist
 100,45391,2021,L,MI,NL,NL,Data Engineer
 100,190200,2019,M,SE,US,US,Data Science Manager
-100,117999,2019,M,MI,US,US,Data Scientist
+100,118000,2019,M,MI,US,US,Data Scientist
 100,138350,2019,M,MI,US,US,Data Scientist
 100,130800,2019,M,MI,ES,US,Data Engineer
+100,45618,2019,S,SE,other,other,ML Engineer
+0,168000,2021,S,SE,other,other,Director of Data Science
+100,119058,2021,M,MI,other,other,Data Scientist
 50,423000,2021,L,MI,US,US,Applied Machine Learning Scientist
+50,28369,2021,L,MI,other,other,Data Engineer
 100,165000,2021,L,SE,US,US,Data Specialist
 100,412000,2019,L,SE,US,US,Data Scientist
+100,151000,2021,L,MI,US,US,other
 100,105000,2019,S,EN,US,US,Data Scientist
 100,100000,2019,L,EN,US,US,Business Data Analyst
 50,94665,2021,L,SE,IN,IN,Data Science Manager

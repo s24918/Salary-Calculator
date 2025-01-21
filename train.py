@@ -29,7 +29,7 @@ params = {
     'extra_trees': True
 }
 
-model = lgb.train(params, train_data)
+model = lgb.train(params, train_data, feature_name=list(X_train.columns), categorical_feature=categorical)
 
 # evaluate the model
 y_pred = model.predict(X_test)
@@ -63,3 +63,44 @@ plt.tight_layout()
 plt.savefig('visualizations/actual_vs_predicted.png')
 
 model.save_model('model/model.pkl')
+
+
+# test with different job_title_values
+# print(X_test.info())
+# print(X_test.head())
+# X_jobtest = X_test.copy()
+# X_jobtest = X_jobtest.head(1).reset_index(drop=True)
+# job_title  experience_level  employee_residence  remote_ratio  company_location  company_size  work_year
+#21                 3                   4           0.0                 4             2   1.666667
+# first_row = {
+#     'job_title': 21,
+#     'experience_level': 3,
+#     'employee_residence': 4,
+#     'remote_ratio': 0.0,
+#     'company_location': 4,
+#     'company_size': 2,
+#     'work_year': 1.666667
+#  }
+# first_row = {'job_title': ['ML Engineer'], 'experience_level': ['SE'], 'employee_residence': ['ES'], 'remote_ratio': [0], 'company_location': ['ES'], 'company_size': ['S']}
+
+# X_jobtest = pd.DataFrame(first_row, index=[0])
+# X_jobtest['work_year'] = 2025
+# X_jobtest = preprocess_data(X_jobtest)
+# X_jobtest.loc[1] = X_jobtest.loc[0]
+# X_jobtest.loc[0, 'job_title'] = 1
+# X_jobtest.loc[1, 'job_title'] = 5
+# print(X_jobtest.head())
+
+# predicted_jobtest = model.predict(X_jobtest, validate_features=True)
+# print(f"predicted_jobtest: {predicted_jobtest}")
+
+# first1_row = first_row.copy()
+# first1_row['job_title'] = ['Data Scientist']
+# X_jobtest1 = pd.DataFrame(first1_row, index=[0])
+# X_jobtest1['work_year'] = 2025
+# X_jobtest1 = preprocess_data(X_jobtest1)
+# print(X_jobtest1.head())
+
+# predicted_jobtest1 = model.predict(X_jobtest1)
+# print(f"predicted_jobtest1: {predicted_jobtest1}")
+

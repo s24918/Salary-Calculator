@@ -6,6 +6,7 @@ import pickle
 from datetime import datetime
 import pycountry
 
+model = lgb.Booster(model_file='model/model.pkl')
 
 def country_code_to_name(code):
     try:
@@ -28,6 +29,8 @@ def get_column_values(column_name):
         raise FileNotFoundError("Model files not found. Please train the model first. (run train.py)")
 
     values = df[column_name].unique()
+    # move 'other' to the end
+    values = sorted(values, key=lambda x: x == "other")
     return values
 
 
@@ -88,11 +91,10 @@ def main():
                     "company_location": [company_location.split(" ")[0]],
                     "company_size": [company_size[0].upper()]
                 }
-                input_df = pd.DataFrame(input_data)
+                input_df = pd.DataFrame(input_data, index=[0])
                 input_df['work_year'] = datetime.now().year
                 input_df = preprocess_data(input_df)
                 #predict the salary
-                model = lgb.Booster(model_file='model/model.pkl')
                 prediction = model.predict(input_df)[0]
                 prediction = decode_labels_and_scalers(prediction)
                 st.success(f"The predicted salary is: {int(prediction[0])} USD")
