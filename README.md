@@ -36,8 +36,6 @@ We selected the following attributes to predict salaries effectively:
 To streamline the dataset, we removed these columns:
 - `salary`
 - `salary_currency`
-- `employee_residence`
-- `remote_ratio`
 - `employment_type`
 
 ## Research jupiter: https://colab.research.google.com/drive/1mIyVmtc3XKCYgpXhdIiblxZ0Ww_HxWtR?usp=sharing#scrollTo=QquoUfNhbFbY
