@@ -36,7 +36,7 @@ We selected the following attributes to predict salaries effectively:
 To streamline the dataset, we removed these columns:
 - `salary`
 - `salary_currency`
-- `employment_type`
+- `salary_in_usd`
 
 ## Research jupiter: https://colab.research.google.com/drive/1mIyVmtc3XKCYgpXhdIiblxZ0Ww_HxWtR?usp=sharing#scrollTo=QquoUfNhbFbY
 
